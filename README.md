@@ -1,6 +1,7 @@
-# React + Vite
+# ILLUMNITS Website 2023
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Follow the figma file for design related work
+https://www.figma.com/file/hUnXg98v3JOQRL6uT0qwOu/Illuminits?type=design&node-id=7-8&mode=design&t=ntN9OTv6TZbs10Jg-0
 
 Currently, two official plugins are available:
 
