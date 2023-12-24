@@ -61,14 +61,11 @@ const Hero = () => {
       </div>
       <div className="LPFA">LPFA</div>
       <div className="social-handles">
-        <a className="icon" href="" target="_blank">
+        <a className="icon" rel="noreferrer" href="https://www.facebook.com/Illuminits?mibextid=kFxxJD" target="_blank">
           <Icon width="32" color="white" icon="et:facebook" />
         </a>
-        <a className="icon" href="" target="_blank">
+        <a className="icon" rel="noreferrer" href="https://www.instagram.com/illuminits?igsh=YTQwZjQ0NmI0OA==" target="_blank">
           <Icon width="32" color="white" icon="fe:instagram" />
-        </a>
-        <a className="icon" href="" target="_blank">
-          <Icon width="32" color="white" icon="basil:linkedin-solid" />
         </a>
       </div>
     </div>

@@ -125,6 +125,10 @@ ul{
     .title{
       font-size: 3.8vw;
     }
+    .social-handles{
+      right:50%;
+      transform: translateX(50%);
+    }
   }
 
   @media screen and (max-width : 730px) {
@@ -140,34 +144,45 @@ ul{
     .LPFA{
       letter-spacing: 0.7rem;
     }
+    ul{
+      font-size: 1rem;
+    }
   }
 
-  @media screen and (max-width : 480px) {
-    .title{
-      font-size: 4vw;
-    }
+  @media screen and (max-width : 600px) {
     .LPFA{
       display: none;
     }
     .Hero{
       justify-content: center;
     }
+    .carousel{
+      width: 70vw;
+    }
+    
+  }
+
+  @media screen and (max-width : 480px) {
+    .title{
+      font-size: 5vw;
+    }
+    
   }
   @media screen and (max-width : 440px) {
     .title{
-      font-size: 5vw;
+      /* font-size: 5vw; */
       letter-spacing: 2.3px;
     }
   }
   @media screen and (max-width : 400px) {
     .title{
-      font-size: 6vw;
+      /* font-size: 5vw; */
       letter-spacing: 2.2px;
     }
   }
   @media screen and (max-width : 375px) {
     .title{
-      font-size: 7vw;
+      /* font-size: 7vw; */
       letter-spacing: 2.2px;
     }
   }
