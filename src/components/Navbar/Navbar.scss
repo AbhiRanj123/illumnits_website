@@ -6,7 +6,7 @@
     top:0;
     justify-content: space-between;
     align-items: center;
-    padding-inline: 10%;
+    padding-inline: 5%;
     z-index: 99;
     // margin-top: 10px;
 }
@@ -63,10 +63,10 @@ a{
     }
     .active-links{
         right: 0;
-        background-color: white;
+        background-color: rgb(207, 205, 205);
 
         a{
-            color: black;
+            color: rgb(143, 119, 119);
         }
     }
     .hamburg-icon{
