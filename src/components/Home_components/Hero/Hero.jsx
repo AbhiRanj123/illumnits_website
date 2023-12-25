@@ -1,19 +1,17 @@
+import {Swiper, SwiperSlide} from "swiper/react";
+import {Pagination, Autoplay} from "swiper/modules";
 
-import { Swiper, SwiperSlide } from 'swiper/react';
-import { Pagination, Autoplay } from 'swiper/modules';
-
-import { Icon } from '@iconify/react';
-import data from '../../../data/carousel.json';
-
+import {Icon} from "@iconify/react";
+import data from "../../../data/carousel.json";
 
 // import heroBackground from "../../../assets/images/Hero_bg.svg";
 
-import './Hero.css';
-import 'swiper/css';
-import 'swiper/css/navigation';
-import 'swiper/css/pagination';
-import 'swiper/css/scrollbar';
-import 'swiper/css/autoplay';
+import "./Hero.css";
+import "swiper/css";
+import "swiper/css/navigation";
+import "swiper/css/pagination";
+import "swiper/css/scrollbar";
+import "swiper/css/autoplay";
 
 function Hero() {
   return (
@@ -27,10 +25,10 @@ function Hero() {
         <div className="carousel">
           <Swiper
             style={{
-              '--swiper-pagination-bullet-inactive-color': '#ffffff',
-              '--swiper-pagination-bullet-inactive-opacity': '1',
-              '--swiper-pagination-bullet-size': '10px',
-              '--swiper-pagination-bullet-horizontal-gap': '6px',
+              "--swiper-pagination-bullet-inactive-color": "#ffffff",
+              "--swiper-pagination-bullet-inactive-opacity": "1",
+              "--swiper-pagination-bullet-size": "10px",
+              "--swiper-pagination-bullet-horizontal-gap": "6px",
             }}
             pagination={{
               dynamicBullets: true,
@@ -61,10 +59,22 @@ function Hero() {
       </div>
       <div className="LPFA">LPFA</div>
       <div className="social-handles">
-        <a className="icon" rel="noreferrer" href="https://www.facebook.com/Illuminits?mibextid=kFxxJD" target="_blank" aria-label="Facebook">
+        <a
+          className="icon"
+          rel="noreferrer"
+          href="https://www.facebook.com/Illuminits?mibextid=kFxxJD"
+          target="_blank"
+          aria-label="Facebook"
+        >
           <Icon width="32" color="white" icon="et:facebook" />
         </a>
-        <a className="icon" rel="noreferrer" href="https://www.instagram.com/illuminits?igsh=YTQwZjQ0NmI0OA==" target="_blank" aria-label="Instagram">
+        <a
+          className="icon"
+          rel="noreferrer"
+          href="https://www.instagram.com/illuminits?igsh=YTQwZjQ0NmI0OA=="
+          target="_blank"
+          aria-label="Instagram"
+        >
           <Icon width="32" color="white" icon="fe:instagram" />
         </a>
       </div>

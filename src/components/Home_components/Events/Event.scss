@@ -1,42 +1,43 @@
 .timeline-icon {
-  background-color: black;
-  box-shadow: 0 0 0 2px #785140;
+	background-color: black;
+	box-shadow: 0 0 0 2px #785140;
 }
-.timeline-text{
-    box-shadow: 0 2px  #785140;
-    background-color: transparent;
+.timeline-text {
+	box-shadow: 0 2px #785140;
+	background-color: transparent;
+	animation-duration: 2s;
 
-    p{
-        text-align: justify;
-    }
+	p {
+		text-align: justify;
+	}
 }
-.events{
-    // background-color: black;
-    color: white;
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-    gap: 2rem;
-    justify-content: center;
-    align-items: center;
-    background-image: url(https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/xujx2ydjx5bwaqnrvzqs);
-    background-attachment: fixed;
-    backdrop-filter: invert(1);
+.events {
+	// background-color: black;
+	color: white;
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	gap: 2rem;
+	justify-content: center;
+	align-items: center;
+	background-image: url(https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/xujx2ydjx5bwaqnrvzqs);
+	background-attachment: fixed;
+	backdrop-filter: invert(1);
 }
-.event-intro{
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
-    width: 80%;
-    align-items: center;
-    margin-block: 2rem;
+.event-intro {
+	display: flex;
+	flex-direction: column;
+	gap: 1rem;
+	width: 80%;
+	align-items: center;
+	margin-block: 2rem;
 }
 
-h2{
-    display: flex;
-    font-size: 3rem;
-    margin-bottom: 1rem;
-    color: #785140;
-    font-weight: 600;
-    width: fit-content;
+h2 {
+	display: flex;
+	font-size: 3rem;
+	margin-bottom: 1rem;
+	color: #785140;
+	font-weight: 600;
+	width: fit-content;
 }

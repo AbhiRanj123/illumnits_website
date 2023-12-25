@@ -1,10 +1,10 @@
-import { NavLink, useLocation } from 'react-router-dom';
-import { useEffect, useState } from 'react';
-import { GiHamburgerMenu } from 'react-icons/gi';
-import { ImCross } from 'react-icons/im';
-import logo from '../../assets/images/logo.svg';
+import {NavLink, useLocation} from "react-router-dom";
+import {useEffect, useState} from "react";
+import {GiHamburgerMenu} from "react-icons/gi";
+import {ImCross} from "react-icons/im";
+import logo from "../../assets/images/logo.svg";
 
-import './Navbar.scss';
+import "./Navbar.scss";
 
 function Navbar() {
   const [scroll, setScroll] = useState(false);
@@ -22,7 +22,7 @@ function Navbar() {
   const location = useLocation();
 
   useEffect(() => {
-    window.addEventListener('resize', () => {
+    window.addEventListener("resize", () => {
       setWinWidth(window.innerWidth);
       // setWinHeight(window.innerHeight);
     });
@@ -31,14 +31,14 @@ function Navbar() {
   }, [location]);
 
   useEffect(() => {
-    window.addEventListener('scroll', changeBackground);
+    window.addEventListener("scroll", changeBackground);
     // console.log(scroll)
   }, [scroll]);
 
   // console.log(document.body.scrollTop)
 
   return (
-    <div className={`Navbar ${scroll ? 'scrolled-navbar' : ''}`}>
+    <div className={`Navbar ${scroll ? "scrolled-navbar" : ""}`}>
       <img className="logo" src={logo} alt="logo" />
 
       {winWidth < 900 ? (
@@ -56,10 +56,10 @@ function Navbar() {
           {!hamburg ? <GiHamburgerMenu /> : <ImCross />}
         </div>
       ) : (
-        ''
+        ""
       )}
 
-      <div className={`links ${hamburg ? 'active-links' : ''}`}>
+      <div className={`links ${hamburg ? "active-links" : ""}`}>
         <NavLink onClick={() => setHamburg(false)} to="/">
           Home
         </NavLink>

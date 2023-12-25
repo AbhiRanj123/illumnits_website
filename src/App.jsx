@@ -1,8 +1,8 @@
-import './App.css';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import Home from './pages/Home/Home.jsx';
-import Navbar from './components/Navbar/Navbar.jsx';
-import NotFound from './pages/404/Not_found.jsx';
+import "./App.css";
+import {BrowserRouter, Routes, Route} from "react-router-dom";
+import Home from "./pages/Home/Home.jsx";
+import Navbar from "./components/Navbar/Navbar.jsx";
+import NotFound from "./pages/404/Not_found.jsx";
 
 function App() {
   return (
