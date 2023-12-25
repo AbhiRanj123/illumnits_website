@@ -4,8 +4,8 @@ const About = () => {
   return (
     <div className="About">
         <div className="container">
-      <h2>About Illuminites</h2>
-      <h3>The Literary, Publication and Fine Arts Society of NIT Silchar</h3>
+      <h2>About ILLUMNITS</h2>
+      <h3>Literary, Publication and Fine Arts Society of NIT Silchar</h3>
       <p>
         Illuminites is the official Literary, Publication and Fine Arts Society
         of NIT Silchar. It is a student body which aims to promote and nurture
@@ -20,7 +20,7 @@ const About = () => {
         “The Alchemist”.
       </p>
 
-      <h3>Mission of Illuminits</h3>
+      <h3>Mission of ILLUMNITS</h3>
       <p>
         Illuminites is the official Literary, Publication and Fine Arts Society
         of NIT Silchar. It is a student body which aims to promote and nurture

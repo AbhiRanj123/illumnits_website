@@ -22,7 +22,7 @@ const Hero = () => {
       </div>
       <div className="carousel-box">
         <div className="title">
-          <span className="title-Illumi">ILLUMI</span>NTS
+          <span className="title-Illumi">ILLUMI</span>NITS
         </div>
         <div className="carousel">
           <Swiper

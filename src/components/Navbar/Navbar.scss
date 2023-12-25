@@ -6,7 +6,7 @@
     top:0;
     justify-content: space-between;
     align-items: center;
-    padding-inline: 10%;
+    padding-inline: 5%;
     z-index: 99;
     // margin-top: 10px;
 }
@@ -60,19 +60,6 @@ a{
         align-items: center;
         justify-content: space-evenly;
         transition: all 0.5s ease-in-out;
-        overflow: hidden;
-        background-color: white;
-        a{
-            color: black;
-            font-size: 0.1rem;
-            transition: all 0.5s ease-in-out;
-        }
-    }
-    .active-links{
-        height: 50vh;
-        width:100vw;
-        a{
-            font-size: 1.5rem;
         }
     }
     .hamburg-icon{
