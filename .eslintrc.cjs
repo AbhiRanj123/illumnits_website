@@ -1,12 +1,29 @@
 module.exports = {
-  root: true,
-  env: { browser: true, es2020: true },
+  root:true,
+  env: {
+    browser: true,
+    es2021: true,
+  },
   extends: [
+    'airbnb',
     'eslint:recommended',
     'plugin:react/recommended',
     'plugin:react/jsx-runtime',
-    'plugin:react-hooks/recommended',
+    'plugin:react-hooks/recommended'
   ],
+  // overrides: [
+  //   {
+  //     env: {
+  //       node: true,
+  //     },
+  //     files: [
+  //       '.eslintrc.{js,cjs}',
+  //     ],
+  //     parserOptions: {
+  //       sourceType: 'script',
+  //     },
+  //   },
+  // ],
   ignorePatterns: ['dist', '.eslintrc.cjs'],
   parserOptions: { ecmaVersion: 'latest', sourceType: 'module' },
   settings: { react: { version: '18.2' } },
@@ -17,4 +34,4 @@ module.exports = {
       { allowConstantExport: true },
     ],
   },
-}
+};
