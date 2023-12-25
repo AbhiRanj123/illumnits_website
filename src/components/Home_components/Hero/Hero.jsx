@@ -1,8 +1,10 @@
+
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Pagination, Autoplay } from 'swiper/modules';
 
 import { Icon } from '@iconify/react';
 import data from '../../../data/carousel.json';
+
 
 // import heroBackground from "../../../assets/images/Hero_bg.svg";
 
