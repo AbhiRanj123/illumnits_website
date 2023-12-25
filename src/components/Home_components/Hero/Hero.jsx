@@ -3,7 +3,6 @@ import { Pagination } from "swiper/modules";
 import { Autoplay } from "swiper/modules";
 import data from "../../../data/carousel.json";
 import { Icon } from "@iconify/react";
-
 import heroBackground from "../../../assets/images/Hero_bg.svg";
 
 import "./Hero.css";
