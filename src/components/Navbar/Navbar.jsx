@@ -1,12 +1,12 @@
-import { NavLink, useLocation } from "react-router-dom";
-import logo from "../../assets/images/logo.svg";
-import { useEffect, useState } from "react";
-import { GiHamburgerMenu } from "react-icons/gi";
-import { ImCross } from "react-icons/im";
+import { NavLink, useLocation } from 'react-router-dom';
+import { useEffect, useState } from 'react';
+import { GiHamburgerMenu } from 'react-icons/gi';
+import { ImCross } from 'react-icons/im';
+import logo from '../../assets/images/logo.svg';
 
-import "./Navbar.scss";
+import './Navbar.scss';
 
-const Navbar = () => {
+function Navbar() {
   const [scroll, setScroll] = useState(false);
   const changeBackground = () => {
     if (window.scrollY >= 80) {
@@ -22,7 +22,7 @@ const Navbar = () => {
   const location = useLocation();
 
   useEffect(() => {
-    window.addEventListener("resize", () => {
+    window.addEventListener('resize', () => {
       setWinWidth(window.innerWidth);
       // setWinHeight(window.innerHeight);
     });
@@ -31,30 +31,35 @@ const Navbar = () => {
   }, [location]);
 
   useEffect(() => {
-    window.addEventListener("scroll", changeBackground);
+    window.addEventListener('scroll', changeBackground);
     // console.log(scroll)
   }, [scroll]);
 
   // console.log(document.body.scrollTop)
 
   return (
-    <div className={`Navbar ${scroll ? "scrolled-navbar" : ""}`}>
+    <div className={`Navbar ${scroll ? 'scrolled-navbar' : ''}`}>
       <img className="logo" src={logo} alt="logo" />
 
       {winWidth < 900 ? (
         <div
           className="hamburg-icon"
+          role="button"
+          tabIndex={0}
           onClick={() => {
-            setHamburg(hamburg ? false : true);
+            setHamburg(!hamburg);
+          }}
+          onKeyDown={() => {
+            setHamburg(!hamburg);
           }}
         >
           {!hamburg ? <GiHamburgerMenu /> : <ImCross />}
         </div>
       ) : (
-        ""
+        ''
       )}
 
-      <div className={`links ${hamburg ? "active-links" : ""}`}>
+      <div className={`links ${hamburg ? 'active-links' : ''}`}>
         <NavLink onClick={() => setHamburg(false)} to="/">
           Home
         </NavLink>
@@ -73,6 +78,6 @@ const Navbar = () => {
       </div>
     </div>
   );
-};
+}
 
 export default Navbar;

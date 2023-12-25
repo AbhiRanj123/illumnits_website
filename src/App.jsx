@@ -1,19 +1,16 @@
-import "./App.css";
-import Home from "./pages/Home/Home.jsx";
-import Navbar from "./components/Navbar/Navbar.jsx";
-import { BrowserRouter, Routes , Route } from "react-router-dom";
-import Not_Found from "./pages/404/Not_found.jsx";
+import './App.css';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import Home from './pages/Home/Home.jsx';
+import Navbar from './components/Navbar/Navbar.jsx';
+import NotFound from './pages/404/Not_found.jsx';
 
 function App() {
-
-  
-
   return (
     <BrowserRouter>
       <Navbar />
       <Routes>
-       <Route path="/" element={<Home />} />
-       <Route path="*" element={<Not_Found/>} />
+        <Route path="/" element={<Home />} />
+        <Route path="*" element={<NotFound />} />
       </Routes>
       {/* <div className="slider"></div> */}
     </BrowserRouter>
