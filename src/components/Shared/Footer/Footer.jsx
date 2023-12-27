@@ -1,6 +1,7 @@
 // import React from 'react';
 import styles from "./Footer.module.scss";
 import {Icon} from "@iconify/react";
+import {Link} from "react-router-dom";
 
 const Footer = () => {
   return (
@@ -31,10 +32,42 @@ const Footer = () => {
           </div>
         </div>
       </div>
-      <div>
+      <div className={styles.divsecond}>
+        <div className={styles.illuminitesLogo}>
+          <img
+            src="https://imgv3.fotor.com/images/gallery/Cartoon-Male-Headshot.jpg"
+            alt=""
+          />
+        </div>
+        <div className={styles.heading}>
+          <p>ILLUMINITS</p>
+        </div>
         <div></div>
       </div>
-      <div></div>
+      <div className={styles.divthird}>
+        <h3>Sitemap</h3>
+        <Link to="/">
+          <div className={styles.pages}>Home</div>
+        </Link>
+        <Link to="/about">
+          <div className={styles.pages}>About</div>
+        </Link>
+        <Link to="/events">
+          <div className={styles.pages}>Events</div>
+        </Link>
+        <Link to="/gallery">
+          <div className={styles.pages}>Gallery</div>
+        </Link>
+        <Link to="/teams">
+          <div className={styles.pages}>Teams</div>
+        </Link>
+        <Link to="/contact">
+          <div className={styles.pages}>Contacts</div>
+        </Link>
+        <Link to="/clubs">
+          <div className={styles.pages}>Clubs</div>
+        </Link>
+      </div>
     </div>
   );
 };

@@ -1,71 +1,113 @@
 .FooterDiv {
   width: 100%;
   min-height: 25rem;
-  background: url(https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/nulme1ylswy3ck7qrhjo) , lightgray 0px -276px / 100% 217.907% no-repeat;
+  background:
+    url(https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/nulme1ylswy3ck7qrhjo),
+    lightgray 0px -276px / 100% 217.907% no-repeat;
   background-size: cover;
   background-position: center;
   filter: brightness(70%);
   // color: white;
   text-align: center;
-  opacity: 0.8;
+  backdrop-filter: invert(7);
+//   opacity: 0.8;
   display: flex;
   justify-content: center;
   align-items: center;
   // background-color: #6c5a5a;
 
-  .divfirst{
+  .divfirst {
+    margin: 4rem;
     width: 20%;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
 
-    .div1{
-        display: flex;
-        justify-content: center;
-        align-items: center;
+    .div1 {
+      display: flex;
+      justify-content: center;
+      align-items: center;
 
-        .address{
-            display: flex;
-            flex-wrap: wrap;
-    
-            p{
-                font-weight: 500;
-                color: #fff;
-            }
+      .address {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: flex-end;
+
+        p {
+          font-weight: 500;
+          color: #fff;
         }
+      }
     }
 
-    .div2{
-        display: flex;
-        justify-content: center;
-        align-items: center;
+    .div2 {
+      display: flex;
+      justify-content: center;
+      align-items: center;
 
-        .address{
-            display: flex;
-            flex-wrap: wrap;
-    
-            p{
-                font-weight: 500;
-                color: #fff;
-            }
+      .address {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: flex-end;
+
+
+        p {
+          font-weight: 500;
+          color: #fff;
         }
+      }
     }
 
-    .div3{
-        display: flex;
-        justify-content: center;
-        align-items: center;
+    .div3 {
+      display: flex;
+      justify-content: center;
+      align-items: center;
 
-        .address{
-            display: flex;
-            flex-wrap: wrap;
-    
-            p{
-                font-weight: 500;
-                color: #fff;
-            }
+      .address {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: flex-end;
+
+
+        p {
+          font-weight: 500;
+          color: #fff;
         }
+      }
+    }
+  }
+
+  .divsecond {
+    margin: 4rem;
+    display: flex;
+    flex-direction: column;
+
+    .illuminitesLogo {
+      img {
+        height: 7rem;
+        width: 7rem;
+      }
+    }
+
+    .heading {
+      p {
+        color: #fff;
+        font-weight: 600;
+      }
+    }
+  }
+
+  .divthird {
+    margin: 4rem;
+
+    h3 {
+      color: #fff;
+    }
+
+    .pages{
+        color: #fff;
+        font-weight: 400;
     }
   }
 }
