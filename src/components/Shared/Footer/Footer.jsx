@@ -42,7 +42,17 @@ const Footer = () => {
         <div className={styles.heading}>
           <p>ILLUMINITS</p>
         </div>
-        <div></div>
+        <div className={styles.socialmedia}>
+          <div>
+            <Icon icon="gg:facebook" color="white" width="2rem" />
+          </div>
+          <div>
+            <Icon icon="mdi:instagram" color="white" width="2rem" />
+          </div>
+          <div>
+            <Icon icon="ri:linkedin-fill" color="white" width="2rem" />
+          </div>
+        </div>
       </div>
       <div className={styles.divthird}>
         <h3>Sitemap</h3>
