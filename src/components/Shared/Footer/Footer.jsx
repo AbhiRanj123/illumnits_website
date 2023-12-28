@@ -71,9 +71,6 @@ const Footer = () => {
         <Link to="/teams">
           <div className={styles.pages}>Teams</div>
         </Link>
-        <Link to="/contact">
-          <div className={styles.pages}>Contacts</div>
-        </Link>
         <Link to="/clubs">
           <div className={styles.pages}>Clubs</div>
         </Link>

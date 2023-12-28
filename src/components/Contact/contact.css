@@ -42,13 +42,13 @@
   button {
     display: flex;
     align-items: center;
-    width: 10vw;
+    width: 8vw;
     height: 5vh;
     justify-content: center;
     align-items: center;
     background-color: #785140;
     color: white;
-    border-radius: 2vw;
+    border-radius: 0.5vw;
     cursor: pointer;
     transition: all 0.3s ease-in-out;
     &:hover {
