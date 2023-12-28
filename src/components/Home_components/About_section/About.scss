@@ -5,7 +5,13 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background-color: black;
+	/* background-color: black; */
+	background: url(https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/w0k0wittyau4qrmkilko) ;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	backdrop-filter: invert(1);
 	color: white;
 	flex-direction: column;
 	padding: 2rem;
@@ -18,17 +24,23 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background-color: black;
+	/* background-color: black; */
 	color: white;
 	flex-direction: column;
 	gap: 2rem;
 }
 
-h2 {
+.about-title {
 	font-size: 3rem;
 	margin-bottom: 1rem;
 	color: #785140;
 	font-weight: 600;
+	@media screen and (max-width: 900px) {
+		font-size: 2rem;
+	}
+	@media screen and (max-width: 480px) {
+		font-size: 1.5rem;
+	}
 }
 h3 {
 	font-size: 2rem;
