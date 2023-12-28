@@ -71,49 +71,6 @@ const Footer = () => {
           </div>
         </div>
       </div>
-      <div className={styles.divsecond}>
-        <div className={styles.illuminitesLogo}>
-          <img
-            src="https://imgv3.fotor.com/images/gallery/Cartoon-Male-Headshot.jpg"
-            alt=""
-          />
-        </div>
-        <div className={styles.heading}>
-          <p>ILLUMINITS</p>
-        </div>
-        <div className={styles.socialmedia}>
-          <div>
-            <Icon icon="gg:facebook" color="white" width="2rem" />
-          </div>
-          <div>
-            <Icon icon="mdi:instagram" color="white" width="2rem" />
-          </div>
-          <div>
-            <Icon icon="ri:linkedin-fill" color="white" width="2rem" />
-          </div>
-        </div>
-      </div>
-      <div className={styles.divthird}>
-        <h3>Sitemap</h3>
-        <Link to="/">
-          <div className={styles.pages}>Home</div>
-        </Link>
-        <Link to="/about">
-          <div className={styles.pages}>About</div>
-        </Link>
-        <Link to="/events">
-          <div className={styles.pages}>Events</div>
-        </Link>
-        <Link to="/gallery">
-          <div className={styles.pages}>Gallery</div>
-        </Link>
-        <Link to="/teams">
-          <div className={styles.pages}>Teams</div>
-        </Link>
-        <Link to="/clubs">
-          <div className={styles.pages}>Clubs</div>
-        </Link>
-      </div>
     </div>
   );
 };
