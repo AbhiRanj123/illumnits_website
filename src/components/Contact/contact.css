@@ -6,9 +6,12 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  background:url(D:\react\illumnits_website\src\assets\images\bi.png);
+  background:url(../../assets/images/bi.png);
+  background-size: cover;
+  background-repeat: no-repeat;
   backdrop-filter: invert(1);
   gap: 2rem;
+  color: #ffffff;
 
   p {
     color: white;
@@ -29,16 +32,21 @@
     font-size: 1.5vw;
     background: transparent;
     border-bottom: solid 1px white;
+    color: #785140;
+    transition: all 0.3s ease-in-out;
+    overflow: hidden;
+
+    &:focus {
+      outline: none;
+      border-bottom: solid 2px #785140;
+    }
   }
-  input placeholder{
-    color: #ffffff;
-  }
+
+
   ::placeholder{
     color: #ffffff;
   }
-  .container{
-    background: none;
-  }
+
   button {
     display: flex;
     align-items: center;

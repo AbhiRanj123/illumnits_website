@@ -7,15 +7,15 @@ const Contact = () => {
       <h2>Contact Us</h2>
       <p>Feel free to contact us at anytime. We will get back to you as soon as we can</p>
       <form action="" className="container">
-        <input type="text" placeholder="Name"  />
-        <input type="text" placeholder="Email"  />
-        <input type="text" placeholder="Phone(optional)"  />
-        <input type="text" placeholder=' Your Message'/>
-        <input type="text" />
-      </form>
-      <button>
+        <input autoComplete='off' required type="text" placeholder="Name"  />
+        <input autoComplete='off' required type="text" placeholder="Email"  />
+        <input autoComplete='off'  type="text" placeholder="Phone(optional)"  />
+        <input autoComplete='off' required type="text" placeholder=' Your Message' />
+        <button type='submit' >
         Send
       </button>
+      </form>
+      
     </div>
   );
 };
