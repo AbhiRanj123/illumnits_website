@@ -1,119 +1,102 @@
-.FooterDiv {
-  width: 100%;
-  min-height: 25rem;
-  background:
-    url(https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/nulme1ylswy3ck7qrhjo),
-    lightgray 0px -276px / 100% 217.907% no-repeat;
+.footer {
+  background-image: url(https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/nulme1ylswy3ck7qrhjo);
   background-size: cover;
   background-position: center;
-  filter: brightness(70%);
-  // color: white;
-  text-align: center;
-  backdrop-filter: invert(7);
-//   opacity: 0.8;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  // background-color: #6c5a5a;
+  background-repeat: no-repeat;
+}
 
-  .divfirst {
-    margin: 4rem;
-    width: 20%;
+.footerContainer {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 100%;
+  // padding: 10Vh 10vw;
+  padding-block: 10vh;
+  background-color: #0202028a;
+  color: #fff;
+
+  @media screen and (max-width: 600px) {
+    flex-direction: column;
+    justify-content: center;
+    gap: 2rem;
+  }
+
+  a {
+    color: #fff;
+    transition: all 0.3s ease-in-out;
+
+    &:hover {
+      color: #785140;
+    }
+
+    @media screen and (max-width: 900px) {
+      font-size: 1rem;
+    }
+  }
+
+  .infoBox {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: flex-start;
+    width: 25vw;
+    gap: 1rem;
 
-    .div1 {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-
-      .address {
-        display: flex;
-        flex-wrap: wrap;
-        align-items: flex-end;
-
-        p {
-          font-weight: 500;
-          color: #fff;
-        }
-      }
+    @media screen and (max-width: 600px) {
+      width: fit-content;
     }
 
-    .div2 {
+    .info {
       display: flex;
-      justify-content: center;
+      justify-content: space-evenly;
       align-items: center;
-
-      .address {
-        display: flex;
-        flex-wrap: wrap;
-        align-items: flex-end;
-
-
-        p {
-          font-weight: 500;
-          color: #fff;
-        }
+      gap: 0.5rem;
+      .content {
+        width: 80%;
       }
-    }
-
-    .div3 {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-
-      .address {
-        display: flex;
-        flex-wrap: wrap;
-        align-items: flex-end;
-
-
-        p {
-          font-weight: 500;
-          color: #fff;
-        }
+      .icon {
+        width: fit-content;
+        // border: red solid 1px;
       }
     }
   }
 
-  .divsecond {
-    margin: 4rem;
+  .social {
     display: flex;
     flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 25vw;
+    gap: 1rem;
 
-    .illuminitesLogo {
-      img {
-        height: 7rem;
-        width: 7rem;
+    @media screen and (max-width: 600px) {
+      width: fit-content;
+    }
+
+    h3 {
+      font-size: 3rem;
+      @media screen and (max-width: 900px) {
+        font-size: 2rem;
       }
     }
 
-    .heading {
-      p {
-        color: #fff;
-        font-weight: 600;
+    .icons {
+      display: flex;
+      gap: 1rem;
+      // width: 50%;
+      .icon {
+        min-height: 2.5rem;
       }
-    }
-
-    .socialmedia{
-        display: flex;
-        justify-content: center;
-        align-items: center;
     }
   }
 
-  .divthird {
-    margin: 4rem;
-
-    h3 {
-      color: #fff;
-    }
-
-    .pages{
-        color: #fff;
-        font-weight: 400;
+  .links {
+    width: 25vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    @media screen and (max-width: 600px) {
+      width: fit-content;
     }
   }
 }

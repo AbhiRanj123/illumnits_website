@@ -2,7 +2,7 @@ import {NavLink, useLocation} from "react-router-dom";
 import {useEffect, useState} from "react";
 import {GiHamburgerMenu} from "react-icons/gi";
 import {ImCross} from "react-icons/im";
-import logo from "../../assets/images/logo.svg";
+import logo from "../../../assets/images/logo.svg";
 
 import "./Navbar.scss";
 
