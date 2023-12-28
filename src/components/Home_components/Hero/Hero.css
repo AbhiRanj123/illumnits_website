@@ -56,7 +56,8 @@ ul {
 	justify-content: space-between;
 	align-items: center;
 	margin-top: 1rem;
-	padding: 0;
+	position: relative;
+	z-index: 1;
 }
 
 .social-handles {

@@ -2,7 +2,7 @@ import {NavLink, useLocation} from "react-router-dom";
 import {useEffect, useState} from "react";
 import {GiHamburgerMenu} from "react-icons/gi";
 import {ImCross} from "react-icons/im";
-import logo from "../../assets/images/logo.svg";
+import logo from "../../../assets/images/logo.svg";
 
 import "./Navbar.scss";
 
@@ -38,12 +38,12 @@ function Navbar() {
   // console.log(document.body.scrollTop)
 
   return (
-    <div className={`Navbar ${scroll ? "scrolled-navbar" : ""}`}>
+    <div className={`Navbar ${scroll && !hamburg ? "scrolled-navbar" : ""}`}>
       <img className="logo" src={logo} alt="logo" />
 
       {winWidth < 900 ? (
         <div
-          className="hamburg-icon"
+          className={`hamburg-icon ${hamburg ? "active-ham" : ""}`}
           role="button"
           tabIndex={0}
           onClick={() => {
@@ -59,7 +59,11 @@ function Navbar() {
         ""
       )}
 
-      <div className={`links ${hamburg ? "active-links" : ""}`}>
+      <div
+        className={`links ${hamburg ? "active-links" : ""}  ${
+          hamburg && scroll ? "scrolled-navbar" : ""
+        }`}
+      >
         <NavLink onClick={() => setHamburg(false)} to="/">
           Home
         </NavLink>
