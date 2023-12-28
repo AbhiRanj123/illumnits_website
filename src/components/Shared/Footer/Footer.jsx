@@ -38,7 +38,7 @@ const Footer = () => {
           <img src={logo} alt="" />
 
           <div className={styles.heading}>
-            <h3>Illuminites</h3>
+            <h3>ILLUMNITS</h3>
           </div>
           <div className={styles.icons}>
             <Link
