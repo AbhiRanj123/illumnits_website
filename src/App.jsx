@@ -4,6 +4,7 @@ import Home from "./pages/Home/Home.jsx";
 import Footer from "./components/Shared/Footer/Footer";
 import Navbar from "./components/Navbar/Navbar.jsx";
 import NotFound from "./pages/404/Not_found.jsx";
+import Contact from "./components/Contact/contact.jsx";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="*" element={<NotFound />} />
+        <Route path="/contact" element={<Contact/>}/>
       </Routes>
       <Footer />
       {/* <div className="slider"></div> */}

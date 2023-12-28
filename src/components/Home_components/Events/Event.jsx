@@ -11,7 +11,6 @@ function Events() {
   // console.log(data);
   return (
     <div className="events">
-      {/* <div className="bg"><img src="https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/xujx2ydjx5bwaqnrvzqs" alt="" /></div> */}
       <div className="event-intro">
         <h2>Events</h2>
         <p>
@@ -27,6 +26,7 @@ function Events() {
             className="vertical-timeline-element--work timeline-box"
             iconClassName="timeline-icon"
             textClassName="timeline-text"
+            icon={<>{item.id < 10 ? `0${item.id}` : `${item.id}`}</>}
           >
             <h3 className="vertical-timeline-element-title">{item.name}</h3>
             <p>

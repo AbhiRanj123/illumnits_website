@@ -1,10 +1,10 @@
-import "./About.css";
+import "./About.scss";
 
 function About() {
   return (
     <div className="About">
       <div className="container">
-        <h2>About ILLUMNITS</h2>
+        <h2 className="about-title">About ILLUMNITS</h2>
         <h3>Literary, Publication and Fine Arts Society of NIT Silchar</h3>
         <p>
           Illuminites is the official Literary, Publication and Fine Arts Society of NIT

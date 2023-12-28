@@ -1,6 +1,10 @@
 .timeline-icon {
 	background-color: black;
 	box-shadow: 0 0 0 2px #785140;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 2rem;
 }
 .timeline-text {
 	box-shadow: 0 2px #785140;
@@ -21,23 +25,37 @@
 	justify-content: center;
 	align-items: center;
 	background-image: url(https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/xujx2ydjx5bwaqnrvzqs);
+	background-size: cover;
 	background-attachment: fixed;
 	backdrop-filter: invert(1);
-}
-.event-intro {
-	display: flex;
-	flex-direction: column;
-	gap: 1rem;
-	width: 80%;
-	align-items: center;
-	margin-block: 2rem;
+	.event-intro {
+		display: flex;
+		flex-direction: column;
+		gap: 1rem;
+		width: 80%;
+		align-items: center;
+		margin-block: 2rem;
+	}
+	
+	h2 {
+		display: flex;
+		font-size: 3rem;
+		margin-bottom: 1rem;
+		color: #785140;
+		font-weight: 600;
+		width: fit-content;
+
+		@media screen and (max-width: 768px) {
+			font-size: 2rem;
+			text-align: center;
+		}
+		
+	}
 }
 
-h2 {
-	display: flex;
-	font-size: 3rem;
-	margin-bottom: 1rem;
-	color: #785140;
-	font-weight: 600;
-	width: fit-content;
+
+@media screen and (max-width:1170px) {
+	.timeline-icon{
+		font-size: 1.5rem;
+	}
 }
