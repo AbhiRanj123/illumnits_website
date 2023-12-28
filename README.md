@@ -6,7 +6,7 @@ https://www.figma.com/file/hUnXg98v3JOQRL6uT0qwOu/Illuminits?type=design&node-id
 
 Vercel Deployment Link
 
-https://illumnits-website.vercel.app/
+https://illumnits.vercel.app/
 
 Currently, two official plugins are available:
 
