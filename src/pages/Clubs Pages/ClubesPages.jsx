@@ -6,7 +6,7 @@ const Assamese = () => {
   return (
     <div>
       {clubName && <h2>{clubName} Details:</h2>}
-      {/* Add club-specific content/details here */}
+      Add club-specific content/details here
     </div>
 
   )

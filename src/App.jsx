@@ -6,7 +6,7 @@ import Contact from "./components/Contact/contact.jsx";
 import NotFound from "./pages/404/Not_found.jsx";
 import Footer from "./components/Shared/Footer/Footer.jsx";
 import Clubs from "./pages/Clubs/Clubs.jsx";
-import ClubsComponent from "./pages/Clubs Pages/Assamese.jsx";
+import ClubsComponent from "./pages/Clubs Pages/ClubesPages.jsx";
 
 
 function App() {
@@ -18,7 +18,7 @@ function App() {
         <Route path="/contact" element={<Contact />} />
         <Route path="*" element={<NotFound />} />
         <Route path="/clubs" element={<Clubs />} />
-        <Route path="/clubs/:clubName" component={ClubsComponent} />
+        <Route path="/clubs/:clubName" element={<ClubsComponent />} />
       </Routes>
       <Footer />
       {/* <div className="slider"></div> */}

@@ -1,23 +1,39 @@
 // import React from 'react'
-import { Link } from 'react-router-dom';
+import {Link} from "react-router-dom";
+import styles from "./Clubs.module.scss";
 
 const Clubs = () => {
-    const clubs = ['English Literature Club', 'Hindi Sahitya Samithi', 'Marwaadi Club'
-    ,'Assamese Literature Club','Bengali Literaute Club','Telugu and Tamil Literature Club','Digital Arts Club'
-    ,'Fine Arts Club','Journalism Club','Publication Club'];
+  const clubs = [
+    {name: "English Literature Club", description: "Description for ClubA"},
+    {name: "Hindi Sahitya Samithi", description: "Description for ClubB"},
+    {name: "Marwaadi Club", description: "Description for ClubC"},
+    {name: "Assamese Literature Club", description: "Description for ClubA"},
+    {name: "ClubBengali Literaute ClubB", description: "Description for ClubB"},
+    {name: "Telugu and Tamil Literature Club", description: "Description for ClubC"},
+    {name: "Digital Arts Club", description: "Description for ClubA"},
+    {name: "Fine Arts Club", description: "Description for ClubB"},
+    {name: "CluJournalism Club", description: "Description for ClubC"},
+    {name: "Publication Club", description: "Description for ClubC"},
+  ];
   return (
-    <div>
-    {/* <h2>Select a Club:</h2> */}
-    Clubs
-    <div>
-      {clubs.map((club) => (
-        <div key={club}>
-          <Link to={`/clubs/${club}`}>{club}</Link>
-        </div>
-      ))}
-    </div>
-  </div>
-      );
-}
+    <div className={styles.Container}>
+      {/* <h2>Select a Club:</h2> */}
+      {/* Clubs */}
+      <div className={styles.ContainerClub}>
+        {clubs.map((club) => (
+          <div key={club} className={styles.ClubsComponent}>
+            <div>
+              <Link to={`/clubs/${club}`}>{club.name}</Link>
+            </div>
 
-export default Clubs
+            <div>
+              <p>{club.description}</p>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+};
+
+export default Clubs;
