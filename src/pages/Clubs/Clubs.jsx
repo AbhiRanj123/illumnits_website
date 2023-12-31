@@ -18,20 +18,23 @@ const Clubs = () => {
   return (
     <div className={styles.Container}>
       {/* <h2>Select a Club:</h2> */}
-      {/* Clubs */}
+
+      <div className={styles.heading}>Clubs</div>
+      <hr />
       <div className={styles.ContainerClub}>
         {clubs.map((club) => (
           <div key={club} className={styles.ClubsComponent}>
-            <div>
+            <div className={styles.ClubsName}>
               <Link to={`/clubs/${club}`}>{club.name}</Link>
             </div>
 
-            <div>
+            <div className={styles.ClubsDescription}>
               <p>{club.description}</p>
             </div>
           </div>
         ))}
       </div>
+      <hr />
     </div>
   );
 };

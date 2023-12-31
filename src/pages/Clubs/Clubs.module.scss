@@ -1,3 +1,18 @@
-.Container{
-    margin-top: 6rem;
+.Container {
+  margin-top: 6rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  .heading {
+    color: #785140;
+    text-align: center;
+    font-family: Roboto Condensed;
+    font-size: 2.5rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 4.5rem; /* 150% */
+    letter-spacing: 0.17281rem;
+  }
 }
