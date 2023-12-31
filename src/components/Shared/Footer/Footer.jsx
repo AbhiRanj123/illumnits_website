@@ -22,7 +22,7 @@ const Footer = () => {
               <Icon width={40} icon="tabler:mail-filled" color="#785140" />
             </div>
             <div className={styles.content}>
-              <Link to="mailto:illuminits@gmail.com">illuminits@gmail.com</Link>
+              <Link to="mailto:illuminits@nits.ac.in">illuminits@nits.ac.in</Link>
             </div>
           </div>
           <div className={styles.info}>
@@ -38,7 +38,7 @@ const Footer = () => {
           <img src={logo} alt="" />
 
           <div className={styles.heading}>
-            <h3>Illuminites</h3>
+            <h3>ILLUMNITS</h3>
           </div>
           <div className={styles.icons}>
             <Link

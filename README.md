@@ -1,7 +1,12 @@
 # ILLUMNITS Website 2023
 
 Follow the figma file for design related work
+
 https://www.figma.com/file/hUnXg98v3JOQRL6uT0qwOu/Illuminits?type=design&node-id=7-8&mode=design&t=ntN9OTv6TZbs10Jg-0
+
+Vercel Deployment Link
+
+https://illumnits.vercel.app/
 
 Currently, two official plugins are available:
 
