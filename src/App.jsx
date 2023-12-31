@@ -1,8 +1,8 @@
 import "./App.css";
 import {BrowserRouter, Routes, Route} from "react-router-dom";
 import Home from "./pages/Home/Home.jsx";
-import Navbar from "./components/Navbar/Navbar.jsx";
-import Contact from "./components/Contact/contact.jsx";
+import Navbar from "./components/Shared/Navbar/Navbar.jsx";
+import Contact from "./pages/Contact/contact.jsx";
 import NotFound from "./pages/404/Not_found.jsx";
 import Footer from "./components/Shared/Footer/Footer.jsx";
 
