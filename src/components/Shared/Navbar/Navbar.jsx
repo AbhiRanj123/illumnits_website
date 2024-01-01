@@ -8,32 +8,33 @@ import "./Navbar.scss";
 
 function Navbar() {
   const [scroll, setScroll] = useState(false);
-  const changeBackground = () => {
-    if (window.scrollY >= 80) {
-      setScroll(true);
-    } else {
-      setScroll(false);
-    }
-  };
 
   const [winWidth, setWinWidth] = useState(window.innerWidth);
-  // const [winHeight, setWinHeight] = useState(window.innerHeight); probable fix
   const [hamburg, setHamburg] = useState(false);
   const location = useLocation();
 
   useEffect(() => {
     window.addEventListener("resize", () => {
       setWinWidth(window.innerWidth);
-      // setWinHeight(window.innerHeight);
     });
-
     window.scrollTo(0, 0);
   }, [location]);
 
   useEffect(() => {
-    window.addEventListener("scroll", changeBackground);
-    // console.log(scroll)
-  }, [scroll]);
+    const changeBackground = () => {
+      if (window.scrollY >= 80) {
+        setScroll(true);
+      } else {
+        setScroll(false);
+      }
+    };
+    if (location.pathname === "/" || location.pathname === "/contact") {
+      window.addEventListener("scroll", changeBackground);
+    } else {
+      setScroll(true);
+    }
+  }, [location,scroll]);
+
 
   // console.log(document.body.scrollTop)
 
