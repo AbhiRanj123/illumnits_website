@@ -5,8 +5,8 @@ import Navbar from "./components/Shared/Navbar/Navbar.jsx";
 import Contact from "./components/Contact/contact.jsx";
 import NotFound from "./pages/404/Not_found.jsx";
 import Footer from "./components/Shared/Footer/Footer.jsx";
+import ClubsComponent from "./pages/Clubs Pages/ClubsPages.jsx";
 import Clubs from "./pages/Clubs/Clubs.jsx";
-import ClubsComponent from "./pages/Clubs Pages/ClubesPages.jsx";
 
 
 function App() {

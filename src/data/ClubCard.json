@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "name": "English Literature Club",
+        "description": "Description for English"
+    },
+    {
+        "id": "2",
+        "name": "Hindi Sahitya Samithi",
+        "description": "Description for Hindi"
+    },
+    {
+        "id": "3",
+        "name": "Marwaadi Club",
+        "description": "Description for Marwaadi"
+    },
+    {
+        "id": "4",
+        "name": "Assamese Literature Club",
+        "description": "Description for Assamese"
+    },
+    {
+        "id": "5",
+        "name": "Bengali Literaute Club", 
+        "description": "Description for ClubB"
+    },
+    {
+        "id": "6",
+        "name": "Telugu and Tamil Literature Club", 
+        "description": "Description for ClubC"
+    },
+    {
+        "id": "7",
+        "name": "Digital Arts Club", 
+        "description": "Description for ClubA"
+    },
+    {
+        "id": "8",
+        "name": "Fine Arts Club", 
+        "description": "Description for ClubB"
+    },
+    {
+        "id": "9",
+        "name": "CluJournalism Club", 
+        "description": "Description for ClubC"
+    },
+    {
+        "id": "10",
+        "name": "Publication Club", 
+        "description": "Description for ClubC"
+    }
+]

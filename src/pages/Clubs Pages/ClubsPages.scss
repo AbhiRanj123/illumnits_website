@@ -1,0 +1,140 @@
+.mainContainer {
+  //   position: relative;
+  background-color: white;
+  //   color: white;
+  margin-top: 6rem;
+}
+
+.club-name {
+  color: white;
+  font-family: Roboto Condensed;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 4.5rem;
+  letter-spacing: 0.0576em;
+  text-align: center;
+}
+
+.details-info {
+  color: black;
+  font-family: Oswald;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 2.25rem;
+  letter-spacing: 0.0288em;
+  text-align: center;
+  margin-left: 15.938rem;
+  margin-right: 15.938rem;
+  display: flex;
+  flex-direction: row;
+  margin-top: -4.375rem;
+}
+
+.commas {
+  font-family: Oswald;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 4.5rem;
+  letter-spacing: 0.1em;
+}
+
+.text-detail {
+  color: black;
+  margin-top: 5rem;
+}
+
+.club-card {
+//   background-image: url("https://wallpaperset.com/w/full/7/5/a/545589.jpg");
+background-color: brown;
+  margin: 0rem;
+  padding: 0rem;
+}
+
+.club-content {
+  padding-top: 1.875rem;
+  padding-bottom: 12.5rem;
+}
+
+.image {
+  width: 32.25rem;
+  height: 26rem;
+  margin-top: -6.25rem;
+}
+
+.image-text-1 {
+  display: flex;
+  flex-direction: row;
+  gap: 4em;
+  margin: 3.125rem 9.75rem;
+}
+
+.card-right-heading {
+  font-family: Oswald;
+  font-size: 2.25rem;
+  font-weight: 500;
+  line-height: 3.375rem;
+  letter-spacing: 0.0432em;
+  text-align: left;
+}
+
+.card-right-info {
+  font-family: Oswald;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 2.25rem;
+  letter-spacing: 0.0288em;
+  text-align: left;
+}
+
+.image-text-2 {
+  display: flex;
+  flex-direction: row;
+  gap: 4em;
+  margin: 3.125rem 9.75rem;
+}
+
+.card-info-right {
+  font-family: Oswald;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 2.25rem;
+  letter-spacing: 0.0288em;
+  text-align: center;
+}
+
+.lorem-heading {
+  font-family: Oswald;
+  font-size: 2.25rem;
+  font-weight: 500;
+  line-height: 3.375rem;
+  letter-spacing: 0.0432em;
+  text-align: center;
+}
+
+.lorem-text {
+  font-family: Oswald;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 2.25rem;
+  // letter-spacing: 0.0288em;
+  text-align: center;
+  margin-left: 12.5rem;
+  margin-right: 12.5rem;
+}
+
+.lorem-card {
+  margin: 5.5rem;
+  background-image: url("https://wallpaperset.com/w/full/7/5/a/545589.jpg");
+}
+
+.lorem-card-component {
+  padding-top: 6.25rem;
+  padding-bottom: 12.5rem;
+}
+
+.lower-image {
+  margin-left: 33.063rem;
+  margin-right: 33.063rem;
+  width: 50%;
+  margin-top: -17.5%;
+}

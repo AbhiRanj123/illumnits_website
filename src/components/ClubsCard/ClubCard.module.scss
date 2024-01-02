@@ -1,0 +1,62 @@
+.divContainer {
+  position: relative;
+  background-color: black;
+  color: white;
+  margin-top: 6rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  .ClubH{
+    color: #785140;
+    text-align: center;
+    font-family: Roboto Condensed;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 4.5rem; /* 150% */
+    letter-spacing: 0.17281rem;
+  }
+
+  .mainDiv{
+    display: flex;
+    justify-content: center;
+
+    #index{
+      width: 4rem;
+      height: 4rem;
+    }
+  }
+
+  
+}
+
+.blurDivs {
+  filter: blur(0.5px);
+  color: aliceblue;
+}
+
+.divItem {
+  padding: 10px;
+  margin: 5px;
+  background-color: black;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.divItem:hover {
+  z-index: 1;
+  background-color: darkgray;
+  color: white;
+}
+
+.divItem:hover ~ .divItem {
+  filter: blur(5px); /* Adjust the blur value as needed */
+}
+
+.divItem.active {
+  background-color: white;
+  color: white;
+  filter: blur(0);
+}
