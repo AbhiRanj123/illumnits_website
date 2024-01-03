@@ -2,51 +2,51 @@
     {
         "id": "1",
         "name": "English Literature Club",
-        "description": "Description for English"
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,"
     },
     {
         "id": "2",
         "name": "Hindi Sahitya Samithi",
-        "description": "Description for Hindi"
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,"
     },
     {
         "id": "3",
         "name": "Marwaadi Club",
-        "description": "Description for Marwaadi"
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,"
     },
     {
         "id": "4",
         "name": "Assamese Literature Club",
-        "description": "Description for Assamese"
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,"
     },
     {
         "id": "5",
         "name": "Bengali Literaute Club", 
-        "description": "Description for ClubB"
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,"
     },
     {
         "id": "6",
         "name": "Telugu and Tamil Literature Club", 
-        "description": "Description for ClubC"
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,"
     },
     {
         "id": "7",
         "name": "Digital Arts Club", 
-        "description": "Description for ClubA"
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,"
     },
     {
         "id": "8",
         "name": "Fine Arts Club", 
-        "description": "Description for ClubB"
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,"
     },
     {
         "id": "9",
         "name": "CluJournalism Club", 
-        "description": "Description for ClubC"
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,"
     },
     {
         "id": "10",
         "name": "Publication Club", 
-        "description": "Description for ClubC"
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,"
     }
 ]

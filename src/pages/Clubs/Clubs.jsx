@@ -11,7 +11,6 @@ const Clubs = () => {
 
       <div className={styles.heading}>
         Clubs
-        <hr />
       </div>
 
       <div className={styles.ContainerClub}>

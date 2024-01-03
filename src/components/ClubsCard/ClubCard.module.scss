@@ -1,34 +1,62 @@
 .divContainer {
+  // width: 65rem;
   position: relative;
   background-color: black;
   color: white;
-  margin-top: 6rem;
+  margin-top: 4rem;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
 
   .mainDiv {
+    background-color: black;
+    width: 70vw;
+    height: 10rem;
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-bottom: 3rem;
 
-    .divItem {
-      padding: 10px;
-      margin: 5px;
-      background-color: black;
-      cursor: pointer;
-      transition: 0.3s;
 
-      &:hover {
-        z-index: 1;
-        background-color: darkgray;
-        color: white;
+
+    &:hover {
+      z-index: 1;
+      // background-color: darkgray;
+      // color: white;
+    }
+
+    &:hover ~ .mainDiv {
+      filter: blur(5px);
+    }
+
+    .number{
+      text-decoration: none;
+      margin: auto;
+    }
+
+    .midllediv{
+      margin: 1.5rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      // align-items: center;
+
+      .heading{
+        padding: 0.5rem;
+        display: flex;
+        justify-content: flex-start;
+        font-size: 1.8rem;
       }
 
-      &:hover ~ .divItem {
-        filter: blur(5px); /* Adjust the blur value as needed */
+      .description{
+        font-size: 1rem;
+        color: rgba(255, 255, 255, 0.60);
       }
+    }
+
+    .arrowicon{
+      margin: auto;
     }
   }
 }
