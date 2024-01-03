@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "name": "LPL",
+        "image":"https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/gyha4sqslwzhohzqory1",
+        "desc":"LPL is the flagship event of Illuminits where we simulate IPL"
+    },
+    {
+        "id": "2",
+        "name": "Manthan",
+        "image":"https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/dutz2jdvqzezq4oweuqe",
+        "desc":"Manthan is the flagship event of Illuminits organized during Hindi Diwas"
+    },
+    {
+        "id": "3",
+        "name": "Gliteratti",
+        "image":"https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/dutz2jdvqzezq4oweuqe",
+        "desc":"Gliteratti is one of a kind art exhibition organized by Illuminits"
+    }
+]

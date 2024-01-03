@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "name": "LPL",
+        "image":"https://placehold.co/600x400"
+    },
+    {
+        "id": "2",
+        "name": "Manthan",
+        "image":"https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/dutz2jdvqzezq4oweuqe"
+    },
+    {
+        "id": "3",
+        "name": "LPL",
+        "image":"https://placehold.co/600x400"
+    },
+    {
+        "id": "4",
+        "name": "LPL",
+        "image":"https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/gyha4sqslwzhohzqory1"
+
+    },
+    {
+        "id": "5",
+        "name": "LPL"
+    }
+]
