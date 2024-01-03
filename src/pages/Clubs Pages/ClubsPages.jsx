@@ -18,7 +18,7 @@
 import { useParams } from 'react-router-dom';
 import "./ClubsPages.scss";
 
-const English = () => {
+const ClubsPages = () => {
   const { clubName } = useParams();
   return (
     <div className="mainContainer">
@@ -100,4 +100,4 @@ const English = () => {
   );
 }
 
-export default English;
+export default ClubsPages;

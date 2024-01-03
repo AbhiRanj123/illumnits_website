@@ -7,6 +7,8 @@ import NotFound from "./pages/404/Not_found.jsx";
 import Footer from "./components/Shared/Footer/Footer.jsx";
 import Gallery from "./pages/Gallery/Gallery.jsx";
 import EventGallery from "./pages/EventGallery/EventGallery.jsx";
+import Clubs from "./pages/Clubs/Clubs.jsx";
+import ClubsComponent from "./pages/Clubs Pages/ClubsPages.jsx";
 
 function App() {
   return (
