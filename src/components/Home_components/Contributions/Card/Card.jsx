@@ -1,20 +1,15 @@
 // import {useState} from "react";
+import Proptype from "prop-types";
 import "./Card.scss";
 
-const Card = () => {
-  //   const [more, setMore] = useState(false);
-  //   const handleMore = () => {
-  //     // !more && document.querySelector(".initial").classList.toggle("moveOut");
-  //     // more && document.querySelector(".desc").classList.toggle("moveOut");
-  //     setTimeout(() => {
-  //       setMore(!more);
-  //     }, 0);
-  //   };
+
+
+const Card = (props) => {
   return (
     <div className="contri-card">
       <div className="hover-card desc">
         <div className="cross">{/* <span onClick={handleMore}>&#10005;</span> */}</div>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit, molestias.
+        {`${props.desc}`}{" "}
       </div>
 
       <div className="contri-card initial">
@@ -24,7 +19,7 @@ const Card = () => {
             alt=""
           />
         </div>
-        <div className="contri-title">Contribution Title</div>
+        <div className="contri-title">{`${props.title}`} </div>
         {/* <div onClick={handleMore} className="more-btn">
             Know More
           </div> */}
@@ -32,5 +27,12 @@ const Card = () => {
     </div>
   );
 };
+
+Card.propTypes = {
+  title: Proptype.string,
+  desc: Proptype.string,
+  index: Proptype.number,
+}
+
 
 export default Card;
