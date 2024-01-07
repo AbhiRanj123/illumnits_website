@@ -3,17 +3,19 @@
   background-color: white;
   //   color: white;
   margin-top: 6rem;
+
+  .club-name {
+    color: white;
+    font-family: Roboto Condensed;
+    font-size: 3rem;
+    font-weight: 700;
+    line-height: 4.5rem;
+    letter-spacing: 0.0576em;
+    text-align: center;
+  }
 }
 
-.club-name {
-  color: white;
-  font-family: Roboto Condensed;
-  font-size: 3rem;
-  font-weight: 700;
-  line-height: 4.5rem;
-  letter-spacing: 0.0576em;
-  text-align: center;
-}
+
 
 .details-info {
   color: black;
