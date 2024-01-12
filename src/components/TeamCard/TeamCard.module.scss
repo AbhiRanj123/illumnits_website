@@ -1,0 +1,79 @@
+.card {
+  height: 20rem;
+  width: 15rem;
+  // overflow: hidden;
+  position: relative;
+  text-align: center;
+  border: 1px solid #e6e6e6;
+  border-radius: 10px;
+  // color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-direction: column;
+
+  img {
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    height: 15rem;
+    width: 15rem;
+    transition: all 0.5s ease-in-out;
+  }
+
+  .name {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    // height: 10rem;
+    // font-size: 1.5vw;
+  }
+  .info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-bottom: auto;
+    position: relative;
+    overflow: hidden;
+    bottom: 0;
+    width: 100%;
+    height: 5rem;
+    // background-color: rgba(16, 15, 15, 0.597);
+    backdrop-filter: blur(10px);
+    transition: all 0.5s ease-in-out;
+  }
+  .socials {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translate(50%, -50%);
+    animation: animate 2s infinite forwards;
+
+    &:hover {
+      -webkit-animation-play-state: paused;
+      -moz-animation-play-state: paused;
+      -o-animation-play-state: paused;
+      animation-play-state: paused;
+    }
+
+    @keyframes animate {
+      100% {
+        transform: translate(50%, -50%);
+      }
+      50% {
+        transform: translate(50%, -40%);
+      }
+      0% {
+        transform: translate(50%, -50%);
+      }
+    }
+  }
+  &:hover {
+    img {
+      height: 11rem;
+      width: 11rem;
+      border-radius: 50%;
+    }
+  }
+}
