@@ -38,14 +38,17 @@
         border: 2px outset;
       }
     }
-    .activeTag{
+    .core {
+      border: 2px none;
+    }
+    .tech {
+      border: 2px none;
+    }
+    .activeTag {
       border: 2px outset;
     }
-    .core{
-      height: 100%;
-    }
   }
-  .teamContainer{
+  .teamContainer {
     margin-top: 5vh;
     width: 80%;
     display: flex;
@@ -54,24 +57,23 @@
     flex-direction: column;
     gap: 5rem;
 
-    .innerContainer{
+    .innerContainer {
       display: flex;
       flex-direction: column;
       width: 100%;
       gap: 2rem;
-      h2{
+      h2 {
         text-align: center;
       }
-     .cardCont{
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-evenly;
-      gap: 5rem;
-     }
+      .cardCont {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        gap: 5rem;
+      }
     }
-    
   }
-  .secretary{
+  .secretary {
     margin: 20px auto;
     text-align: center;
     display: flex;
@@ -79,10 +81,10 @@
     justify-content: center;
     flex-direction: column;
     // color: white;
-    .title{
+    .title {
       font-size: 1.5rem;
       padding: 10px 20px;
-      background-color: #D9D9D9;
+      background-color: #d9d9d9;
       border-top-left-radius: 15px 40px;
       border-bottom-right-radius: 15px 40px;
       margin-block: 20px;

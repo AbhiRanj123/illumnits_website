@@ -4,11 +4,10 @@ import "./Card.scss";
 import { Link } from "react-router-dom";
 
 const Card = (props) => {
-  const handleMore = () => {};
   return (
     <div className="contri-card">
       <div className="hover-card desc">{`${props.desc}`}
-      <Link to={props.path} onClick={handleMore} className="more-btn">
+      <Link to={props.path}  className="more-btn">
             Know More
           </Link>
        </div>

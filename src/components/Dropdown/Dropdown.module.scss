@@ -1,0 +1,27 @@
+.Dropdown{
+    position: relative;
+
+    .options{
+        z-index: 99;
+        font-size: 2rem;
+        position: absolute;
+        color: #785140;
+        top: 100%;
+        width: 0;
+        overflow: hidden;
+        transition: all 0.5s ease-in-out;
+        backdrop-filter: blur(10px);
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+        padding-block: 1rem;
+        gap: 1rem;
+
+    }
+
+    .showOptions{
+        width: 100%;
+        // padding: 20px 40px;
+    }
+}
