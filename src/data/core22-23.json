@@ -1,0 +1,64 @@
+[
+    {
+        "id":"1",
+        "Team":"Hindi Literature",
+        "Members":[
+            {
+                "id":"2",
+                "name":"Name",
+                "designation":"Web Developer",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "image":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+            },
+            {
+                "id":"3",
+                "name":"Name",
+                "designation":"UI/UX Designer",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "image":"https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/ryb94zkzfea8oyweajyq"
+            },
+            {
+                "id":"4",
+                "name":"Name",
+                "designation":"Tech Team",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "image":"https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/ryb94zkzfea8oyweajyq"
+            }
+        ]
+    },
+    {
+        "id":"1",
+        "Team":"Bengali Literature",
+        "Members":[
+            {
+                "id":"2",
+                "name":"Name",
+                "designation":"Web Developer",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "image":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+            },
+            {
+                "id":"3",
+                "name":"Name",
+                "designation":"UI/UX Designer",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "image":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+            },
+            {
+                "id":"4",
+                "name":"Name",
+                "designation":"Tech Team",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "image":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+            },
+            {
+                "id":"5",
+                "name":"Name",
+                "designation":"Tech Team",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "image":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+            }
+        ]
+    }
+]

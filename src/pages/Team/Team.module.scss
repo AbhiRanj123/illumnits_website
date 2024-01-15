@@ -1,0 +1,93 @@
+.Team {
+  margin-top: 150px;
+  margin-bottom: 100px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  h2 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    color: #785140;
+    font-weight: 600;
+    @media screen and (max-width: 900px) {
+      font-size: 2rem;
+    }
+    @media screen and (max-width: 480px) {
+      font-size: 1.5rem;
+    }
+  }
+  .tagDiv {
+    width: 60%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    .tag {
+      width: fit-content;
+      padding: 1% 5%;
+      height: 100%;
+      text-align: center;
+      font-size: 3rem;
+      transition: 0.3s all ease-in-out;
+      border: 2px none;
+
+      &:hover {
+        cursor: pointer;
+        border: 2px outset;
+      }
+    }
+    .core {
+      border: 2px none;
+    }
+    .tech {
+      border: 2px none;
+    }
+    .activeTag {
+      border: 2px outset;
+    }
+  }
+  .teamContainer {
+    margin-top: 5vh;
+    width: 80%;
+    display: flex;
+    justify-content: space-evenly;
+    // flex-wrap: wrap;
+    flex-direction: column;
+    gap: 5rem;
+
+    .innerContainer {
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      gap: 2rem;
+      h2 {
+        text-align: center;
+      }
+      .cardCont {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        gap: 5rem;
+      }
+    }
+  }
+  .secretary {
+    margin: 20px auto;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    // color: white;
+    .title {
+      font-size: 1.5rem;
+      padding: 10px 20px;
+      background-color: #d9d9d9;
+      border-top-left-radius: 15px 40px;
+      border-bottom-right-radius: 15px 40px;
+      margin-block: 20px;
+    }
+  }
+}
