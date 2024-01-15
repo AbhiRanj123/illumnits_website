@@ -30,10 +30,7 @@ function Events() {
           >
             <h3 className="vertical-timeline-element-title">{item.name}</h3>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus, laborum!
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem dicta itaque
-              praesentium. Blanditiis quibusdam est, molestias voluptatem aliquam esse
-              illo commodi error necessitatibus eius ut odit nostrum unde, assumenda cum!
+              {item.desc}
             </p>
           </VerticalTimelineElement>
         ))}

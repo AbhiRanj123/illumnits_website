@@ -4,22 +4,12 @@ import "./Contributions.scss";
 const data=[
   {
     id:1,
-    title:"Event 1",
+    title:"Incandescene",
     desc:" Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae, maiores."
   },
   {
     id:2,
     title:"Event 2",
-    desc:" Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae, maiores."
-  },
-  {
-    id:3,
-    title:"Event 3",
-    desc:" Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae, maiores."
-  },
-  {
-    id:4,
-    title:"Event 4",
     desc:" Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae, maiores."
   }
 ]
