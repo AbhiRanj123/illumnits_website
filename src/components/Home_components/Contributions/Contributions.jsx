@@ -6,7 +6,7 @@ const data=[
     id:1,
     title:"Incandescene",
     desc:" Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae, maiores.",
-    path:"/gallery/Incand"
+    path:"/contribution/incand"
   }
 ]
 

@@ -19,20 +19,27 @@
     }
   }
   .tagDiv {
-    width: 60%;
+    width: 90%;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
     flex-wrap: wrap;
+    row-gap: 2rem;
+
     .tag {
-      width: fit-content;
       padding: 1% 5%;
       height: 100%;
       text-align: center;
-      font-size: 3rem;
+      font-size: 2.5rem;
       transition: 0.3s all ease-in-out;
       border: 2px none;
 
+      @media screen and (max-width:900px) {
+      font-size: 1.7rem;
+      }
+      @media screen and (max-width:600px) {
+        font-size: 1rem;
+        }
       &:hover {
         cursor: pointer;
         border: 2px outset;
@@ -46,6 +53,7 @@
     }
     .activeTag {
       border: 2px outset;
+      background-color: rgba(176, 173, 173, 0.863);
     }
   }
   .teamContainer {

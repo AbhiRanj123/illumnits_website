@@ -1,0 +1,130 @@
+.LPL {
+  padding-block: 2rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: url(src/assets/images/LPL_bg.jpg);
+  background-position: 40% 20%;
+  h1 {
+    font-size: 3rem;
+    font-weight: 700;
+    letter-spacing: 3.3px;
+    width: fit-content;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+    // color: white;
+    margin-bottom: 10px;
+    background: linear-gradient(
+      90deg,
+      #001e1b 2.06%,
+      #8bc9c3 60.27%,
+      #001e27 76.54%,
+      #1297a6 92.2%
+    );
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+  }
+
+  h3 {
+    filter: invert(1);
+    margin-top: 2rem;
+
+    @media screen and (max-width: 600px) {
+      font-weight: 600;
+    }
+  }
+
+  .title {
+    animation: textAnimation infinite 1s forwards;
+    padding: 1rem;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 30px;
+    // font-weight: 900;
+    color: white;
+    font-size: 2rem;
+    @media screen and (max-width: 900px) {
+      font-size: 1.5rem;
+    }
+    @media screen and (max-width: 600px) {
+      font-size: 1.2rem;
+      padding: 0.5rem;
+    }
+  }
+
+  .date {
+    font-size: 1.5rem;
+    margin: 1rem;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 0.4rem;
+    color: white;
+
+    .dateNum {
+		background: linear-gradient(
+			90deg,
+			#57dfd2 60.27%,
+			#43a612 92.2%
+		  );
+		  -webkit-text-fill-color: transparent;
+		  -webkit-background-clip: text;
+    }
+  }
+  .more {
+	background-color:#8bc9c3;
+	color: white;
+	border-radius: 20% 10%;
+    padding: 0.5rem 1rem;
+    border: #57dfd2 solid 2px;
+	transition: 0.5s all ease-in-out;
+	&:hover{
+		transform: scale(1.1);
+	}
+
+	&:active{
+		transform: scale(0.9);
+	}
+
+  }
+
+  @keyframes textAnimation {
+    0% {
+      background: linear-gradient(
+        90deg,
+        #001e1b 2.06%,
+        #8bc9c3 60.27%,
+        #001e27 76.54%,
+        #1297a6 92.2%
+      );
+    }
+
+    50% {
+      background: linear-gradient(
+        90deg,
+        #001e1b 2.06%,
+        #8bc9c3 70.27%,
+        #001e27 86.54%,
+        #1297a6 99.2%
+      );
+    }
+
+    75% {
+      background: linear-gradient(90deg, #001e1b 2.06%, #8bc9c3 90.27%);
+    }
+    100% {
+      background: linear-gradient(
+        90deg,
+        #001e1b 2.06%,
+        #8bc9c3 60.27%,
+        #001e27 76.54%,
+        #1297a6 92.2%
+      );
+    }
+  }
+}
