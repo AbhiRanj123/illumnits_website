@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import styles from "./LPL.module.scss"
 
-const LPL=()=>{
+const Lpl=()=>{
     return (
         <div className={styles.LPL}>
             <h1>
@@ -18,4 +18,4 @@ const LPL=()=>{
     );
 }
 
-export default LPL;
+export default Lpl;

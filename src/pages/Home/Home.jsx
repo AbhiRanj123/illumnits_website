@@ -3,7 +3,7 @@ import Contribution from "../../components/Home_components/Contributions/Contrib
 import Events from "../../components/Home_components/Events/Event";
 import Fic from "../../components/Home_components/FIC/Fic";
 import Hero from "../../components/Home_components/Hero/Hero";
-import LPL from "../../components/Home_components/LPL/LPL";
+import Lpl from "../../components/Home_components/LPL/LPL";
 
 import "./Home.scss";
 
@@ -11,7 +11,7 @@ function Home() {
   return (
     <div className="Home">
       <Hero />
-      <LPL/>
+      <Lpl/>
       <About />
       <Fic />
       <Contribution />
