@@ -53,6 +53,12 @@ const Footer = () => {
             >
               <Icon width={40} icon="akar-icons:facebook-fill" color="#fff" />
             </Link>
+            <Link
+              to="https://www.linkedin.com/company/illuminits/"
+              className={styles.icon}
+            >
+              <Icon width={40} icon="basil:linkedin-outline" color="#fff" />
+            </Link>
             {/* <Link to="" className={styles.icon}>
             <Icon width={40} icon="akar-icons:linkedin-fill" color="#fff" />
           </Link> */}
