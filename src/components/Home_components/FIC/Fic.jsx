@@ -9,12 +9,10 @@ const Fic = () => {
           <img src="" alt="" />
         </div>
         <div className="fic-info">
-          <h2>Name</h2>
-          <h3>Designation</h3>
+          <h2>Dr.Partha Pakray </h2>
+          <h3>Associate Professor, CSE Department</h3>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Excepturi suscipit
-            consequuntur mollitia eveniet corporis in sint recusandae temporibus
-            explicabo. Dolor.
+          LPFA is a vibrant community dedicated to fostering creativity, expression, and a love for literature and the arts. Whether you are passionate about writing, poetry, visual arts, or any form of creative expression, you are an essential part of our diverse and talented group.Literary and cultural activities play a crucial role in the holistic development of students. Engaging in these activities goes beyond academics and provides numerous benefits for personal growth, social skills, and overall well-being. I encourage each of you to actively participate, share your ideas, and contribute to the growth of our club. We are here to support and inspire one another in our creative endeavors.
           </p>
         </div>
       </div>

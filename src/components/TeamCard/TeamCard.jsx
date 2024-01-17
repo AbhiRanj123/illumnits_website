@@ -22,6 +22,10 @@ const TeamCard = (props) => {
             {" "}
             <Icon icon="devicon:linkedin" color="white" height="25" />
           </Link>}
+          {props.github && <Link to={props.github} target="_blank">
+            {" "}
+            <Icon icon="devicon:github" color="white" height="25" />
+          </Link>}
         </div>
     </div>
   );
