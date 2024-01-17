@@ -36,7 +36,7 @@ const Team = () => {
       <h2>Meet the Team</h2>
       <div className={styles.secretary}>
         <div className={styles.title}>SECRETARY</div>
-        <TeamCard name="Name" designation="Secretary" insta={"https://google.com"} />
+        <TeamCard name="Vishvesh N Muley" designation="Secretary" insta={"https://google.com"} facebook={"https://google.com"} linkedin={"https://google.com"}/>
       </div>
       <div className={styles.tagDiv}>
         <div onClick={coreTeam} className={`${styles.tag} ${styles.core} ${styles.activeTag}`}>
@@ -67,6 +67,7 @@ const Team = () => {
                       insta={member.insta}
                       facebook={member.facebook}
                       linkedin={member.Linkedin}
+                      github={member.github}
                       img={member.image}
                     />
                   );

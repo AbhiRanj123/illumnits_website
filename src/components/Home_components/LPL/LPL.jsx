@@ -13,7 +13,7 @@ const Lpl=()=>{
             <div ><span className={styles.dateNum}>18</span> | <span>19</span> | <span className={styles.dateNum}>20</span> | <span>21</span></div>
             <div>January 24</div>
            </div>
-           <Link to="/LPL"><div className={styles.more}>Know more</div></Link>
+           <Link to="https://drive.google.com/file/d/178M5S7-MQx-QwPxFFmbczzgu4sogalER/view?usp=sharing"><div className={styles.more}>Download Brochure</div></Link>
         </div>
     );
 }
