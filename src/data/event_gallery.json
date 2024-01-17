@@ -6,8 +6,8 @@
     },
     {
         "id": "2",
-        "name": "Manthan",
-        "image":"https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/dutz2jdvqzezq4oweuqe"
+        "name": "LPL",
+        "image":"https://placehold.co/600x400"
     },
     {
         "id": "3",
@@ -17,15 +17,206 @@
     {
         "id": "4",
         "name": "LPL",
-        "image":"https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/gyha4sqslwzhohzqory1"
+        "image":"https://placehold.co/600x400"
 
     },
     {
         "id": "5",
-        "name": "LPL"
+        "name": "LPL",
+        "image":"https://placehold.co/600x400"
     },
     {
         "id": "6",
+        "name": "LPL",
+        "image":"https://placehold.co/600x400"
+    },
+    {
+        "id": "1",
+        "name": "Manthan",
+        "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705513769/Illuminits/MANTHAN/pcsi99kkhwmgcn2tu1qa.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Manthan",
+        "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705513768/Illuminits/MANTHAN/e0othc9rocozbfm8ezqs.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Manthan",
+        "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705513768/Illuminits/MANTHAN/p4ugommxefesdpwrrkec.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Manthan",
+        "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705513768/Illuminits/MANTHAN/xtlyagrrnaoqkduscevd.jpg"
+
+    },
+    {
+        "id": "5",
+        "name": "Manthan",
+        "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705513737/Illuminits/MANTHAN/f8aq8zomezpxyxpdk5vb.jpg"
+    },
+    {
+        "id": "6",
+        "name": "Manthan",
+        "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705513724/Illuminits/MANTHAN/gmhy4sf8zdl6mhw7ehq5.jpg"
+    },
+    {
+        "id": "7",
+        "name": "Manthan",
+        "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705513722/Illuminits/MANTHAN/o3tosfri3auj21aqcq9j.jpg"
+    },
+    {
+        "id": "8",
+        "name": "Manthan",
+        "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705513723/Illuminits/MANTHAN/pwcsdnhnl4ssmlmfrgpg.jpg"
+    },
+    {
+        "id": "9",
+        "name": "Manthan",
+        "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705513724/Illuminits/MANTHAN/kgtism4spkyy6brhr4wt.jpg"
+    },
+    {
+        "id": "1",
+        "name": "IMLD",
+        "image":"https://placehold.co/600x400"
+    },
+    {
+        "id": "2",
+        "name": "IMLD",
+        "image":"https://placehold.co/600x400"
+    },
+    {
+        "id": "3",
+        "name": "IMLD",
+        "image":"https://placehold.co/600x400"
+    },
+    {
+        "id": "4",
+        "name": "IMLD",
+        "image":"https://placehold.co/600x400"
+
+    },
+    {
+        "id": "5",
+        "name": "IMLD",
+        "image":"https://placehold.co/600x400"
+    },
+    {
+        "id": "6",
+        "name": "IMLD",
+        "image":"https://placehold.co/600x400"
+    },
+    {
+        "id": "1",
+        "name": "Deprador & Kaladarshan",
+        "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705513103/Illuminits/DEPRADOR/pl3rubuaggzcifbbqbvu.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Deprador & Kaladarshan",
+        "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705513281/Illuminits/DEPRADOR/nn2uw9zbxzxvjkvnydpf.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Deprador & Kaladarshan",
+        "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705513281/Illuminits/DEPRADOR/kro2ht0acvmhpsdfzqe1.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Deprador & Kaladarshan",
+        "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705513281/Illuminits/DEPRADOR/yp1v4knjlnirfwgut5au.jpg"
+
+    },
+    {
+        "id": "5",
+        "name": "Deprador & Kaladarshan",
+        "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705513281/Illuminits/DEPRADOR/zw4w9roltmqvjvlba8m0.jpg"
+    },
+    {
+        "id": "6",
+        "name": "Deprador & Kaladarshan",
+        "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705513282/Illuminits/DEPRADOR/uih2xbpwgealztyo5h8x.jpg"
+    },
+    {
+        "id":"7",
+        "name":"Deprador & Kaladarshan",
+        "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705513085/Illuminits/DEPRADOR/j97peznh6ybcwnaidban.jpg"
+    },
+    {
+        "id":"8",
+        "name":"Deprador & Kaladarshan",
+        "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705513076/Illuminits/DEPRADOR/nkb1b4pzj2vrydwzditz.jpg"
+    },
+    {
+        "id":"9",
+        "name":"Deprador & Kaladarshan",
+        "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705514164/Illuminits/DEPRADOR/re7nmsynsrzu6sonx8qx.jpg"
+    },
+    {
+        "id": "1",
+        "name": "Farewell",
+        "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705514495/Illuminits/FAREWELL/xrghbzfye5wb3iuwb84n.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Farewell",
+        "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705514495/Illuminits/FAREWELL/nftqloouu8ad2zz8yjrh.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Farewell",
+        "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705514495/Illuminits/FAREWELL/gwr963xa5orntcwxr1xz.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Farewell",
+        "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705514494/Illuminits/FAREWELL/aqwxdawa6cjznnd3yvyr.jpg"
+
+    },
+    {
+        "id": "5",
+        "name": "Farewell",
+        "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705514494/Illuminits/FAREWELL/lkbsiql9z23nfglqvhee.jpg"
+    },
+    {
+        "id": "6",
+        "name": "Farewell",
+        "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705514494/Illuminits/FAREWELL/n2kqzuowj16uu8l1dfxp.jpg"
+    },
+    {
+        "id": "1",
+        "name": "Other Events",
+        "image":"https://placehold.co/600x400"
+    },
+    {
+        "id": "2",
+        "name": "Other Events",
+        "image":"https://placehold.co/600x400"
+    },
+    {
+        "id": "3",
+        "name": "Other Events",
+        "image":"https://placehold.co/600x400"
+    },
+    {
+        "id": "4",
+        "name": "Other Events",
+        "image":"https://placehold.co/600x400"
+
+    },
+    {
+        "id": "5",
+        "name": "Other Events",
+        "image":"https://placehold.co/600x400"
+    },
+    {
+        "id": "6",
+        "name": "Other Events",
+        "image":"https://placehold.co/600x400"
+    },
+    {
+        "id": "7",
         "name": "Incand",
         "image":"https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/gyha4sqslwzhohzqory1"
     }
