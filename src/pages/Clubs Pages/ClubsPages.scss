@@ -15,7 +15,7 @@ $font-family_2: Oswald;
 
     .club-name {
       font-family: $font-family_1;
-      font-size: 3rem;
+      font-size: 2.5rem;
       font-weight: 700;
       line-height: 4.5rem;
       letter-spacing: 0.0576em;
@@ -27,8 +27,8 @@ $font-family_2: Oswald;
     font-family: $font-family_2;
     font-size: 1.5rem;
     font-weight: 400;
-    line-height: 2.25rem;
-    letter-spacing: 0.0288em;
+    // line-height: 2.25rem;
+    // letter-spacing: 0.0288em;
     text-align: center;
     margin-left: 3.5rem;
     margin-right: 3.5rem;
@@ -45,7 +45,7 @@ $font-family_2: Oswald;
 .image-text-1 {
   display: flex;
   flex-direction: row;
-  gap: 4em;
+  // gap: 4em;
   justify-content: center;
   align-items: center;
 
