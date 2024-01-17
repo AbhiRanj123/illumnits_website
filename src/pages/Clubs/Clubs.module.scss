@@ -1,22 +1,43 @@
 .Container {
   width: 100vw;
   margin-top: 6rem;
-  background-color: black;
+  background-image: url(https://res.cloudinary.com/dqgmgvpu3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1704736432/clubs_bg_m0mmfj.jpg?_s=public-apps);
+  // background-color: black;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding-bottom: 3rem;
+  // padding-bottom: 3rem;
 
-  .heading {
-    color: #785140;
-    text-align: center;
-    padding-top: 2rem;
-    font-family: Roboto Condensed;
-    font-size: 2.5rem;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 4.5rem;
+  .main{
+    height: auto;
+    width: 100vw;
+    background-color: black;
+    opacity: 0.9;
+    padding-bottom: 3rem;
 
+    .heading {
+      color: #785140;
+      text-align: center;
+      padding-top: 2rem;
+      font-family: Roboto Condensed;
+      font-size: 2.5rem;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 4.5rem;
+    }
+  
+    .ContainerClub {
+      .ClubsComponent {
+        .ClubsName {
+          hr{
+            margin: auto;
+            width: 70vw;
+          }
+        }
+      }
+    }
   }
+
+  
 }

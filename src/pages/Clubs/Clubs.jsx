@@ -8,6 +8,7 @@ const Clubs = () => {
   return (
     <div className={styles.Container}>
       {/* <h2>Select a Club:</h2> */}
+      <div className={styles.main}>
 
       <div className={styles.heading}>
         Clubs
@@ -33,6 +34,7 @@ const Clubs = () => {
             </div> */}
           </div>
         ))}
+      </div>
       </div>
     </div>
   );
