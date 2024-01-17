@@ -6,7 +6,7 @@ const Fic = () => {
       <h2 className="FIC-title">Message from the FIC</h2>
       <div className="fic-box">
         <div className="fic-img">
-          <img src="" alt="" />
+          <img src="https://res.cloudinary.com/dfgainxl5/image/upload/v1705509261/Illuminits/FIC/FIC.jpg" alt="" />
         </div>
         <div className="fic-info">
           <h2>Dr.Partha Pakray </h2>

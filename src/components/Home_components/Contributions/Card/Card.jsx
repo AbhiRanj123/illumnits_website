@@ -14,10 +14,7 @@ const Card = (props) => {
 
       <div className="contri-card initial">
         <div className="card-icon">
-          <img
-            src="https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/djijw7ynodwjq1yc8pts"
-            alt=""
-          />
+          
         </div>
         <div className="contri-title">{`${props.title}`} </div>
       </div>
