@@ -36,7 +36,7 @@ const Team = () => {
       <h2>Meet the Team</h2>
       <div className={styles.secretary}>
         <div className={styles.title}>SECRETARY</div>
-        <TeamCard name="Vishvesh N Muley" designation="Secretary" insta={"https://google.com"} facebook={"https://google.com"} linkedin={"https://google.com"}/>
+        <TeamCard name="Vishvesh N Muley" designation="Secretary" insta={"https://google.com"} facebook={"https://google.com"} linkedin={"https://google.com"} img={"https://res.cloudinary.com/dfgainxl5/image/upload/v1705521893/Illuminits/CORE_TEAM_2023/Vishvesh.webp"}/>
       </div>
       <div className={styles.tagDiv}>
         <div onClick={coreTeam} className={`${styles.tag} ${styles.core} ${styles.activeTag}`}>
