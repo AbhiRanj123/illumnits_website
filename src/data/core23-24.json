@@ -1,0 +1,527 @@
+[
+    {
+        "id":"1",
+        "Team":"Convenor",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Suryanshu Kedar",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+            }
+        ]
+    },
+    {
+        "id":"1",
+        "Team":"Moderator",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Satyam Gaur",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+            }
+        ]
+    },
+    {
+        "id":"1",
+        "Team":"English Literature Club",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Abhay Singh",
+                "designation":"Head",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705500739/Illuminits/CORE_TEAM_2023/Abhay.png"
+            },
+            {
+                "id":"2",
+                "name":"Vidhi Shrimali",
+                "designation":"Head",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705500737/Illuminits/CORE_TEAM_2023/Vidhi.jpg"
+            },
+            {
+                "id":"3",
+                "name":"Prateeksha Majumdar",
+                "designation":"Head",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+            }
+        ]
+    },
+    {
+        "id":"1",
+        "Team":"Vocal Skills Club",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Nishanth Naidu Talari",
+                "designation":"Head",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+            },
+            {
+                "id":"2",
+                "name":"Rohit Jain",
+                "designation":"Head",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705500739/Illuminits/CORE_TEAM_2023/Rohit.jpg"
+            },
+            {
+                "id":"3",
+                "name":"Tshering Doma Bhutia",
+                "designation":"Head",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+            }
+        ]
+    },
+    {
+        "id":"1",
+        "Team":"Hindi Sahitya Samiti",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Abhishek Ranjan",
+                "designation":"Club Head",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+            },
+            {
+                "id":"2",
+                "name":"Sanidhya Sinha",
+                "designation":"Club Head",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705500737/Illuminits/CORE_TEAM_2023/Sanidhya.jpg"
+            }
+        ]
+    },
+    {
+        "id":"1",
+        "Team":"Marwaadi Literature Club",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Sher Singh Meena",
+                "designation":"Club Head",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+            }
+        ]
+    },
+    {
+        "id":"1",
+        "Team":"Assamese Literature Club",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Diptabh Medhi",
+                "designation":"Club Head",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+            },
+            {
+                "id":"2",
+                "name":"Mayur Jyoti Kashyap",
+                "designation":"Club Head",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/ryb94zkzfea8oyweajyq"
+            },
+            {
+                "id":"3",
+                "name":"Syed Rehab",
+                "designation":"Club Head",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+            }
+        ]
+    },
+    {
+        "id":"1",
+        "Team":"Bengali Literature Club",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Arnab Roy",
+                "designation":"Club Head",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+            },
+            {
+                "id":"2",
+                "name":"Atrayee Ghosh",
+                "designation":"Club Head",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705500736/Illuminits/CORE_TEAM_2023/Atrayee.jpg"
+            },
+            {
+                "id":"3",
+                "name":"Susmit Gupta",
+                "designation":"Club Head",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+            }
+        ]
+    },
+    {
+        "id":"1",
+        "Team":"Telgu and Tamil Literature Club",
+        "Members":[
+            {
+                "id":"1",
+                "name":"CH MV Sathwik",
+                "designation":"Club Head",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705501720/Illuminits/CORE_TEAM_2023/Sathwik.jpg"
+            },
+            {
+                "id":"2",
+                "name":"Nunna Siri",
+                "designation":"Club Head",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/ryb94zkzfea8oyweajyq"
+            }
+        ]
+    },
+    {
+        "id":"1",
+        "Team":"Digital Arts Club",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Ipsita",
+                "designation":"Club Head",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705500736/Illuminits/CORE_TEAM_2023/Ipsita.jpg"
+            },
+            {
+                "id":"2",
+                "name":"Ved Narsekar",
+                "designation":"Club Head",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/ryb94zkzfea8oyweajyq"
+            }
+        ]
+    },
+    {
+        "id":"1",
+        "Team":"Fine Arts Club",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Hrishikesh Das",
+                "designation":"Club Head",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705500741/Illuminits/CORE_TEAM_2023/Hrishikesh.png"
+            },
+            {
+                "id":"2",
+                "name":"Jaya Aggarwal",
+                "designation":"Club Head",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705500740/Illuminits/CORE_TEAM_2023/Jaya.jpg"
+            }
+        ]
+    },
+    {
+        "id":"1",
+        "Team":"Journalism Club",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Aashi Shrivastava",
+                "designation":"Club Head",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705500739/Illuminits/CORE_TEAM_2023/Aashi.jpg"
+            },
+            {
+                "id":"2",
+                "name":"Aman Vishwakarma",
+                "designation":"Club Head",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/ryb94zkzfea8oyweajyq"
+            },
+            {
+                "id":"3",
+                "name":"Sriram Potnuru",
+                "designation":"Club Head",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+            }
+        ]
+    },
+    {
+        "id":"1",
+        "Team":"Publication Club",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Charisma Chinta",
+                "designation":"Club Head",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+            },
+            {
+                "id":"2",
+                "name":"Jagrit Jain",
+                "designation":"Club Head",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/ryb94zkzfea8oyweajyq"
+            }
+        ]
+    },
+    {
+        "id":"1",
+        "Team":"Event Management",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Lakshay Prakash",
+                "designation":"Head",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705500738/Illuminits/CORE_TEAM_2023/Lakshay.jpg"
+            },
+            {
+                "id":"2",
+                "name":"Murali Gullipilli",
+                "designation":"Head",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705500741/Illuminits/CORE_TEAM_2023/Murali.jpg"
+            }
+        ]
+    },
+    {
+        "id":"1",
+        "Team":"PR & Outreach Team",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Abbas Bahrainwala",
+                "designation":"Head",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+            },
+            {
+                "id":"2",
+                "name":"Pushpita Narzary",
+                "designation":"Club Head",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705500738/Illuminits/CORE_TEAM_2023/Pusphita.jpg"
+            }
+        ]
+    },
+    {
+        "id":"1",
+        "Team":"Marketing Team",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Arpit Dhankani",
+                "designation":"Head",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+            }
+        ]
+    },
+    {
+        "id":"1",
+        "Team":"Senior Executives",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Name",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+            },
+            {
+                "id":"2",
+                "name":"Name",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/ryb94zkzfea8oyweajyq"
+            },
+            {
+                "id":"3",
+                "name":"Name",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+            },
+            {
+                "id":"4",
+                "name":"Name",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/ryb94zkzfea8oyweajyq"
+            },
+            {
+                "id":"5",
+                "name":"Name",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+            },
+            {
+                "id":"6",
+                "name":"Name",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/ryb94zkzfea8oyweajyq"
+            },
+            {
+                "id":"7",
+                "name":"Name",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+            },
+            {
+                "id":"8",
+                "name":"Name",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/ryb94zkzfea8oyweajyq"
+            },
+            {
+                "id":"9",
+                "name":"Name",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+            },
+            {
+                "id":"10",
+                "name":"Name",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/ryb94zkzfea8oyweajyq"
+            },
+            {
+                "id":"11",
+                "name":"Name",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+            },
+            {
+                "id":"12",
+                "name":"Name",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/ryb94zkzfea8oyweajyq"
+            },
+            {
+                "id":"13",
+                "name":"Name",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+            },
+            {
+                "id":"14",
+                "name":"Name",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/ryb94zkzfea8oyweajyq"
+            },
+            {
+                "id":"15",
+                "name":"Name",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+            },
+            {
+                "id":"16",
+                "name":"Name",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "image":"https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/ryb94zkzfea8oyweajyq"
+            }
+        ]
+    }
+]

@@ -7,7 +7,7 @@ function About() {
         <h2 className="about-title">About ILLUMNITS</h2>
         <h3>Literary, Publication and Fine Arts Society of NIT Silchar</h3>
         <p>
-          Illuminites is the official Literary, Publication and Fine Arts Society of NIT
+          Illuminits is the official Literary, Publication and Fine Arts Society of NIT
           Silchar. It is a student body which aims to promote and nurture the literary and
           artistic talents of the students of NIT Silchar. It is a platform for the
           students to showcase their talents in the fields of literature, art, music,
@@ -21,7 +21,7 @@ function About() {
 
         <h3>Mission of ILLUMNITS</h3>
         <p>
-          Illuminites is the official Literary, Publication and Fine Arts Society of NIT
+          Illuminits is the official Literary, Publication and Fine Arts Society of NIT
           Silchar. It is a student body which aims to promote and nurture the literary and
           artistic talents of the students of NIT Silchar. It is a platform for the
           students to showcase their talents in the fields of literature, art, music,

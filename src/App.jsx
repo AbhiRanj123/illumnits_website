@@ -9,6 +9,7 @@ import Gallery from "./pages/Gallery/Gallery.jsx";
 import EventGallery from "./pages/EventGallery/EventGallery.jsx";
 import Clubs from "./pages/Clubs/Clubs.jsx";
 import ClubsComponent from "./pages/Clubs Pages/ClubsPages.jsx";
+import Team from "./pages/Team/Team.jsx";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/contact" element={<Contact />} />
+        <Route path="team" element={<Team/>} />
         <Route path="/gallery" element={<Gallery />} />
         <Route path="/gallery/:name" element={<EventGallery />} />
         <Route path="*" element={<NotFound />} />

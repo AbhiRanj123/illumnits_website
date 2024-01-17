@@ -12,15 +12,23 @@
   backdrop-filter: invert(1);
   gap: 2rem;
   color: #ffffff;
+  font-size:2rem;
 
+  @media screen and (max-width:900px) {
+    font-size: 1.5rem;
+  }
   p {
     color: white;
-    font-size: 1.5vw;
+    font-size:1.5rem;
     margin: 0;
     display: flex;
     justify-content: center;
     align-items: center;
     width: 80%;
+
+    @media screen and (max-width:900px) {
+      font-size: 1.2rem;
+    }
   }
 
   input {
@@ -29,12 +37,18 @@
     border: none;
     border-radius: 5px;
     padding: 0 1rem;
-    font-size: 1.5vw;
+    font-size: 1.5rem;
     background: transparent;
     border-bottom: solid 1px white;
     color: #785140;
     transition: all 0.3s ease-in-out;
     overflow: hidden;
+    @media screen and (max-width:900px) {
+      font-size: 1.2rem;
+    }
+    @media screen and (max-width:600px) {
+      font-size: 1rem;
+    }
 
     &:focus {
       outline: none;

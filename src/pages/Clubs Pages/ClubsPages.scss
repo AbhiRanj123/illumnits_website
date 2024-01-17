@@ -2,211 +2,182 @@ $font-family_1: Roboto Condensed;
 $font-family_2: Oswald;
 
 .club-card {
-  width: 100%;
   margin-top: 6rem;
-  background-image: url("https://wallpaperset.com/w/full/7/5/a/545589.jpg");
-  // margin: 0rem;
-  padding: 0rem;
+	background-image: url("https://wallpaperset.com/w/full/7/5/a/545589.jpg");
+	// margin: 0rem;
+	padding: 0rem;
 
-  .club-content {
-    width: 100%;
-    padding-top: 1.875rem;
-    padding-bottom: 12.5rem;
+    .club-content {
+        padding-top: 1.875rem;
+        padding-bottom: 12.5rem;
 
-    .club-name {
-      font-family: $font-family_1;
-      font-size: 2.5rem;
-      font-weight: 700;
-      line-height: 4.5rem;
-      letter-spacing: 0.0576em;
-      text-align: center;
-    }
-  }
-
-  .details-info {
-    font-family: $font-family_2;
-    font-size: 1.5rem;
-    font-weight: 400;
-    // line-height: 2.25rem;
-    // letter-spacing: 0.0288em;
-    text-align: center;
-    margin-left: 3.5rem;
-    margin-right: 3.5rem;
-    display: flex;
-    flex-direction: row;
-    margin-top: -4.375rem;
-
-    .text-detail {
-      margin-top: 5rem;
-    }
-  }
-}
-
-.image-text-1 {
-  display: flex;
-  flex-direction: row;
-  // gap: 4em;
-  justify-content: center;
-  align-items: center;
-
-  .image-text-1-card {
-    width: 95%;
-    display: flex;
-    justify-content: space-between;
-    // align-items: center;
-    // gap: 4em;
-
-    .card-left {
-      width: 48%;
-
-      img {
-        width: 18rem;
-        height: 20rem;
-        margin-top: -6.25rem;
-        @media screen and (max-width: 700px){
-          width: 11rem;
-          height: 11rem;
-          margin-top: -3.5rem;
+        .club-name {
+            font-family: $font-family_1;
+            font-size: 3rem;
+            font-weight: 700;
+            line-height: 4.5rem;
+            letter-spacing: 0.0576em;
+            text-align: center;
         }
-      }
     }
 
-    .card-right {
-      width: 48%;
-
-      .card-right-heading {
-        font-family: $font-family_2;
-        -size: 2.25rem;
-        font-weight: 500;
-        text-align: left;
-        @media screen and (max-width: 700px){
-          padding-top: 2rem;
-          font-size: 0.7rem;
-          font-weight: bold;
-      }
-      }
-
-      .card-right-info {
+    .details-info {
         font-family: $font-family_2;
         font-size: 1.5rem;
         font-weight: 400;
-        text-align: left;
-        @media screen and (max-width: 700px){
-          font-size: 0.6rem;
-         }
-      }
+        line-height: 2.25rem;
+        letter-spacing: 0.0288em;
+        text-align: center;
+        margin-left: 15.938rem;
+        margin-right: 15.938rem;
+        display: flex;
+        flex-direction: row;
+        margin-top: -4.375rem;
+
+        .text-detail {
+            margin-top: 5rem;
+        }
+        
     }
-  }
+}
+
+
+.image-text-1 {
+	display: flex;
+    flex-direction: row;
+    gap: 4em;
+    justify-content: center;
+    align-items: center;
+
+    .image-text-1-card {
+        width: 90%;
+        display: flex;
+        justify-content: space-between;
+        gap: 4em;
+
+        .card-left {
+            width: 45%;
+
+            .image {
+                width: 32.25rem;
+                height: 26rem;
+                margin-top: -6.25rem;
+            }
+        }
+        
+        .card-right{
+        width: 45%;
+
+            .card-right-heading {
+                font-family: $font-family_2;
+                -size: 2.25rem;
+                font-weight: 500;
+                line-height: 3.375rem;
+                letter-spacing: 0.0432em;
+                text-align: left;
+            }
+
+            .card-right-info {
+                font-family: $font-family_2;
+                font-size: 1.5rem;
+                font-weight: 400;
+                line-height: 2.25rem;
+                letter-spacing: 0.0288em;
+                text-align: left;
+            }
+        }
+    }
 }
 
 .image-text-2 {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  /* flex-direction: row; */
-  /* gap: 4em; */
-  padding-top: 5rem;
-  width: 100%;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+    /* flex-direction: row; */
+    /* gap: 4em; */
+    padding-top: 5rem;
+    width: 100%;
 
-  .info-text-2-data {
-    width: 95%;
-    display: flex;
-    justify-content: space-between;
-    gap: 4em;
+    .info-text-2-data {
+        width: 90%;
+        display: flex;
+        justify-content: space-between;
+        gap: 4em;
 
-    .info-left {
-      width: 48%;
+        info-left {
+            width: 45%;
 
-      .card-info-right {
-        -family: $font-family_2;
-        font-size: 1.5rem;
-        font-weight: 400;
-        // line-height: 2.25rem;
-        // letter-spacing: 0.0288em;
-        text-align: center;
-        @media screen and (max-width: 700px){
-         font-size: 0.8rem;
+            .card-info-right {
+                -family: $font-family_2;
+                font-size: 1.5rem;
+                font-weight: 400;
+                line-height: 2.25rem;
+                letter-spacing: 0.0288em;
+                text-align: center;
+            }
         }
-      }
-    }
 
-    .info-right {
-      width: 48%;
-
-      img {
-        width: 18rem;
-        height: 20rem;
-        @media screen and (max-width: 700px){
-          width: 11rem;
-          height: 11rem;
+        .info-right {
+            width: 45%;
         }
-      }
     }
-  }
 }
 
 .lorem-card {
-  padding-top: 5rem;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-
-  .lorem-card-component {
-    width: 80%;
+	padding-top: 5rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding-top: 6.25rem;
-    padding-bottom: 7.5rem;
+    width: 100%;
 
-    .lorem-details {
-      padding: 3rem;
-      background-image: url("https://wallpaperset.com/w/full/7/5/a/545589.jpg");
-      height: 30rem;
-      @media screen and (max-width: 700px){
-          height: 23rem;
-      }
+    .lorem-card-component {
+        width: 80%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding-top: 6.25rem;
+        padding-bottom: 12.5rem;
 
-      .lorem-heading {
-        font-family: $font-family_2;
-        font-size: 2.25rem;
-        font-weight: 500;
-        @media screen and (max-width: 700px){
-          font-size: 1rem;
-      }
-      }
+        .lorem-details{
+            background-image: url("https://wallpaperset.com/w/full/7/5/a/545589.jpg");
+            height: 40rem;
 
-      .lorem-text {
-        font-size: 1.5rem;
-        font-weight: 400;
-        text-align: center;
-        margin-left: 3.5rem;
-        margin-right: 3.5rem;
-        @media screen and (max-width: 700px){
-          font-size: 0.6rem;
-          margin: auto;
-      }
-      }
-    }
+            .lorem-heading {
+                font-family: $font-family_2;
+                font-size: 2.25rem;
+                font-weight: 500;
+                -height: 3.375rem;
+                letter-spacing: 0.0432em;
+                -align: center;
+            }
 
-    .lower-image {
-      margin-top: -25.5%;
-      @media screen and (max-width: 700px){
-        margin-top: -7.5rem;
-    }
-      
-      img {
-        width: 18rem;
-        height: 20rem;
-
-        @media screen and (max-width: 700px){
-          height: 14rem;
-          width: 13rem;
-      }
-      }
-    }
-  }
+.lorem-text {
+  font-family: Oswald;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 2.25rem;
+  // letter-spacing: 0.0288em;
+  text-align: center;
+  margin-left: 12.5rem;
+  margin-right: 12.5rem;
 }
+
+.lorem-card {
+  margin: 5.5rem;
+  background-image: url("https://wallpaperset.com/w/full/7/5/a/545589.jpg");
+}
+
+.lorem-card-component {
+  padding-top: 6.25rem;
+  padding-bottom: 12.5rem;
+}
+
+        .lower-image {
+	        margin-top: -17.5%;
+        }
+    }
+}
+
+

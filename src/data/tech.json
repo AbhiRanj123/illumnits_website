@@ -1,0 +1,136 @@
+[
+    {
+        "id":"1",
+        "Team":"Technical Head",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Abhishek Ranjan",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "github":"https://www.github.com/sahinbosss/",
+                "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705499596/Illuminits/TECH_TEAM/Abhishek.jpg"
+            },
+            {
+                "id":"2",
+                "name":"Mayur Jyoti Kashyap",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "github":"https://www.github.com/sahinbosss/",
+                "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705499623/Illuminits/TECH_TEAM/Mayur.jpg"
+            }
+        ]
+    },
+    {
+        "id":"1",
+        "Team":"Senior Developers",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Adarsh Mishra",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "github":"https://www.github.com/sahinbosss/",
+                "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705499598/Illuminits/TECH_TEAM/Adarsh.jpg"
+            },
+            {
+                "id":"1",
+                "name":"Aman Kumar",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "github":"https://www.github.com/sahinbosss/",
+                "image":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+            },
+            {
+                "id":"1",
+                "name":"Siddhant Mishra",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "github":"https://www.github.com/sahinbosss/",
+                "image":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+            },
+            {
+                "id":"1",
+                "name":"Nikhil Kumar",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "github":"https://www.github.com/sahinbosss/",
+                "image":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+            }
+        ]
+    },
+    {
+        "id":"1",
+        "Team":"Junior Developers",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Sahin Alam",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "github":"https://www.github.com/sahinbosss/",
+                "image":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+            },
+            {
+                "id":"1",
+                "name":"Mayank Ranjan",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "github":"https://www.github.com/sahinbosss/",
+                "image":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+            },
+            {
+                "id":"1",
+                "name":"Himanshu Rajput",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "github":"https://www.github.com/sahinbosss/",
+                "image":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+            },
+            {
+                "id":"1",
+                "name":"Anjali",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "github":"https://www.github.com/sahinbosss/",
+                "image":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+            }
+        ]
+    },
+    {
+        "id":"1",
+        "Team":"UI/UX Developers",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Jassi Laskar",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "github":"https://www.github.com/sahinbosss/",
+                "image":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+            },
+            {
+                "id":"1",
+                "name":"Vishal Singh Patel",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "github":"https://www.github.com/sahinbosss/",
+                "image":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png"
+            }
+        ]
+    }
+
+   
+]

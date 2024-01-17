@@ -6,15 +6,34 @@
         "desc":"LPL is the flagship event of Illuminits where we simulate IPL"
     },
     {
-        "id": "2",
+        "id":"2",
+        "name":"IMLD",
+        "image":"https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/dutz2jdvqzezq4oweuqe",
+        "desc":"A Vent-out session usually refers to a period of time or an opportunity for someone to express their emotions, frustrations, or concerns openly and freely."
+    },
+    {
+        "id":"3",
+        "name":"Deprador & Kaladarshan",
+        "image":"https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/dutz2jdvqzezq4oweuqe",
+        "desc":"A thrilling event of ILLUMINITS in collaboration with Symphonits,Official Music Club of NIT SILCHAR"
+    },
+    {
+        "id": "4",
         "name": "Manthan",
         "image":"https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/dutz2jdvqzezq4oweuqe",
         "desc":"Manthan is the flagship event of Illuminits organized during Hindi Diwas"
     },
     {
-        "id": "3",
-        "name": "Gliteratti",
+        "id":"5",
+        "name":"Other Events",
+        "image":"https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/dutz2jdvqzezq4oweuqe",
+        "desc":""
+    },
+    {
+        "id": "6",
+        "name": "Farewell",
         "image":"https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/dutz2jdvqzezq4oweuqe",
         "desc":"Gliteratti is one of a kind art exhibition organized by Illuminits"
     }
+
 ]

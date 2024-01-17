@@ -77,6 +77,15 @@ function Hero() {
         >
           <Icon width="32" color="white" icon="fe:instagram" />
         </a>
+        <a
+          className="icon"
+          rel="noreferrer"
+          href="https://www.linkedin.com/company/illuminits/"
+          target="_blank"
+          aria-label="LinkedIn"
+        >
+          <Icon width="32" color="white" icon="et:linkedin" />
+        </a>
       </div>
     </div>
   );
