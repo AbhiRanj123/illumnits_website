@@ -153,22 +153,32 @@ $font-family_2: Oswald;
                 -align: center;
             }
 
-            .lorem-text {
-                -family: $font-family_2;
-                -size: 1.5rem;
-                font-weight: 400;
-                line-height: 2.25rem;
-                letter-spacing: 0.0288em;
-                text-align: center;
-                margin-left: 12.5rem;
-                margin-right: 12.5rem;
-            }
-        }
+.lorem-text {
+  font-family: Oswald;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 2.25rem;
+  // letter-spacing: 0.0288em;
+  text-align: center;
+  margin-left: 12.5rem;
+  margin-right: 12.5rem;
+}
+
+.lorem-card {
+  margin: 5.5rem;
+  background-image: url("https://wallpaperset.com/w/full/7/5/a/545589.jpg");
+}
+
+.lorem-card-component {
+  padding-top: 6.25rem;
+  padding-bottom: 12.5rem;
+}
 
         .lower-image {
 	        margin-top: -17.5%;
         }
     }
+}
 }
 
 
