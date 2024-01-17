@@ -2,11 +2,46 @@
     {
         "id":"1",
         "name":"Event 1",
-        "image":"https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/gyha4sqslwzhohzqory1"
+        "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705497957/Home_Carousel/ij03byb3swksvmdzyaqe.jpg"
     },
     {
         "id":"2",
         "name":"Event 2",
-        "image":"https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/dutz2jdvqzezq4oweuqe"
+        "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705498680/Home_Carousel/nxxqzgynwiwvwdvhlup2.jpg"
+    },
+    {
+        "id":"3",
+        "name":"Event 3",
+        "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705497595/Home_Carousel/bm0ztqwqrnxziagthwpu.jpg"
+    },
+    {
+        "id":"4",
+        "name":"Event 4",
+        "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705497676/Home_Carousel/yyc7u0bcgmfipkhe4uth.jpg"
+    },
+    {
+        "id":"5",
+        "name":"Event 5",
+        "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705497679/Home_Carousel/tn7umdde1cxvqjgybc19.jpg"
+    },
+    {
+        "id":"6",
+        "name":"Event 6",
+        "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705498242/Home_Carousel/ptdfo0ibevmdcmngmagx.jpg"
+    },
+    {
+        "id":"7",
+        "name":"Event 7",
+        "image":""
+    },
+    {
+        "id":"8",
+        "name":"Event 8",
+        "image":""
+    },
+    {
+        "id":"8",
+        "name":"Event 9",
+        "image":""
     }
 ]
