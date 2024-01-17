@@ -51,7 +51,9 @@ const Clubs = () => {
           </div>
         ))}
       </div>
-    </div>
+      </div>
+      </div>
+    // </div>
   );
 };
 
