@@ -14,20 +14,27 @@
 
 // export default Assamese
 // import React from "react";
-import {useParams} from "react-router-dom";
-import "./ClubsPages.scss";
+import { useState, useEffect } from 'react';
+import { useParams } from 'react-router-dom';
+import clubDetailsData from '../../data/ClubDetails.json';
 
 const ClubsPages = () => {
-  const {clubName} = useParams();
+  const [clubDetails, setClubDetails] = useState(null);
+  const { clubname } = useParams();
+
+  useEffect(() => {
+    setClubDetails(clubDetailsData[clubname]);
+  }, [clubname]);
+
+
   return (
     <div>
       <div className="club-card">
         <div className="club-content">
-          <p className="club-name">{clubName}</p>
+          <p className="club-name">{clubname}</p>
           <div className="details-info">
             <p className="text-detail">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+             {clubDetails.section1.paragraph1}
             </p>
           </div>
         </div>
