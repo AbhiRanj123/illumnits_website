@@ -72,11 +72,31 @@ $font-family_2: Oswald;
           width: 14rem;
           height: 13rem;
           margin-top: -3.5rem;
+          .image {
+            width: 14rem;
+            height: 13rem;
+            margin-top: -6.25rem;
+          }
+        }
+        @media screen and (max-width: 1200px) {
+          width: 20rem;
+          height: 17rem;
+          margin-top: -3.5rem;
+          .image {
+            width: 14rem;
+            height: 13rem;
+            margin-top: -6.25rem;
+          }
         }
         @media screen and (max-width: 500px) {
           width: 9rem;
           height: 9rem;
           margin-top: -3.5rem;
+          .image {
+            width: 9rem;
+            height: 9rem;
+            margin-top: -6.25rem;
+          }
         }
       }
     }

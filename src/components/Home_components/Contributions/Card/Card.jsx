@@ -1,15 +1,13 @@
 // import {useState} from "react";
 import Proptype from "prop-types";
 import "./Card.scss";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 
 const Card = (props) => {
   return (
     <div className="contri-card">
       <div className="hover-card desc">{`${props.desc}`}
-      <Link to={props.path}  className="more-btn">
-            Know More
-          </Link>
+      
        </div>
 
       <div className="contri-card initial">
