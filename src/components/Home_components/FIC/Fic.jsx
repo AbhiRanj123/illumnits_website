@@ -15,25 +15,20 @@ const Fic = () => {
           <h2>Dr.Partha Pakray </h2>
           <h3>Associate Professor, CSE Department</h3>
           <p>
-           <details>
-            <summary>
-            LPFA is a vibrant community dedicated to fostering creativity, expression, and
-            a love for literature and the arts. Whether you are passionate about writing,
-            poetry, visual arts, or any form of creative expression, you are an essential
-            part of our diverse and talented group.Literary and cultural activities play a
-            crucial role in the holistic development of students.
-            </summary>
-            LPFA is a vibrant community dedicated to fostering creativity, expression, and
-            a love for literature and the arts. Whether you are passionate about writing,
-            poetry, visual arts, or any form of creative expression, you are an essential
-            part of our diverse and talented group.Literary and cultural activities play a
-            crucial role in the holistic development of students. Engaging in these
-            activities goes beyond academics and provides numerous benefits for personal
-            growth, social skills, and overall well-being. I encourage each of you to
-            actively participate, share your ideas, and contribute to the growth of our
-            club. We are here to support and inspire one another in our creative
-            endeavors.
-           </details>
+            <details>
+              <summary>
+                LPFA is a vibrant community dedicated to fostering creativity, expression,
+                and a love for literature and the arts. Whether you are passionate about
+                writing, poetry, visual arts, or any form of creative expression, you are
+                an essential part of our diverse and talented group.Literary and cultural
+                activities play a crucial role in the holistic development of students.
+              </summary>
+              Engaging in these activities goes beyond academics and provides numerous
+              benefits for personal growth, social skills, and overall well-being. I
+              encourage each of you to actively participate, share your ideas, and
+              contribute to the growth of our club. We are here to support and inspire one
+              another in our creative endeavors.
+            </details>
           </p>
         </div>
       </div>
