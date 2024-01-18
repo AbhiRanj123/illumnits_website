@@ -64,5 +64,49 @@
       "paragraph1": "Content for section 2, paragraph 1.",
       "paragraph2": "Content for section 2, paragraph 2."
     }
+  },
+  {
+    "clubName": "Digital Arts Club",
+    "section1": {
+      "paragraph1": "Content for section 1, paragraph 1.",
+      "paragraph2": "Content for section 1, paragraph 2."
+    },
+    "section2": {
+      "paragraph1": "Content for section 2, paragraph 1.",
+      "paragraph2": "Content for section 2, paragraph 2."
+    }
+  },
+  {
+    "clubName": "Fine Arts Club",
+    "section1": {
+      "paragraph1": "Content for section 1, paragraph 1.",
+      "paragraph2": "Content for section 1, paragraph 2."
+    },
+    "section2": {
+      "paragraph1": "Content for section 2, paragraph 1.",
+      "paragraph2": "Content for section 2, paragraph 2."
+    }
+  },
+  {
+    "clubName": "CluJournalism Club",
+    "section1": {
+      "paragraph1": "Content for section 1, paragraph 1.",
+      "paragraph2": "Content for section 1, paragraph 2."
+    },
+    "section2": {
+      "paragraph1": "Content for section 2, paragraph 1.",
+      "paragraph2": "Content for section 2, paragraph 2."
+    }
+  },
+  {
+    "clubName": "Publication Club",
+    "section1": {
+      "paragraph1": "Content for section 1, paragraph 1.",
+      "paragraph2": "Content for section 1, paragraph 2."
+    },
+    "section2": {
+      "paragraph1": "Content for section 2, paragraph 1.",
+      "paragraph2": "Content for section 2, paragraph 2."
+    }
   }
 ]
