@@ -14,9 +14,7 @@ function Events() {
       <div className="event-intro">
         <h2>Events</h2>
         <p>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus perspiciatis
-          quod possimus quaerat facilis! Eos fuga velit eius dolorum, iste quod
-          exercitationem veniam sunt at saepe minima dolore commodi fugiat?
+        Welcome to the vibrant world of creativity and expression, where words come to life, ideas find their voice, and artistic talents flourish. The Literary, Publications, and Fine Arts Society of NIT Silchar is a dynamic hub that celebrates the diverse realms of literature, publications, and fine arts on our campus. Committed to fostering a culture of intellectual and artistic exploration, our club serves as a platform for students to unleash their creativity and share their unique perspectives with the world.<br></br><br></br>Join us in our journey of self-expression, where literature meets art, and ideas converge to create a tapestry of inspiration.<br></br><br></br>Here are the various events carried out by ILLUMINITS throughout the year.
         </p>
       </div>
       <VerticalTimeline lineColor="#785140">
