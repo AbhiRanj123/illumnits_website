@@ -64,14 +64,19 @@ $font-family_2: Oswald;
       width: 48%;
 
       .image {
-        width: 32.25rem;
-        height: 26rem;
-        margin-top: -6.25rem;
+        width: 16rem;
+        height: 20rem;
+        margin-top: -10.25rem;
 
         @media screen and (max-width: 700px) {
           width: 14rem;
           height: 13rem;
           margin-top: -3.5rem;
+        }
+        @media screen and (min-width: 1200px) {
+          width: 25rem;
+          height: 28rem;
+          margin-top: -6.5rem;
         }
         @media screen and (max-width: 500px) {
           width: 9rem;
@@ -156,6 +161,12 @@ $font-family_2: Oswald;
       img {
         width: 18rem;
         height: 20rem;
+
+        @media screen and (min-width: 1200px) {
+          width: 25rem;
+          height: 28rem;
+          // margin-top: -3.5rem;
+        }
 
         @media screen and (max-width: 700px) {
           width: 14rem;
