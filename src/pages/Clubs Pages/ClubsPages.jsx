@@ -31,7 +31,7 @@ const ClubsPages = () => {
       setClubDetails(foundClub);
     }
   }, [clubName]);
-  console.log(clubDetails)
+  // console.log(clubDetails)
   return (
     <div>
       {
