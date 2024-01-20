@@ -3,14 +3,14 @@ $font-family_2: Oswald;
 
 .club-card {
   margin-top: 6rem;
-	background-image: url("https://wallpaperset.com/w/full/7/5/a/545589.jpg");
-	// margin: 0rem;
-	padding: 0rem;
+  background-image: url("https://wallpaperset.com/w/full/7/5/a/545589.jpg");
+  // margin: 0rem;
+  padding: 0rem;
 
-    .club-content {
-        width: 100%;
-        padding-top: 1.875rem;
-        padding-bottom: 12.5rem;
+  .club-content {
+    width: 100%;
+    padding-top: 1.875rem;
+    padding-bottom: 12.5rem;
 
         .club-name {
             font-family: $font-family_1;
@@ -19,7 +19,28 @@ $font-family_2: Oswald;
             text-align: center;
         }
     }
+    .club-name {
+      font-family: $font-family_1;
+      font-size: 3rem;
+      font-weight: 700;
+      text-align: center;
+    }
+  }
 
+  .details-info {
+    font-family: $font-family_2;
+    font-size: 1.5rem;
+    font-weight: 400;
+    text-align: center;
+    margin-left: 15.5rem;
+    margin-right: 15.5rem;
+    display: flex;
+    flex-direction: row;
+    margin-top: -4.375rem;
+    @media screen and (max-width: 700px) {
+      margin-left: 5rem;
+      margin-right: 5rem;
+    }
     .details-info {
         font-family: $font-family_2;
         font-size: 1.5rem;
@@ -35,226 +56,228 @@ $font-family_2: Oswald;
             margin-right: 5rem;
         }
 
-        .text-detail {
-            margin-top: 5rem;
-        }
-        
+    .text-detail {
+      margin-top: 5rem;
     }
+  }
 }
 
-
 .image-text-1 {
-	display: flex;
-    flex-direction: row;
-    // gap: 4em;
-    justify-content: center;
-    align-items: center;
-    margin-left: 5rem;
-    margin-right: 5rem;
+  display: flex;
+  flex-direction: row;
+  // gap: 4em;
+  justify-content: center;
+  align-items: center;
+  margin-left: 5rem;
+  margin-right: 5rem;
+  @media screen and (max-width: 700px) {
+    margin-left: 0rem;
+    margin-right: 0rem;
+  }
 
-    @media screen and (max-width: 500px){
-        margin-left: 0rem;
-        margin-right: 0rem;
+  .image-text-1-card {
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+    gap: 2em;
+
+    .card-left {
+      width: 48%;
+
+      .image {
+        width: 16rem;
+        height: 20rem;
+        margin-top: -10.25rem;
+
+        @media screen and (max-width: 700px) {
+          width: 14rem;
+          height: 13rem;
+          margin-top: -3.5rem;
+        }
+        @media screen and (min-width: 1200px) {
+          width: 25rem;
+          height: 28rem;
+          margin-top: -6.5rem;
+        }
+        @media screen and (max-width: 500px) {
+          width: 9rem;
+          height: 9rem;
+          margin-top: -3.5rem;
+        }
+      }
     }
 
-    .image-text-1-card {
-        width: 95%;
-        display: flex;
-        justify-content: space-between;
-        gap: 2em;
+    .card-right {
+      width: 48%;
 
-        .card-left {
-            width: 48%;
+      .card-right-heading {
+        font-family: $font-family_2;
+        font-size: 2.25rem;
+        font-weight: 500;
+        text-align: left;
+        padding-top: 3rem;
+        padding-bottom: 1.5rem;
 
-            .image {
-                width: 32.25rem;
-                height: 26rem;
-                margin-top: -6.25rem;
-
-                @media screen and (max-width: 700px){
-                    width: 14rem;
-                    height: 13rem;
-                    margin-top: -3.5rem;
-                }
-
-                @media screen and (max-width: 500px){
-                    height: 9rem;
-                    width: 9rem;
-                }
-            }
+        @media screen and (max-width: 700px) {
+          padding-top: 2rem;
+          font-size: 0.9rem;
+          font-weight: bold;
         }
-        
-        .card-right{
-        width: 48%;
+      }
 
+      .card-right-info {
+        font-family: $font-family_2;
+        font-size: 1.5rem;
+        font-weight: 400;
+        text-align: left;
 
-            .card-right-heading {
-                font-family: $font-family_2;
-                font-size: 2.25rem;
-                font-weight: 500;
-                text-align: left;
-                padding-top: 3rem;
-                padding-bottom: 1.5rem;
-
-                @media screen and (max-width: 700px){
-                    padding-top: 2rem;
-                    font-size: 0.9rem;
-                    font-weight: bold;
-                }
-            }
-
-            .card-right-info {
-                font-family: $font-family_2;
-                font-size: 1.5rem;
-                font-weight: 400;
-                text-align: left;
-
-                @media screen and (max-width: 700px){
-                    font-size: 0.6rem;
-                }
-            }
+        @media screen and (max-width: 700px) {
+          font-size: 0.6rem;
         }
+      }
     }
+  }
 }
 
 .image-text-2 {
-	display: flex;
-    // align-items: center;
-    justify-content: center;
-    // flex-direction: row; 
-    // gap: 4em; 
-    padding-top: 5rem;
-    // width: 100%;
-    margin-left: 5rem;
-    margin-right: 5rem;
+  display: flex;
+  justify-content: center;
+  padding-top: 5rem;
+  margin-left: 5rem;
+  margin-right: 5rem;
 
-    @media screen and (max-width: 500px){
-        margin-left: 0rem;
-        margin-right: 0rem;
+  @media screen and (max-width: 500px) {
+    margin-left: 0rem;
+    margin-right: 0rem;
+  }
+
+  .info-text-2-data {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    gap: 2em;
+
+    info-left {
+      width: 48%;
+
+      p{
+        letter-spacing: 0px;
+      }
+
+      .card-info-right {
+        font-family: $font-family_2;
+        font-size: 1.5rem;
+        font-weight: 400;
+        text-align: right;
+
+        @media screen and (max-width: 700px) {
+          font-size: 0.6rem;
+        }
+      }
     }
 
-    .info-text-2-data {
-        width: 90%;
-        display: flex;
-        justify-content: space-between;
-        gap: 2em;
+    .info-right {
+      width: 48%;
 
-        info-left {
-            width: 48%;
+      img {
+        width: 18rem;
+        height: 20rem;
 
-            .card-info-right {
-                font-family: $font-family_2;
-                font-size: 1.5rem;
-                font-weight: 400;
-                // line-height: 2.25rem;
-                // letter-spacing: 0.0288em;
-                text-align: right;
-
-                @media screen and (max-width: 700px){
-                    font-size: 0.6rem;
-                }
-            }
+        @media screen and (min-width: 1200px) {
+          width: 25rem;
+          height: 28rem;
+          // margin-top: -3.5rem;
         }
 
-        .info-right {
-            width: 48%;
-
-            img{
-                // width: 18rem;
-                // height: 20rem;
-
-                @media screen and (max-width: 700px){
-                    width: 14rem;
-                    height: 13rem;
-                }
-
-                @media screen and (max-width: 500px){
-                    height: 9rem;
-                    width: 9rem;
-                }
-            }
+        @media screen and (max-width: 700px) {
+          width: 14rem;
+          height: 13rem;
         }
+        @media screen and (max-width: 500px) {
+          width: 9rem;
+          height: 9rem;
+        }
+      }
     }
+  }
 }
 
 .lorem-card {
-	padding-top: 5rem;
+  padding-top: 5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+
+  .lorem-card-component {
+    width: 80%;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 100%;
+    padding-top: 6.25rem;
+    padding-bottom: 7.5rem;
 
-    .lorem-card-component {
-        width: 80%;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        padding-top: 6.25rem;
-        padding-bottom: 7.5rem;
+    .lorem-details {
+      padding: 3rem;
+      background-image: url("https://wallpaperset.com/w/full/7/5/a/545589.jpg");
+      height: 30rem;
 
-        .lorem-details{
-            padding: 3rem;
-            background-image: url("https://wallpaperset.com/w/full/7/5/a/545589.jpg");
-            height: 30rem;
+      @media screen and (max-width: 700px) {
+        height: 20rem;
+      }
 
-            @media screen and (max-width: 700px){
-                height: 20rem;
-            }
+      @media screen and (max-width: 350px) {
+        height: 26rem;
+      }
 
-            .lorem-heading {
-                font-family: $font-family_2;
-                font-size: 2.25rem;
-                font-weight: 500;
-                text-align: center;
+      .lorem-heading {
+        font-family: $font-family_2;
+        font-size: 2.25rem;
+        font-weight: 500;
+        text-align: center;
 
-                @media screen and (max-width: 700px){
-                    font-size: 1rem;
-                }
-            }
-
-            .lorem-text {
-                font-family: $font-family_2;
-                font-size: 1.5rem;
-                font-weight: 400;
-                text-align: center;
-                margin-left: 3.5rem;
-                margin-right: 3.5rem;
-                
-                @media screen and (max-width: 700px){
-                font-size: 0.8rem;
-                margin: auto;
-            }
-            }
-
-            
+        @media screen and (max-width: 700px) {
+          font-size: 1rem;
         }
+      }
 
-        .lower-image {
-	        margin-top: -14.5%;
+      .lorem-text {
+        font-family: $font-family_2;
+        font-size: 1.5rem;
+        font-weight: 400;
+        text-align: center;
+        margin-left: 3.5rem;
+        margin-right: 3.5rem;
 
-            @media screen and (max-width: 700px){
-                margin-top: -6.5rem;
-                
-                img{
-                width: 14rem;
-                height: 13rem;
-            }
-            }
-
-
-            @media screen and (max-width: 700px){
-                height: 14rem;
-                width: 13rem;
-            }
-
-            @media screen and (max-width: 500px){
-                height: 9rem;
-                width: 9rem;
-            }
+        @media screen and (max-width: 700px) {
+          font-size: 0.8rem;
+          margin: auto;
         }
+      }
     }
+
+    .lower-image {
+      margin-top: -14.5%;
+
+      @media screen and (max-width: 700px) {
+        margin-top: -6.5rem;
+
+        img {
+          width: 14rem;
+          height: 13rem;
+        }
+      }
+
+      @media screen and (max-width: 400px) {
+        margin-top: -4.5rem;
+
+        img {
+          width: 9rem;
+          height: 9rem;
+        }
+      }
+    }
+  }
 }
-
-

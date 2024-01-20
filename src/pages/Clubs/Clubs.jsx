@@ -1,10 +1,25 @@
 // import React, {useState} from 'react'
+// import { useState } from 'react';
 import {Link} from "react-router-dom";
 import ClubCard from "../../components/ClubsCard/ClubCard.jsx";
 import clubs from "../../data/ClubCard.json";
 import styles from "./Clubs.module.scss";
 
 const Clubs = () => {
+
+  // const [result, setResult] = useState(null);
+  // const [selectedClub, setSelectedClub] = useState(null);
+
+  // const getData = (club) => {
+  //   fetch(`/getDetails/${club}`)
+      // .then(response => response.json())
+      // .then(data => {
+      // setSelectedClub(club);
+      // setResult(JSON.stringify(data));
+      // })
+  //     .catch(error => console.error('Error:', error));
+  // };
+
   return (
     <div className={styles.Container}>
       {/* <h2>Select a Club:</h2> */}
@@ -28,6 +43,7 @@ const Clubs = () => {
               </Link>
               <hr />
             </div>
+            
 
             {/* <div className={styles.ClubsDescription}>
               {club.description}
@@ -36,7 +52,8 @@ const Clubs = () => {
         ))}
       </div>
       </div>
-    </div>
+      </div>
+    // </div>
   );
 };
 
