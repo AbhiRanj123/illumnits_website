@@ -1,23 +1,25 @@
 [
   {
     "clubName": "English Literature Club",
-    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,",
+    "description":"With stimulating conversations, book reviews, and creative writing exercises, the English Literature Club cultivates a passion for reading. Dive into the depths of both classic and modern literature as you and other fellow enthusiasts explore the universe of words. We aspire to unravel the beauty of language and share the magic of literature! As Oscar Wilde once said, 'The only way to do great work is to love what you do.' And here, in the English Literature Club, we believe in fostering that love for literature.",
+
+    "ImageURL": "https://res.cloudinary.com/dqgmgvpu3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1704736424/english_literature_club_bg_image_snavzs.jpg?_s=public-apps",
 
     "section1": {
 
       "image":"https://th.bing.com/th/id/OIP.iAhcp6m_91O-ClK79h8EQQHaFj?rs=1&pid=ImgDetMain",
       "heading": "Lorem ipsum dolor sit amet,",
-      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      "paragraph": "Our club stands as a beacon for literary enthusiasts, providing a platform to celebrate the written word. Through engaging events, we bring literature to life, fostering an environment that values the importance of reading and storytelling. From insightful book discussions to captivating poetry recitations, our events cater to a diverse range of interests. We believe in the power of shared experiences, where members can delve into the nuances of literature together, creating lasting memories and connections."
     },
 
     "section2": {
-      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis",
+      "paragraph": "Under the almanac of the English Literary Club, we host various modules that add vibrant colors to our literary tapestry. One such module is 'USOC' (User Submitted Original Content), where students have the opportunity to pour their hearts out, submitting their original pieces of poetry, thoughts, or reflections. We believe in providing a platform for these voices to be heard and celebrated. Our almanac also includes exciting segments like Book Recommendations, where members share their favorite reads and explore new literary worlds together. 'Word of the Week' challenges us to expand our vocabulary, while 'Movie Recommendations' allows us to explore the art of storytelling through a different lens.",
       "image": "https://th.bing.com/th/id/OIP.iAhcp6m_91O-ClK79h8EQQHaFj?rs=1&pid=ImgDetMain"
     },
 
     "section3": {
       "heading":"Lorem ipsum dolor sit amet",
-      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.",
+      "paragraph": "In essence, the English Literature Club is not just a gathering of book enthusiasts; it's a community that fosters a deep appreciation for the written word. Join us on this literary journey, where every page turned and every word spoken brings us closer to the profound magic that only literature can unveil.",
       "image": "https://th.bing.com/th/id/OIP.iAhcp6m_91O-ClK79h8EQQHaFj?rs=1&pid=ImgDetMain"
 
 
@@ -28,23 +30,25 @@
 
   {
 
-    "clubName": "Hindi Sahitya Samithi",
-    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,",
+    "clubName": "Hindi Sahitya Samiti",
+    "description":"हिन्दी साहित्य समिति, एक सांस्कृतिक समृद्धि और भाषा सेवा का सांघ है, जो एक स्कूल या कॉलेज में हिन्दी भाषा के प्रचार-प्रसार को बढ़ावा देने का कार्य करता है। इसका मुख्य उद्देश्य हिन्दी भाषा और साहित्य के महत्व को बढ़ावा देना है और छात्र-छात्राओं में हिन्दी प्रेम को बढ़ावा देना है। हिन्दी एक समृद्धि भरी भाषा है जिसमें हमारी सांस्कृतिक और साहित्यिक धरोहर छिपी है। इसे अपनाना हमारे सांस्कृतिक समृद्धि और विकास के लिए महत्वपूर्ण है। हिन्दी ने विभिन्न क्षेत्रों में अपनी अहम भूमिका साबित की है, चाहे वह साहित्य, विज्ञान, या सामाजिक न्याय हो। हिन्दी साहित्य समिति का कार्य है छात्र-छात्राओं को हिन्दी भाषा और साहित्य के प्रति जागरूक करना और इसे बढ़ावा देना। समिति समृद्ध सांस्कृतिक कार्यक्रमों, संवाद सत्रों और साहित्यिक प्रतियोगिताओं का आयोजन करती है जो छात्र-छात्राओं को हिन्दी में सक्रिय रूप से शामिल होने का अवसर प्रदान करते हैं।",
+
+    "ImageURL": "https://res.cloudinary.com/dqgmgvpu3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1704736423/hindi_literature_club_bg_image_ga90l8.jpg?_s=public-apps",
 
     "section1": {
       "image":"https://th.bing.com/th/id/OIP.iAhcp6m_91O-ClK79h8EQQHaFj?rs=1&pid=ImgDetMain",
       "heading": "Lorem ipsum dolor sit amet,",
-      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      "paragraph": "1. मंथन:- \n 1.1मनोव्याख्या: हमारी साहित्यिक गोष्ठी में आप सभी को अपनी मनोव्याथा साझा करने का मौका मिलता है। - 1.2 वाद विवाद: इसमें हम साहित्य की धारा में बहस और विचार-विमर्श करते हैं। - 1.3 प्रश्नोत्तरी: एक रोचक प्रश्नोत्तरी प्रतियोगिता जिसमें हमारे सदस्य भाग लेते हैं। - 1.4 निबंध लेखन: यहां आप अपनी रचनाएं साझा करके अपने विचारों को अभिव्यक्ति कर सकते हैं। - 1.5 काव्यधारा: हमारे काव्य प्रतियोगिता में हिंदी साहित्य की धारा में उत्कृष्टता का समर्थन किया जाता है। 2. महफिल-ए-हिज्र:- काव्य खंड: यहां हम हिंदी साहित्य के काव्य क्षेत्र की दुनिया को अनुभव करते हैं और उसे बढ़ावा देने का प्रयास करते हैं।"
     },
 
     "section2": {
-      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis",
+      "paragraph": "3. रचनाएँ - 3.1 जागरण: हमारी साहित्यिक जागरूकता कार्यक्रम जिसमें हम विभिन्न साहित्यिक विषयों पर बातचीत करते हैं। - 3.2 अभिव्यक्ति:यहां आपको अपने भावनाओं को व्यक्त करने का मौका मिलता है। - 3.3 अनुगाथा: हम यहां पुरातात्विक, सांस्कृतिक और साहित्यिक अनुगाथा में रुचि रखते हैं। - 3.4 तुकांत: एक साहित्यिक साधना जिसमें हम विभिन्न तुकांतों का आनंद लेते हैं।",
       "image": "https://th.bing.com/th/id/OIP.iAhcp6m_91O-ClK79h8EQQHaFj?rs=1&pid=ImgDetMain"
     },
 
     "section3": {
       "heading":"Lorem ipsum dolor sit amet",
-      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.",
+      "paragraph": "4. वृतांत:- हम विभिन्न साहित्यिक घटनाओं का वृतांत प्रस्तुत करते हैं, जिसमें आपको हमारे साहित्यिक सफलताओं का विवरण मिलता है। हिन्दी साहित्य समिति - राष्ट्रीय प्रोद्योगिकी संस्थान,सिलचर आपका स्वागत करते हैं|,",
       "image": "https://th.bing.com/th/id/OIP.iAhcp6m_91O-ClK79h8EQQHaFj?rs=1&pid=ImgDetMain"
     }
   },
@@ -54,6 +58,8 @@
   {
     "clubName": "Marwaadi Club",
     "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,",
+
+    "ImageURL": "https://res.cloudinary.com/dqgmgvpu3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1704736423/marwaadi_club_bg_image_ymqvfv.jpg?_s=public-apps",
 
     "section1": {
       "image":"https://th.bing.com/th/id/OIP.iAhcp6m_91O-ClK79h8EQQHaFj?rs=1&pid=ImgDetMain",
@@ -78,6 +84,8 @@
   {
     "clubName": "Assamese Literature Club",
     "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,",
+    
+    "ImageURL": "https://res.cloudinary.com/dqgmgvpu3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1704736420/assamese_literature_club_bg_image_jztmm2.jpg?_s=public-apps",
 
     "section1": {
       "image":"https://th.bing.com/th/id/OIP.iAhcp6m_91O-ClK79h8EQQHaFj?rs=1&pid=ImgDetMain",
@@ -101,22 +109,24 @@
 
   {
     "clubName": "Bengali Literaute Club",
-    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,",
+    "description":"আমার একুশে ফেব্রুয়ারি, আমি বলি ভাষা মোর মাতৃভাষা। এবং এটি যে ভাষা সে আমার মূল হতেই হবে, সেটির মাধ্যমেই আমি বিশ্বের সাথে কথা বলব। - রবীন্দ্রনাথ ঠাকুর \n \n \n \n On the 21st of February, I assert that my language is my mother tongue. It is through this language, which must remain my essence, that I shall speak to the world. - Rabindranath Tagore",
+
+    "ImageURL": "https://res.cloudinary.com/dqgmgvpu3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1704736423/bengali_literature_club_bg_image_dvyqzu.jpg?_s=public-apps",
 
     "section1": {
       "image":"https://th.bing.com/th/id/OIP.iAhcp6m_91O-ClK79h8EQQHaFj?rs=1&pid=ImgDetMain",
       "heading": "Lorem ipsum dolor sit amet,",
-      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      "paragraph": "Bengali Literature Club under ILLUMINITS is a vibrant community which encourages the practice of Bengali literature and promotes it in the college. It has the responsibility of creating an environment for the students to take the Bengali language ahead along with all other languages. The members of this club work dedicatedly for the  appreciation of Bengali literature and its artistic vastness."
     },
 
     "section2": {
-      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis",
+      "paragraph": "Amidst intellectually stimulating quiz modules, essay writing competitions, and the poetic dance of words in our Poetry Enclave, we also recognize the significance of International Mother Language Day (IMLD). This day holds a special place in our cultural journey, emphasizing the importance of linguistic diversity and celebrating the essence of our mother tongue. In the rhythmic heartbeat of Illuminits' Bengali Society, where events form a harmonious narrative, we invite everyone to embrace the essence, celebrate the diversity, and let the cultural voyage unfold. স্বাগতম!(Welcome!)",
       "image": "https://th.bing.com/th/id/OIP.iAhcp6m_91O-ClK79h8EQQHaFj?rs=1&pid=ImgDetMain"
     },
 
     "section3": {
       "heading":"Lorem ipsum dolor sit amet",
-      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.",
+      "paragraph": "Step into the cultural kaleidoscope of Illuminits' Bengali Literature Club, where a vibrant array of events awaits your exploration. Each event contributes to the vibrant story of Bengal's cultural mosaic. Explore, learn, and appreciate the rich heritage that defines us as we navigate the essence of Bengali culture together",
       "image": "https://th.bing.com/th/id/OIP.iAhcp6m_91O-ClK79h8EQQHaFj?rs=1&pid=ImgDetMain"
     }
   },
@@ -126,6 +136,8 @@
   {
     "clubName": "Telugu and Tamil Literature Club",
     "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,",
+
+    "ImageURL": "https://res.cloudinary.com/dqgmgvpu3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1704736419/telugu_and_tamil_literature_club_bg_image_ggvwvh.jpg?_s=public-apps",
 
     "section1": {
       "image":"https://th.bing.com/th/id/OIP.iAhcp6m_91O-ClK79h8EQQHaFj?rs=1&pid=ImgDetMain",
@@ -151,6 +163,8 @@
     "clubName": "Digital Arts Club",
     "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,",
 
+    "ImageURL": "https://res.cloudinary.com/dqgmgvpu3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1704736417/digital_arts_club_bg_image_migjxf.jpg?_s=public-apps",
+
     "section1": {
       "image":"https://th.bing.com/th/id/OIP.iAhcp6m_91O-ClK79h8EQQHaFj?rs=1&pid=ImgDetMain",
       "heading": "Lorem ipsum dolor sit amet,",
@@ -175,6 +189,8 @@
     "clubName": "Fine Arts Club",
     "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,",
 
+    "ImageURL": "https://res.cloudinary.com/dqgmgvpu3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1704736416/fine_arts_club_bg_mcadfh.jpg?_s=public-apps",
+
     "section1": {
       "image":"https://th.bing.com/th/id/OIP.iAhcp6m_91O-ClK79h8EQQHaFj?rs=1&pid=ImgDetMain",
       "heading": "Lorem ipsum dolor sit amet,",
@@ -197,6 +213,8 @@
   {
     "clubName": "Journalism Club",
     "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,",
+
+    "ImageURL": "https://res.cloudinary.com/dqgmgvpu3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1704736423/journalism_club_bg_pnptc1.jpg?_s=public-apps",
 
     "section1": {
       "image":"https://th.bing.com/th/id/OIP.iAhcp6m_91O-ClK79h8EQQHaFj?rs=1&pid=ImgDetMain",
@@ -221,6 +239,8 @@
   {
     "clubName": "Publication Club",
     "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,",
+
+    "ImageURL": "https://res.cloudinary.com/dqgmgvpu3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1704736426/publication_club_bg_pvj7po.jpg?_s=public-apps",
 
     "section1": {
       "image":"https://th.bing.com/th/id/OIP.iAhcp6m_91O-ClK79h8EQQHaFj?rs=1&pid=ImgDetMain",
