@@ -63,14 +63,14 @@ const ClubsPages = () => {
               <img className="image" src={clubDetails.section1.image} />
             </div>
             <div className="club-card-1-right">
-              <p className="club-card-1-right-heading">{clubDetails.section1.heading}</p>
+              {/* <p className="club-card-1-right-heading">{clubDetails.section1.heading}</p> */}
               <p className="club-card-1-right-info">{renderTextWithLineBreaks(clubDetails.section1.paragraph)}</p>
             </div>
           </div>
 
           <div className="club-card-2">
             <div className="club-card-2-left">
-              <p className="club-card-2-left-info">{clubDetails.section2.paragraph}</p>
+              <p className="club-card-2-left-info">{renderTextWithLineBreaks(clubDetails.section2.paragraph)}</p>
             </div>
             <div className="club-card-2-right">
               <img className="image" src={clubDetails.section2.image} />
@@ -79,7 +79,7 @@ const ClubsPages = () => {
 
           <div className="club-card-3">
             <div className="club-card-3-top">
-              <p className="club-card-3-top-heading">{clubDetails.section3.heading}</p>
+              {/* <p className="club-card-3-top-heading">{clubDetails.section3.heading}</p> */}
               <p className="club-card-3-top-info">{clubDetails.section3.paragraph}</p>
             </div>
             <div className="club-card-3-bottom">
