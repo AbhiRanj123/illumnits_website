@@ -2,38 +2,38 @@
     {
         "id": "1",
         "name": "LPL",
-        "image":"https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/gyha4sqslwzhohzqory1",
-        "desc":"LPL is the flagship event of Illuminits where we simulate IPL"
+        "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705519544/Illuminits/LPL/kwerbxhmitdy7wabo7v4.jpg",
+        "desc":""
     },
     {
         "id":"2",
         "name":"IMLD",
-        "image":"https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/dutz2jdvqzezq4oweuqe",
-        "desc":"A Vent-out session usually refers to a period of time or an opportunity for someone to express their emotions, frustrations, or concerns openly and freely."
+        "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705518468/Illuminits/IMLD/t9izsstl9rv9sinbmav3.jpg",
+        "desc":""
     },
     {
         "id":"3",
         "name":"Deprador & Kaladarshan",
-        "image":"https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/dutz2jdvqzezq4oweuqe",
-        "desc":"A thrilling event of ILLUMINITS in collaboration with Symphonits,Official Music Club of NIT SILCHAR"
+        "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705510052/Illuminits/DEPRADOR/j6aw3wtxe5ohkvakwvau.jpg",
+        "desc":""
     },
     {
         "id": "4",
         "name": "Manthan",
-        "image":"https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/dutz2jdvqzezq4oweuqe",
-        "desc":"Manthan is the flagship event of Illuminits organized during Hindi Diwas"
+        "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705519050/Illuminits/MANTHAN/ewlslovqykchzxq4pf62.jpg",
+        "desc":""
     },
     {
-        "id":"5",
-        "name":"Other Events",
-        "image":"https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/dutz2jdvqzezq4oweuqe",
+        "id": "5",
+        "name": "Farewell",
+        "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705514491/Illuminits/FAREWELL/svfmjvoqpdrvpk4o3lkl.jpg",
         "desc":""
     },
     {
         "id": "6",
-        "name": "Farewell",
-        "image":"https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/dutz2jdvqzezq4oweuqe",
-        "desc":"Gliteratti is one of a kind art exhibition organized by Illuminits"
+        "name": "Other Events",
+        "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705517985/Illuminits/Other_Events/q2xryfqjiyws8p6csnwy.jpg",
+        "desc":""
     }
 
 ]

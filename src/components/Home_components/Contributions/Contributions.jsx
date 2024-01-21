@@ -5,7 +5,7 @@ const data=[
   {
     id:1,
     title:"Incandescene",
-    desc:" Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae, maiores.",
+    desc:" Embark on a journey into the vibrant world of Incandescence, where Illuminits opens its doors to enthusiasts from all walks of life. This annual cultural celebration plays host to two stellar events that capture the essence of intellectual dynamism and creative expression - Deprador and Kaladarshan. ",
     path:"/contribution/incand"
   }
 ]
@@ -16,9 +16,7 @@ const Contribution = () => {
       <div className="contribution-box">
         <h2 className="contribution-box__title">Contributions</h2>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta perferendis,
-          repudiandae reprehenderit temporibus eos culpa aliquid quisquam. Quibusdam,
-          recusandae suscipit!
+          
         </p>
 
         <div className="card-container">
