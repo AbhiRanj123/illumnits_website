@@ -2,51 +2,51 @@
     {
         "id": "1",
         "name": "English Literature Club",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,"
+        "description": "Join our English Literature Club! Immerse yourself in literary discussions, explore classic and contemporary works, and foster a love for words. Unleash the power of storytelling together with fellow enthusiasts!"
     },
     {
         "id": "2",
-        "name": "Hindi Sahitya Samiti",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,"
+        "name": "Hindi Sahitya Samithi",
+        "description": "Hindi Sahitya Samiti is a cultural organization fostering appreciation for Hindi literature and promoting linguistic and literary activities, contributing to the rich tapestry of Indian culture."
     },
     {
         "id": "3",
         "name": "Marwaadi Club",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,"
+        "description": "Marwadi Club: A vibrant community celebrating rich Marwari culture, fostering connections, and organizing cultural events for members to embrace heritage and forge lasting bonds"
     },
     {
         "id": "4",
         "name": "Assamese Literature Club",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,"
+        "description": "The Assamese Literature Club celebrates the rich cultural tapestry of Assam through a passionate exploration of regional literature, fostering creativity, and nurturing a community of literary enthusiasts."
     },
     {
         "id": "5",
         "name": "Bengali Literaute Club", 
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,"
+        "description": "The Bengali Literature Club fosters a vibrant community passionate about Bengali literature. Through discussions, events, and shared love for the written word, it celebrates and promotes the rich literary heritage of Bengal."
     },
     {
         "id": "6",
         "name": "Telugu and Tamil Literature Club", 
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,"
+        "description": "The Telugu and Tamil Literature Club is a vibrant community celebrating the rich literary traditions of Telugu and Tamil languages. Explore profound storytelling, poetry, and cultural exchange within our passionate literary enclave."
     },
     {
         "id": "7",
         "name": "Digital Arts Club", 
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,"
+        "description": "The Digital Arts Club is a vibrant community uniting creative minds passionate about digital art. We explore diverse techniques, share ideas, and foster artistic collaboration in a supportive environment."
     },
     {
         "id": "8",
         "name": "Fine Arts Club", 
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,"
+        "description": "The Fine Arts Club fosters creativity and expression, providing a space for artists to collaborate, showcase their talents, and explore diverse artistic mediums through workshops, exhibitions, and engaging community events."
     },
     {
         "id": "9",
         "name": "Journalism Club", 
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,"
+        "description": "Join our Journalism Club for a dynamic exploration of storytelling, news analysis, and media literacy. Enhance your communication skills and stay informed in an engaging and collaborative environment."
     },
     {
         "id": "10",
         "name": "Publication Club", 
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,"
+        "description": "A vibrant community fostering intellectual exchange. Explore diverse literature, engage in insightful discussions, and broaden your perspective with fellow book enthusiasts. Join us in celebrating the joy of reading! "
     }
 ]
