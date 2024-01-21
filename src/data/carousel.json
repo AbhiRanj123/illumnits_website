@@ -28,20 +28,5 @@
         "id":"6",
         "name":"Event 6",
         "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705498242/Home_Carousel/ptdfo0ibevmdcmngmagx.jpg"
-    },
-    {
-        "id":"7",
-        "name":"Event 7",
-        "image":""
-    },
-    {
-        "id":"8",
-        "name":"Event 8",
-        "image":""
-    },
-    {
-        "id":"8",
-        "name":"Event 9",
-        "image":""
     }
 ]

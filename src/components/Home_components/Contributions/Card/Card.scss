@@ -7,8 +7,9 @@
   height: calc(30vw);
   border: #fff solid 1px;
   color: #fff;
-  background-image: url(https://res.cloudinary.com/dxiwtrjjl/image/upload/f_auto,q_auto/v1/Illuminits/djijw7ynodwjq1yc8pts);
-  background-size: contain;
+  background-image: url(https://res.cloudinary.com/dfgainxl5/image/upload/v1705509497/Illuminits/contribution/Incand.jpg);
+  background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
   transition: all 0.5s ease-in-out;
   animation: popup 0.5s ease-in-out forwards;
@@ -46,8 +47,8 @@
     }
   }
   .contri-title {
-    font-size: 2vw;
-    font-weight: 600;
+    font-size: 2.5vw;
+    font-weight: 800;
 
     @media screen and (max-width: 600px) {
       font-size: 5vw;
