@@ -1,32 +1,75 @@
+// .Dropdown {
+//   position: relative;
+
+//   .options {
+//     z-index: 99;
+//     font-size: 1.7rem;
+//     position: absolute;
+//     color: #785140;
+//     top: 100%;
+//     width: 0;
+//     overflow: hidden;
+//     transition: all 0.5s ease-in-out;
+//     backdrop-filter: blur(10px);
+//     display: flex;
+//     flex-direction: column;
+//     justify-content: space-evenly;
+//     align-items: center;
+//     padding-block: 1rem;
+//     gap: 1rem;
+//     @media screen and (max-width: 900px) {
+//       font-size: 1.5rem;
+//     }
+//     @media screen and (max-width: 600px) {
+//       font-size: 1rem;
+//     }
+//   }
+
+//   .showOptions {
+//     width: 200%;
+//     // padding: 20px 40px;
+//   }
+// }
+
+
+
 .Dropdown {
   position: relative;
 
-  .options {
-    z-index: 99;
-    font-size: 1.7rem;
-    position: absolute;
-    color: #785140;
-    top: 100%;
-    width: 0;
-    overflow: hidden;
-    transition: all 0.5s ease-in-out;
-    backdrop-filter: blur(10px);
+  .selected {
+    cursor: pointer;
     display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
     align-items: center;
-    padding-block: 1rem;
-    gap: 1rem;
-    @media screen and (max-width: 900px) {
-      font-size: 1.5rem;
-    }
-    @media screen and (max-width: 600px) {
-      font-size: 1rem;
-    }
+    justify-content: space-between;
+    font-size: 1.5rem;
+    color: #785140;
   }
 
-  .showOptions {
-    width: 200%;
-    // padding: 20px 40px;
+  .options {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    background: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    z-index: 10;
+    visibility: visible; /* Ensure visibility */
+    opacity: 1; /* Ensure it's visible */
+    transform: scaleY(1); /* Expanded state */
+    transform-origin: top;
+    transition: all 0.3s ease-in-out;
+  }
+
+  .option {
+    padding: 10px;
+    font-size: 1.5rem;
+    color: #785140;
+    cursor: pointer;
+    &:hover {
+      background: #f5f5f5;
+    }
   }
 }

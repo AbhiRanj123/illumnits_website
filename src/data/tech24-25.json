@@ -1,0 +1,134 @@
+[
+    {
+        "id":"1",
+        "Team":"Technical Head",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Mayank Ranjan",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "github":"https://github.com/tensorwarriormayank880/vyatha-UI",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735566562/IMG-20241230-WA0029_n1rkq4.jpg"
+            },
+            {
+                "id":"2",
+                "name":"Jassi Laskar ",
+                "designation":"Club Head",
+                "insta":"https://www.instagram.com/jassi._l?igsh=MXdpY3Vta2g2OGo2aA==",
+                "facebook":"https://www.facebook.com/profile.php?id=100087954885869",
+                "Linkedin":"https://www.linkedin.com/in/jassi-laskar-6aba78221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735491240/IMG-20240803-WA0083_-_CE_086_JASSI_LASKAR_ko8dvh.jpg"
+            }
+        ]
+    },
+    {
+        "id":"1",
+        "Team":"Senior Developers",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Mayank Ranjan",
+                "insta":"https://www.instagram.com/sahinisboss/",
+                "facebook":"https://www.instagram.com/sahinisboss/",
+                "Linkedin":"https://www.instagram.com/sahinisboss/",
+                "github":"https://github.com/tensorwarriormayank880/vyatha-UI",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735566562/IMG-20241230-WA0029_n1rkq4.jpg"
+            },
+            {
+                "id":"2",
+                "name":"Jassi Laskar",
+                "insta":"https://www.instagram.com/jassi._l?igsh=MXdpY3Vta2g2OGo2aA==",
+                "facebook":"https://www.facebook.com/profile.php?id=100087954885869",
+                "Linkedin":"https://www.linkedin.com/in/jassi-laskar-6aba78221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735491240/IMG-20240803-WA0083_-_CE_086_JASSI_LASKAR_ko8dvh.jpg"
+            }
+        ]
+    },
+    {
+        "id":"1",
+        "Team":"Junior Developers",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Priyanshu Tiwari",
+                "insta":"https://www.instagram.com/priyanshutiwari7405/",
+                "facebook":"https://m.facebook.com/profile.php?id=61555019462471",
+                "Linkedin":"https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav",
+                "github":"https://github.com/WebberTiwari",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735563683/priyanshu_k7ngof.jpg"
+            },
+            {
+                "id":"1",
+                "name":"Abhikrit Verma",
+                "insta":"https://www.instagram.com/_abhikrit._/profilecard/?igsh=MXBxbW1naXBkenQxag==",
+                "facebook":"https://www.instagram.com/_abhikrit._/profilecard/?igsh=MXBxbW1naXBkenQxag==",
+                "Linkedin":"https://www.linkedin.com/in/abhikrit-verma-75535a291",
+                "github":"https://github.com/Abhikrit-01",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735563261/1xD963YNAmiphH6KrKQMGci5OEffWddQr_x3ax15.jpg"
+            },
+            {
+                "id":"1",
+                "name":"Divyendu Tiwari",
+                "insta":"https://www.instagram.com/divyendu_tiwari12/profilecard/?igsh=MXZmcWxtMml2Z3Npcw==",
+                "facebook":"https://www.facebook.com/share/15sABZ6Den/",
+                "Linkedin":"https://www.linkedin.com/in/divyendu-tiwari-102213282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+                "github":"https://github.com/Divyendutiwari",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735563261/1YScyVqCuON6QVHzbKEIMsESCXKZwtsRE_xrr5yy.jpg"
+            },
+            {
+                "id":"1",
+                "name":"Indranuj Dev",
+                "insta":"https://www.instagram.com/indranuj_dev/profilecard/?igsh=MXhua25jeG5uMWhlbg==",
+                "facebook":"https://www.facebook.com/share/mRyi6LgfY2SEugi4/",
+                "Linkedin":"https://www.linkedin.com/in/indranuj-dev-b45366202?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+                "github":"https://github.com/indranuj17",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735563261/17yJ5ZuCgJzzXVDvIDgBlytwkS04GcaWu_moljno.jpg"
+            },
+            {
+                "id":"1",
+                "name":"Priya Das",
+                "insta":"https://www.instagram.com/__priya_das7/profilecard/?igsh=NjhzZmFyaHpqaWE2",
+                "facebook":"https://www.instagram.com/__priya_das7/profilecard/?igsh=NjhzZmFyaHpqaWE2",
+                "Linkedin":"https://www.linkedin.com/in/priya-das-a0575a2b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+                "github":"https://github.com/Priyadas732",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735574436/IMG-20240914-WA0007_-_Priya_Das_kqipoo.jpg"
+            },{
+                "id":"1",
+                "name":"Abhay Sharma",
+                "insta":"https://www.instagram.com/_abhay_sharma_2309/profilecard/?igsh=NzFqcmo0Mm9zaWcy",
+                "facebook":"https://www.instagram.com/_abhay_sharma_2309/profilecard/?igsh=NzFqcmo0Mm9zaWcy",
+                "Linkedin":"https://www.linkedin.com/in/abhay-sharma-063322314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+                "github":"https://github.com/Abhay-2309",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735574450/IMG_20240930_003558_574_-_Abhay_sharma_g7f7sy.webp"
+            }
+            ,{
+                "id":"1",
+                "name":"Samir Kumar",
+                "insta":"https://www.instagram.com/s.kumar_201/",
+                "facebook":"https://www.facebook.com/profile.php?id=100092724821356",
+                "Linkedin":"https://www.linkedin.com/in/samir-kumar-b07704281/",
+                "github":"https://www.instagram.com/s.kumar_201/",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735574576/IMG-20240928-WA0003_1_-_1002_Samir_kumar_dginy5.jpg"
+            }
+        ]
+    },
+    {
+        "id":"1",
+        "Team":"UI/UX Developers",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Gopal Ranjan",
+                "insta":"https://www.instagram.com/gopal_ranjan_?igsh=MXNwc295eW95ZzhodA==",
+                "facebook":"https://www.facebook.com/profile.php?id=61555323557198&mibextid=ZbWKwL",
+                "Linkedin":"https://www.linkedin.com/in/gopal-ranjan-2aa251229",
+                "github":"https://github.com/GopalRanjan32",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735563260/1yLm4kXfKNDpn6hfJS_C2dGl9K0Vu6Lr0_v95mxs.jpg"
+            }
+        ]
+    }
+
+   
+]
