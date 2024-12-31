@@ -49,7 +49,7 @@
                 "insta":"https://www.instagram.com/bhawnabharti_/profilecard/?igsh=YWczeGtzbDZibm1v",
                 "facebook":"https://www.facebook.com/share/1AvhjX3SZJ/",
                 "Linkedin":"https://www.linkedin.com/in/bhawna-bharti-213070257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735491241/1728904474827_-_CE_149_GAYATHRI_SAMUDRALA_lyquq0.jpg"
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735491242/Snapchat-1964746796_-_EIE_033_Bhawna_Bharti_t4uz2f.jpg"
             },
             {
                 "id":"2",
@@ -393,6 +393,15 @@
                 "facebook":"https://www.facebook.com/profile.php?id=100088311213829&mibextid=ZbWKwL",
                 "Linkedin":"https://www.linkedin.com/in/aniket-kumar-11248a258",
                 "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735491214/IMG-20241217-WA0008_-_Aniket_Kumar_eeqmjw.jpg"
+            },
+            
+            {
+                "id":"7",
+                "name":"Aman Kumar",
+                "insta":"https://www.instagram.com/_aman_kr_07?igsh=MXFiY294dzd4NWVrdg==",
+                "facebook":"https://www.instagram.com/_aman_kr_07?igsh=MXFiY294dzd4NWVrdg==",
+                "Linkedin":"https://www.instagram.com/_aman_kr_07?igsh=MXFiY294dzd4NWVrdg==",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735659964/SAVE_20241231_193459_pvtl7c.jpg"
             }
             
         ]
