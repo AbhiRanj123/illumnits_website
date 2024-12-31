@@ -23,29 +23,7 @@
             }
         ]
     },
-    {
-        "id":"1",
-        "Team":"Senior Developers",
-        "Members":[
-            {
-                "id":"1",
-                "name":"Mayank Ranjan",
-                "insta":"https://www.instagram.com/thisismayank_/profilecard/?igsh=NXBoOG51am1yZ3Vk",
-                "facebook":"https://www.instagram.com/thisismayank_/profilecard/?igsh=NXBoOG51am1yZ3Vk",
-                "Linkedin":"https://www.instagram.com/thisismayank_/profilecard/?igsh=NXBoOG51am1yZ3Vk",
-                "github":"https://github.com/tensorwarriormayank880",
-                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735566562/IMG-20241230-WA0029_n1rkq4.jpg"
-            },
-            {
-                "id":"2",
-                "name":"Jassi Laskar",
-                "insta":"https://www.instagram.com/jassi._l?igsh=MXdpY3Vta2g2OGo2aA==",
-                "facebook":"https://www.facebook.com/profile.php?id=100087954885869",
-                "Linkedin":"https://www.linkedin.com/in/jassi-laskar-6aba78221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735491240/IMG-20240803-WA0083_-_CE_086_JASSI_LASKAR_ko8dvh.jpg"
-            }
-        ]
-    },
+    
     {
         "id":"1",
         "Team":"Junior Developers",
