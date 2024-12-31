@@ -1,0 +1,400 @@
+[
+    {
+        "id":"1",
+        "Team":"Convenor",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Sahir Ahmed",
+                "insta":"https://www.instagram.com/heiinnn_sahir/profilecard/?igsh=MW42eDNlbDF0Mm0zdA==",
+                "facebook":"https://www.facebook.com/share/18BgsRfcGS/?mibextid=LQQJ4d",
+                "Linkedin":"https://www.linkedin.com/in/sahir-ahmed-5398a2256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735491217/IMG_0976_-_CE_086_JASSI_LASKAR_fmrghc.jpg"
+            }
+        ]
+    },
+  
+    {
+        "id":"3",
+        "Team":"English Literature Club",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Sayanrup Barman ",
+                "designation":"Head",
+                "insta":"https://www.instagram.com/__.excuse._.me.__/profilecard/?igsh=MjF1dmV2Mm0xYTNl",
+                "facebook":"https://www.instagram.com/__.excuse._.me.__/profilecard/?igsh=MjF1dmV2Mm0xYTNl",
+                "Linkedin":"https://www.instagram.com/__.excuse._.me.__/profilecard/?igsh=MjF1dmV2Mm0xYTNl",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735491240/IMG_20240819_173644_428_-_EIE_060_Sayanrup_Barman_febmlm.jpg"
+            },
+            {
+                "id":"2",
+                "name":"Sharmila Rapeti",
+                "designation":"Head",
+                "insta":"https://www.instagram.com/black.coffee_s?igsh=MTFiMmx3MWVtOTM1cg==",
+                "facebook":"https://www.facebook.com/profile.php?id=100087487977484&mibextid=ZbWKwL",
+                "Linkedin":"https://www.linkedin.com/in/sharmilarapeti?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735491239/IMG-20240214-WA0097_-_ECE_010_Rapeti_Sharmila_u4i5fl.jpg"
+            }
+        ]
+    },
+    {
+        "id":"4",
+        "Team":"Vocal Skills Club",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Bhawna Bharti",
+                "designation":"Head",
+                "insta":"https://www.instagram.com/bhawnabharti_/profilecard/?igsh=YWczeGtzbDZibm1v",
+                "facebook":"https://www.facebook.com/share/1AvhjX3SZJ/",
+                "Linkedin":"https://www.linkedin.com/in/bhawna-bharti-213070257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735491241/1728904474827_-_CE_149_GAYATHRI_SAMUDRALA_lyquq0.jpg"
+            },
+            {
+                "id":"2",
+                "name":"Vaarija Deshpande ",
+                "designation":"Head",
+                "insta":"https://www.instagram.com/deshpandevaarija/profilecard/?igsh=bTJwajZqZ3FremNs",
+                "facebook":"https://www.facebook.com/profile.php?id=100087875712565",
+                "Linkedin":"https://www.linkedin.com/in/vaarija-deshpande-53605b305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735491218/IMG_20240929_151308_-_VAARIJA_SHRIKANT_DESHPANDE_unhcji.jpg"
+            },
+            {
+                "id":"3",
+                "name":"Harish Putti",
+                "designation":"Head",
+                "insta":"https://www.instagram.com/_harish_putti/profilecard/?igsh=MTcwOTlsYnVnNWE0cw==",
+                "facebook":"https://www.facebook.com/profile.php?id=100086725053020&mibextid=ZbWKwL",
+                "Linkedin":"https://www.linkedin.com/in/harish-putti-a010b6253",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735566321/IMG_20240811_095142_-_EIE_032_PUTTI_HARISH_k6vnfs.jpg"
+            }
+        ]
+    },
+    {
+        "id":"5",
+        "Team":"Hindi Sahitya Samiti",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Mukesh",
+                "designation":"Club Head",
+                "insta":"https://www.instagram.com/mukul_0035/",
+                "facebook":"https://www.facebook.com/profile.php?id=100087730584229",
+                "Linkedin":"https://www.linkedin.com/in/mukesh-yadav-5a2b3a256/",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735491220/Mukesh_-_ECE-035_Mukesh_tfiman.jpg"
+            },
+            {
+                "id":"2",
+                "name":"Akanksha Pandey ",
+                "designation":"Club Head",
+                "insta":"https://www.instagram.com/dummy_insta_profile/",
+                "facebook":"https://www.facebook.com/profile.php?id=100087303893641&mibextid=ZbWKwL",
+                "Linkedin":"https://www.linkedin.com/in/akanksha-pandey-867624260",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735491218/IMG-20240816-WA0231_-_AKANKSHA_PANDEY_tghiph.jpg"
+            }
+        ]
+    },
+    {
+        "id":"6",
+        "Team":"Marwaadi Literature Club",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Rao Dinesh Yadav",
+                "designation":"Club Head",
+                "insta":"https://www.instagram.com/_dnrao?igsh=NTB3eDZoODd5Nzhk&utm_source=qr",
+                "facebook":"https://www.facebook.com/profile.php?id=100024580838113&mibextid=LQQJ4d",
+                "Linkedin":"https://www.linkedin.com/in/dinesh-yadav-b5a830262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735491216/IMG_0956_l11_-_Din_esh_ot0rht.jpg"
+            }
+        ]
+    },
+    {
+        "id":"7",
+        "Team":"Assamese Literature Club",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Sahir Ahmed",
+                "insta":"https://www.instagram.com/heiinnn_sahir/profilecard/?igsh=MW42eDNlbDF0Mm0zdA==",
+                "facebook":"https://www.facebook.com/share/18BgsRfcGS/?mibextid=LQQJ4d",
+                "Linkedin":"https://www.linkedin.com/in/sahir-ahmed-5398a2256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735491217/IMG_0976_-_CE_086_JASSI_LASKAR_fmrghc.jpg"
+            },
+            {
+                "id":"2",
+                "name":"Samrat kumar das ",
+                "designation":"Club Head",
+                "insta":"https://www.instagram.com/skd_atomic_flea?igsh=MWFsdmExb3ZzZmVhMQ==",
+                "facebook":"https://www.facebook.com/profile.php?id=100010374942295&mibextid=ZbWKwL",
+                "Linkedin":"https://www.linkedin.com/in/samrat-kumar-das-82317425a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735491214/IMG_0260_-_SAMRAT_KUMAR_DAS_slmq35.jpg"
+            }
+        ]
+    },
+    {
+        "id":"8",
+        "Team":"Bengali Literature Club",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Jassi Laskar ",
+                "designation":"Club Head",
+                "insta":"https://www.instagram.com/jassi._l?igsh=MXdpY3Vta2g2OGo2aA==",
+                "facebook":"https://www.facebook.com/profile.php?id=100087954885869",
+                "Linkedin":"https://www.linkedin.com/in/jassi-laskar-6aba78221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735491240/IMG-20240803-WA0083_-_CE_086_JASSI_LASKAR_ko8dvh.jpg"
+            },
+            {
+                "id":"2",
+                "name":"Dwipayan Podder",
+                "designation":"Club Head",
+                "insta":"https://www.instagram.com/dwipayan_podder03/profilecard/?igsh=Z25keHgyaXhxdDV0",
+                "facebook":"https://www.facebook.com/share/18QkBESSxP/",
+                "Linkedin":"https://www.linkedin.com/in/dwipayan-podder-88110b258",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735566272/IMG_20241230_125740_-_DWIPAYAN_PODDER_ashia8.jpg"
+            }
+        ]
+    },
+    {
+        "id":"9",
+        "Team":"Telgu and Tamil Literature Club",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Tharun Kumar Neelam ",
+                "designation":"Club Head",
+                "insta":"https://www.facebook.com/tharun.kumar.003?mibextid=ZbWKwL",
+                "facebook":"https://www.facebook.com/tharun.kumar.003?mibextid=ZbWKwL",
+                "Linkedin":"https://www.linkedin.com/in/tharunkumarneelam",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735491243/IMG_9774_-_003__Tharun_Kumar_Neelam_sst98p.jpg"
+            },
+            {
+                "id":"2",
+                "name":"Gayathri Samudrala ",
+                "designation":"Club Head",
+                "insta":"https://www.instagram.com/gaya3_samudrala/profilecard/?igsh=MTNvOHptdnhjbHhidA==",
+                "facebook":"https://www.facebook.com/share/gHDRe8M4kpeC4zVP/",
+                "Linkedin":"https://www.linkedin.com/in/gayathri-samudrala-a861a0283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735491241/1728904474827_-_CE_149_GAYATHRI_SAMUDRALA_lyquq0.jpg"
+            }
+        ]
+    },
+    {
+        "id":"10",
+        "Team":"Digital Arts Club",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Vishal Singh Patel ",
+                "designation":"Club Head",
+                "insta":"https://www.instagram.com/vishal91145/profilecard/?igsh=MTJ5ZXFrcGJ2d2M2dA==",
+                "facebook":"https://www.facebook.com/vishalsingh.patel.52493?mibextid=ZbWKwL",
+                "Linkedin":"https://www.linkedin.com/in/vishal-singh-patel-501863257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735491240/IMG-20240925-WA0025_-_VISHAL_SINGH_PATEL_zjekww.jpg"
+            },
+            {
+                "id":"2",
+                "name":"Anushka Sharma",
+                "designation":"Club Head",
+                "insta":"https://www.instagram.com/anushka_sharma2401?igsh=YXFrMDNncjVpZDRn",
+                "facebook":"https://www.instagram.com/anushka_sharma2401?igsh=YXFrMDNncjVpZDRn",
+                "Linkedin":"https://www.linkedin.com/in/anushka-sharma-599384258/",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735566272/yellow_-_CSE_168_ANUSHKA_SHARMA_ejsgga.jpg"
+            }
+        ]
+    },
+    {
+        "id":"11",
+        "Team":"Fine Arts Club",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Samriti",
+                "designation":"Club Head",
+                "insta":"https://www.instagram.com/dummy_insta_profile/",
+                "facebook":"https://www.instagram.com/dummy_insta_profile/",
+                "Linkedin":"https://www.instagram.com/dummy_insta_profile/",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735491254/IMG_20240826_232245_213_-_CSE_169_Samriti_fmhsg8.webp"
+            },
+            {
+                "id":"2",
+                "name":"Shreyasmita Bhattacharya ",
+                "designation":"Club Head",
+                "insta":"https://www.linkedin.com/in/shreyasmita-bhattacharya-675955257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+                "facebook":"https://www.linkedin.com/in/shreyasmita-bhattacharya-675955257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+                "Linkedin":"https://www.linkedin.com/in/shreyasmita-bhattacharya-675955257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735491240/IMG_20240510_204245_516_-_SHREYASMITA_BHATTACHARYA_ae2usy.jpg"
+            }
+        ]
+    },
+    {
+        "id":"12",
+        "Team":"Journalism Club",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Supritha Kanumuri",
+                "designation":"Club Head",
+                "insta":"https://www.instagram.com/suprithaa_10/profilecard/?igsh=Y3BuOTFwN3hwbGhr",
+                "facebook":"https://www.facebook.com/kanumuri.supritha?mibextid=LQQJ4d",
+                "Linkedin":"https://www.linkedin.com/in/supritha-kanumuri?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735491214/IMG_0433_-_EE_063_SUPRITHA_KANUMURI_agywui.jpg"
+            },
+            {
+                "id":"2",
+                "name":"Prashant Singh ",
+                "designation":"Club Head",
+                "insta":"https://www.instagram.com/_whois_prashant/profilecard/?igsh=MTJ5ZnVwZ2xzOHE3bQ==",
+                "facebook":"https://www.instagram.com/_whois_prashant/profilecard/?igsh=MTJ5ZnVwZ2xzOHE3bQ==",
+                "Linkedin":"https://www.instagram.com/_whois_prashant/profilecard/?igsh=MTJ5ZnVwZ2xzOHE3bQ==",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735491215/IMG_20241102_103619_829_-_PRASHANT_KUMAR_d0eu9z.webp"
+            }
+        ]
+    },
+    {
+        "id":"13",
+        "Team":"Publication Club",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Poorna Mani Sankar Pakki",
+                "designation":"Club Head",
+                "insta":"https://www.instagram.com/poorna_mani_sankar/",
+                "facebook":"https://www.facebook.com/profile.php?id=100083663637015",
+                "Linkedin":"http://www.linkedin.com/in/poorna-mani-sankar-584515257",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735491242/WhatsApp_Image_2024-11-15_at_11.09.41_AM_-_ECE_062_POORNA_MANI_SANKAR_PAKKI_sqpfx3.jpg"
+            },
+            {
+                "id":"2",
+                "name":"Yeggida Veda Amrutha ",
+                "designation":"Club Head",
+                "insta":"https://www.linkedin.com/in/veda-amrutha-74ab06257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+                "facebook":"https://www.linkedin.com/in/veda-amrutha-74ab06257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+                "Linkedin":"https://www.linkedin.com/in/veda-amrutha-74ab06257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735491219/IMG-20240930-WA0069_-_ECE-060_VEDA_AMRUTHA_qptilm.jpg"
+            }
+        ]
+    },
+    {
+        "id":"14",
+        "Team":"Event Management",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Raushan kumar ",
+                "designation":"Head",
+                "insta":"https://www.instagram.com/dummy_insta_profile/",
+                "facebook":"https://www.instagram.com/dummy_insta_profile/",
+                "Linkedin":"https://www.instagram.com/dummy_insta_profile/",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735491213/Raushan_kumar_-_EE_020_Raushan_Kumar_dfwpk1.jpg"
+            },
+            {
+                "id":"2",
+                "name":"Ayush Meshram",
+                "designation":"Head",
+                "insta":"https://www.instagram.com/aayushh.ii/profilecard/?igsh=MWRtMDNyZXRubm54eQ==",
+                "facebook":"https://www.facebook.com/profile.php?id=100094737542952&mibextid=ZbWKwL",
+                "Linkedin":"https://www.linkedin.com/in/ayush-meshram-027208257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735566277/Screenshot_2024-10-13-22-57-53-71_99c04817c0de5652397fc8b56c3b3817_-_EI_037__AYUSH_ql39pg.jpg"
+            }
+        ]
+    },
+    {
+        "id":"15",
+        "Team":"PR & Outreach Team",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Aniket Dutta",
+                "designation":"Head",
+                "insta":"https://www.instagram.com/anik__e_t/",
+                "facebook":"https://www.facebook.com/aniketdutta08?mibextid=LQQJ4d",
+                "Linkedin":"https://www.linkedin.com/in/aniketdutta08?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735491242/IMG_2640_-_EE_140_Aniket_Dutta_bmq3xw.jpg"
+            },
+            {
+                "id":"2",
+                "name":"Kaustab Roy",
+                "designation":"Club Head",
+                "insta":"https://www.instagram.com/kaustab_roy_/profilecard/?igsh=Mmx4eGg2bXZ3YWpv",
+                "facebook":"https://www.facebook.com/kaustab.roy.98?mibextid=ZbWKwL",
+                "Linkedin":"https://www.linkedin.com/in/kaustabroy?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735491217/20240115_123917_-_EE_040_KAUSTAB_ROY_kydgol.jpg"
+            }
+        ]
+    },
+    {
+        "id":"16",
+        "Team":"Marketing Team",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Anika Kayal",
+                "designation":"Head",
+                "insta":"https://www.instagram.com/.anks_/profilecard/?igsh=MWZoOWNuYTNoNnRlZg==",
+                "facebook":"https://www.facebook.com/profile.php?id=100088084598092&mibextid=LQQJ4d",
+                "Linkedin":"https://www.linkedin.com/in/anika-kayal-295947257",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735491219/my_picture_-_Anika_Kayal_xv3lpt.jpg"
+            }
+        ]
+    },
+
+    
+    {
+        "id":"17",
+        "Team":"Senior Executives",
+        "Members":[
+            {
+                "id":"1",
+                "name":"Arman Alam",
+                "insta":"https://www.instagram.com/dummy_insta_profile/",
+                "facebook":"https://www.instagram.com/dummy_insta_profile/",
+                "Linkedin":"https://www.instagram.com/dummy_insta_profile/",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735491242/IMG_20240814_104217009_HDR_2_-_ECE_148_ARMAN_ALAM_qubbqz.jpg"
+            },
+            {
+                "id":"2",
+                "name":"Priyanshu Raj",
+                "insta":"https://www.instagram.com/priyanshhh2611/profilecard/?igsh=ZTNkY25yamludGUx",
+                "facebook":"https://www.facebook.com/profile.php?id=61558428982106&mibextid=ZbWKwL",
+                "Linkedin":"https://www.linkedin.com/in/priyanshu-raj-622060258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735491218/InShot_20240227_154208493_-_PRIYANSHU_RAJ_v4jhno.jpg"
+            },
+            {
+                "id":"3",
+                "name":"Abhishek Jha ",
+                "insta":"https://www.instagram.com/imabhishek_14/profilecard/?igsh=aWd6NjVkbG1ua3gw",
+                "facebook":"https://www.facebook.com/profile.php?id=100011247224294&mibextid=ZbWKwL",
+                "Linkedin":"https://www.linkedin.com/in/abhishek-jha-6468921a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735491216/IMG_20231004_174738_038_-_ABHISHEK_JHA_fd1std.jpg"
+            },
+            {
+                "id":"4",
+                "name":"Sanket Kumar",
+                "insta":"https://www.instagram.com/its_sanket_kr/profilecard/?igsh=MTdwY3R2OG56ZWFjNw==",
+                "facebook":"https://www.facebook.com/profile.php?id=100030730680449&mibextid=ZbWKwL",
+                "Linkedin":"https://www.linkedin.com/in/sanket-kumar-848603271",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735491216/IMG_20240330_123243_-_Kunal_Kumar_b658rj.jpg"
+            },
+            {
+                "id":"5",
+                "name":"Aklesh Choudhury",
+                "insta":"https://www.instagram.com/_aklesh__?igsh=MWVhMXJhaGJha28xZw==",
+                "facebook":"https://www.facebook.com/share/1DgXSnGy4Q/",
+                "Linkedin":"https://www.linkedin.com/in/aklesh-choudhury-113784256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735491214/IMG_20230907_161854_500_-_CSE_148_AKLESH_CHOUDHURY_zteg6q.jpg"
+            },
+            {
+                "id":"6",
+                "name":"Aniket Kumar",
+                "insta":"https://www.instagram.com/aniketkumar.7197/profilecard/?igsh=Y290cnZ5d291cWli",
+                "facebook":"https://www.facebook.com/profile.php?id=100088311213829&mibextid=ZbWKwL",
+                "Linkedin":"https://www.linkedin.com/in/aniket-kumar-11248a258",
+                "image":"https://res.cloudinary.com/duqavhkag/image/upload/v1735491214/IMG-20241217-WA0008_-_Aniket_Kumar_eeqmjw.jpg"
+            }
+            
+        ]
+    }
+]
