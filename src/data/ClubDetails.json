@@ -1,259 +1,201 @@
 [
   {
     "clubName": "English Literature Club",
-    "description":"With stimulating conversations, book reviews, and creative writing exercises, the English Literature Club cultivates a passion for reading. Dive into the depths of both classic and modern literature as you and other fellow enthusiasts explore the universe of words. We aspire to unravel the beauty of language and share the magic of literature! As Oscar Wilde once said, 'The only way to do great work is to love what you do.' And here, in the English Literature Club, we believe in fostering that love for literature.",
-
+    "description": "With stimulating conversations, book reviews, and creative writing exercises, the English Literature Club cultivates a passion for reading. Dive into the depths of both classic and modern literature as you and other fellow enthusiasts explore the universe of words. We aspire to unravel the beauty of language and share the magic of literature! As Oscar Wilde once said, 'The only way to do great work is to love what you do.' And here, in the English Literature Club, we believe in fostering that love for literature.",
     "ImageURL": "https://res.cloudinary.com/dqgmgvpu3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1704736424/english_literature_club_bg_image_snavzs.jpg?_s=public-apps",
-
     "section1": {
-
-      "image":"https://res-console.cloudinary.com/dnikdowjp/thumbnails/v1/image/upload/v1705836923/Q2x1Yi1kZXRhaWwtaW1hZ2VzL0VuZ2xpc2hfTGl0ZXJhdHVyZV8zX2NfZmlsbF93XzUxNl9oXzQxNl9nX2F1dG9fd2g1YjZ6/preview",
+      "image": "https://res-console.cloudinary.com/dnikdowjp/thumbnails/v1/image/upload/v1705836923/Q2x1Yi1kZXRhaWwtaW1hZ2VzL0VuZ2xpc2hfTGl0ZXJhdHVyZV8zX2NfZmlsbF93XzUxNl9oXzQxNl9nX2F1dG9fd2g1YjZ6/preview",
       "heading": "Lorem ipsum dolor sit amet,",
       "paragraph": "Our club stands as a beacon for literary enthusiasts, providing a platform to celebrate the written word. Through engaging events, we bring literature to life, fostering an environment that values the importance of reading and storytelling. From insightful book discussions to captivating poetry recitations, our events cater to a diverse range of interests. We believe in the power of shared experiences, where members can delve into the nuances of literature together, creating lasting memories and connections."
     },
-
     "section2": {
       "paragraph": "Under the almanac of the English Literary Club, we host various modules that add vibrant colors to our literary tapestry. One such module is 'USOC' (User Submitted Original Content), where students have the opportunity to pour their hearts out, submitting their original pieces of poetry, thoughts, or reflections. Our almanac also includes exciting segments like Book Recommendations, where members share their favorite reads and explore new literary worlds together. 'Word of the Week' challenges us to expand our vocabulary, while 'Movie Recommendations' allows us to explore the art of storytelling through a different lens.",
       "image": "https://res-console.cloudinary.com/dnikdowjp/thumbnails/v1/image/upload/v1705837069/Q2x1Yi1kZXRhaWwtaW1hZ2VzL0VuZ2xpc2hfTGl0ZXJhdHVyZV8yX2NfZmlsbF93XzUxNl9oXzQxNl9nX2F1dG9fa21iY25p/preview"
     },
-
     "section3": {
-      "heading":"Lorem ipsum dolor sit amet",
+      "heading": "Lorem ipsum dolor sit amet",
       "paragraph": "In essence, the English Literature Club is not just a gathering of book enthusiasts; it's a community that fosters a deep appreciation for the written word. Join us on this literary journey, where every page turned and every word spoken brings us closer to the profound magic that only literature can unveil.",
       "image": "https://res-console.cloudinary.com/dnikdowjp/thumbnails/v1/image/upload/v1705836715/Q2x1Yi1kZXRhaWwtaW1hZ2VzL0VuZ2xpc2hfbGl0ZXJhdHVyZV8xX2NfZmlsbF93XzQ3NF9oXzM1NV9nX2F1dG9fZ3ZxY2x6/preview"
-
-
     }
   },
-
-
-
   {
-
     "clubName": "Hindi Sahitya Samithi",
-    "description":"हिन्दी साहित्य समिति, एक सांस्कृतिक समृद्धि और भाषा सेवा का सांघ है, जो एक स्कूल या कॉलेज में हिन्दी भाषा के प्रचार-प्रसार को बढ़ावा देने का कार्य करता है। इसका मुख्य उद्देश्य हिन्दी भाषा और साहित्य के महत्व को बढ़ावा देना है और छात्र-छात्राओं में हिन्दी प्रेम को बढ़ावा देना है। हिन्दी एक समृद्धि भरी भाषा है जिसमें हमारी सांस्कृतिक और साहित्यिक धरोहर छिपी है। इसे अपनाना हमारे सांस्कृतिक समृद्धि और विकास के लिए महत्वपूर्ण है।",
-
+    "description": "हिन्दी साहित्य समिति, एक सांस्कृतिक समृद्धि और भाषा सेवा का सांघ है, जो एक स्कूल या कॉलेज में हिन्दी भाषा के प्रचार-प्रसार को बढ़ावा देने का कार्य करता है। इसका मुख्य उद्देश्य हिन्दी भाषा और साहित्य के महत्व को बढ़ावा देना है और छात्र-छात्राओं में हिन्दी प्रेम को बढ़ावा देना है। हिन्दी एक समृद्धि भरी भाषा है जिसमें हमारी सांस्कृतिक और साहित्यिक धरोहर छिपी है। इसे अपनाना हमारे सांस्कृतिक समृद्धि और विकास के लिए महत्वपूर्ण है। \n  साहित्य और भाषा की शाश्वत धारा, समय के प्रवाह में भी अमर रहती है। शब्दों के ये अनमोल मोती, मानवता की आत्मा को सदयों तक जगमगाते रहते हैं|",
     "ImageURL": "https://res.cloudinary.com/dqgmgvpu3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1704736423/hindi_literature_club_bg_image_ga90l8.jpg?_s=public-apps",
-
     "section1": {
-      "image":"https://res-console.cloudinary.com/dnikdowjp/thumbnails/v1/image/upload/v1705839268/Q2x1Yi1kZXRhaWwtaW1hZ2VzL3ZlZGEyX3UxdTB1b19jX3BhZF93XzUxNl9oXzQxNl9oMXkzaXA=/preview",
+      "image": "https://res-console.cloudinary.com/dnikdowjp/thumbnails/v1/image/upload/v1705839268/Q2x1Yi1kZXRhaWwtaW1hZ2VzL3ZlZGEyX3UxdTB1b19jX3BhZF93XzUxNl9oXzQxNl9oMXkzaXA=/preview",
       "heading": "Lorem ipsum dolor sit amet,",
-      "paragraph": "1. मंथन:- \n 1.1मनोव्याख्या: हमारी साहित्यिक गोष्ठी में आप सभी को अपनी मनोव्याथा साझा करने का मौका मिलता है। \n 1.2 वाद विवाद: इसमें हम साहित्य की धारा में बहस और विचार-विमर्श करते हैं। \n 1.3 प्रश्नोत्तरी: एक रोचक प्रश्नोत्तरी प्रतियोगिता जिसमें हमारे सदस्य भाग लेते हैं। \n 2. महफिल-ए-हिज्र:- काव्य खंड: यहां हम हिंदी साहित्य के काव्य क्षेत्र की दुनिया को अनुभव करते हैं और उसे बढ़ावा देने का प्रयास करते हैं। "
+      "paragraph": "1. मंथन:- \n 1.1मनोव्याख्या: हमारी साहित्यिक गोष्ठी में आप सभी को अपनी मनोव्याथा साझा करने का मौका मिलता है। \n 1.2 वाद विवाद: इसमें हम साहित्य की धारा में बहस और विचार-विमर्श करते हैं। \n 1.3 प्रश्नोत्तरी: एक रोचक प्रश्नोत्तरी प्रतियोगिता जिसमें हमारे सदस्य भाग लेते हैं। \n 2. महफिल-ए-हिज्र:- काव्य खंड: यहां हम हिंदी साहित्य के काव्य क्षेत्र की दुनिया को अनुभव करते हैं और उसे बढ़ावा देने का प्रयास करते हैं। ",
+      "paragraph-1":"साहत्य समाज का दर्पण होता है। (Literature is the mirror of society.) Hindi Sahitya Samiti is the eternal part of the society ILLUMINITS, NIT Silchar. In the hallowed halls of NITS, where minds converge and dreams take flight, the ILLUMINITS emerges as a sanctuary of words, a haven for souls seeking solace in the symphony of prose and poetry.."
     },
-
     "section2": {
-      "paragraph": "3. रचनाएँ:- \n 3.1 जागरण: हमारी साहित्यिक जागरूकता कार्यक्रम जिसमें हम विभिन्न साहित्यिक विषयों पर बातचीत करते हैं। \n 3.2 अभिव्यक्ति:यहां आपको अपने भावनाओं को व्यक्त करने का मौका मिलता है। \n 3.3 अनुगाथा: हम यहां पुरातात्विक, सांस्कृतिक और साहित्यिक अनुगाथा में रुचि रखते हैं। \n 3.4 तुकांत: एक साहित्यिक साधना जिसमें हम विभिन्न तुकांतों का आनंद लेते हैं। \n 4. वृतांत:- हम विभिन्न साहित्यिक घटनाओं का वृतांत प्रस्तुत करते हैं, जिसमें आपको हमारे साहित्यिक सफलताओं का विवरण मिलता है।हिन्दी साहित्य समिति - राष्ट्रीय प्रोद्योगिकी संस्थान,सिलचर आपका स्वागत करते हैं|",
+      "paragraph": "3. रचनाएँ:- \n 3.1 जागरण: हमारी साहित्यिक जागरूकता कार्यक्रम जिसमें हम विभिन्न साहित्यिक विषयों पर बातचीत करते हैं। \n 3.2 अभिव्यक्ति:यहां आपको अपने भावनाओं को व्यक्त करने का मौका मिलता है। \n 3.3 अनुगाथा: हम यहां पुरातात्विक, सांस्कृतिक और साहित्यिक अनुगाथा में रुचि रखते हैं। \n 3.4 तुकांत: एक साहित्यिक साधना जिसमें हम विभिन्न तुकांतों का आनंद लेते हैं। \n 4. वृतांत:- हम विभिन्न साहित्यिक घटनाओं का वृतांत प्रस्तुत करते हैं, जिसमें आपको हमारे साहित्यिक सफलताओं का विवरण मिलता है। हिन्दी साहित्य समिति - राष्ट्रीय प्रोद्योगिकी संस्थान,सिलचर आपका स्वागत करते हैं| \n  HSS takes us on a boat, underneath lies water of great Hindi literature poems, surrounded by mountains of dohas of Mirabai,Kabir and Tulsidas, and the oar is our creativity and common love for Hindi literature and art.Here, at HSS, pages whisper secrets of old and new, weaving tales that transcend time and place, nurturing hearts and sharpening minds",
       "image": "https://res-console.cloudinary.com/dnikdowjp/thumbnails/v1/image/upload/v1705839272/Q2x1Yi1kZXRhaWwtaW1hZ2VzL2hpbmRpX2lhZDYwZF9jX2Nyb3Bfd181MTZfaF80MTZfZ19hdXRvX3U0MnVueA==/preview"
     },
-
     "section3": {
-      "heading":"Lorem ipsum dolor sit amet",
-      "paragraph": " हिन्दी ने विभिन्न क्षेत्रों में अपनी अहम भूमिका साबित की है, चाहे वह साहित्य, विज्ञान, या सामाजिक न्याय हो। हिन्दी साहित्य समिति का कार्य है छात्र-छात्राओं को हिन्दी भाषा और साहित्य के प्रति जागरूक करना और इसे बढ़ावा देना। समिति समृद्ध सांस्कृतिक कार्यक्रमों, संवाद सत्रों और साहित्यिक प्रतियोगिताओं का आयोजन करती है जो छात्र-छात्राओं को हिन्दी में सक्रिय रूप से शामिल होने का अवसर प्रदान करते हैं।",
+      "heading": "Lorem ipsum dolor sit amet",
+      "paragraph": " हिन्दी ने विभिन्न क्षेत्रों में अपनी अहम भूमिका साबित की है, चाहे वह साहित्य, विज्ञान, या सामाजिक न्याय हो। हिन्दी साहित्य समिति का कार्य है छात्र-छात्राओं को हिन्दी भाषा और साहित्य के प्रति जागरूक करना और इसे बढ़ावा देना। समिति समृद्ध सांस्कृतिक कार्यक्रमों, संवाद सत्रों और साहित्यिक प्रतियोगिताओं का आयोजन करती है जो छात्र-छात्राओं को हिन्दी में सक्रिय रूप से शामिल होने का अवसर प्रदान करते हैं। \n  Our aim is simple yet magnificent.The Hindi Sahitya Club serves as a platform where literature enthusiasts can gather, share their ideas, and embark on new literary explorations Find your tribe at the Hindi Sahitya Club, where like-minded souls converge to celebrate the beauty and depth of Hindi literature.",
+      "image": "https://res-console.cloudinary.com/dnikdowjp/thumbnails/v1/image/upload/v1705839275/Q2x1Yi1kZXRhaWwtaW1hZ2VzL2hpbmRpLWRpd2FzLWdldHR5aW1hZ2VzLTYxNjEyMzQ3MF9vbnlvNHJfY19maWxsX3dfNDc0X2hfMzU1X3diM3Mzaw==/preview"
+    },
+    "section4": {
+      "heading": "Lorem ipsum dolor sit amet",
+      "paragraph": " The eternal stream of literature and language remains immortal in the flow of time. These precious pearls of words keep the soul of humanity shining for centuries.At the Hindi Sahitya Club, we keep this eternal stream of literature and language alive.Here, we celebrate the works of literary luminaries like Mahadevi Verma,Harivansh Rai Bachchan,Surdas,Maithili Sharan Gupt and many more ,whose profound words and timeless stories have shaped Hindi literature: Together, we cherish the precious pearls of our words, the light of our thoughts, and the brilliance of our cultural heritage. Here, we not only live the richness of the past but also pave a bright path for the future.",
       "image": "https://res-console.cloudinary.com/dnikdowjp/thumbnails/v1/image/upload/v1705839275/Q2x1Yi1kZXRhaWwtaW1hZ2VzL2hpbmRpLWRpd2FzLWdldHR5aW1hZ2VzLTYxNjEyMzQ3MF9vbnlvNHJfY19maWxsX3dfNDc0X2hfMzU1X3diM3Mzaw==/preview"
     }
   },
-
-
-
   {
     "clubName": "Marwaadi Club",
-    "description":"Marwari literature is a rich and diverse tradition that reflects the cultural heritage, history, and social life of the region. It has its roots in the vernacular traditions of Rajasthan and draws inspiration from the folk tales, legends, and historical events of the region. The earliest form of Marwari literature is what we get from rock edicts, inscriptions, coins and seals. Its written form is influenced mainly by the tradition of oral literature, which carries the experiences and observations of the common masses.",
-
+    "description": "Tracing its roots to the folk traditions of Rajasthan, the Marwaadi literature is a rich mosaic influenced by folklore, legends and historical events that knit stories of valor and romance . The Marwaadi club, under the purview of Illuminits, thrives to bring out the charm of the rich and vibrant Marwaadi culture and literature.",
     "ImageURL": "https://res.cloudinary.com/dqgmgvpu3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1704736423/marwaadi_club_bg_image_ymqvfv.jpg?_s=public-apps",
-
     "section1": {
-      "image":"https://res.cloudinary.com/dfgainxl5/image/upload/v1705828768/fwe5u3nshl70481wgjyy.jpg",
+      "image": "https://res.cloudinary.com/dfgainxl5/image/upload/v1705828768/fwe5u3nshl70481wgjyy.jpg",
       "heading": "",
-      "paragraph": "Marwaadi literature is a vibrant tapestry of folklore, legends, and historical narratives woven in the Marwari language. Rooted in the cultural ethos of Rajasthan, it reflects the traditions, values, and stories of the Marwari community. The literature comprises various forms, including folk songs, poetry, and prose, with contributions from renowned poets and writers.  is generally agreed that modern Rajasthani literature began with the works of Suryamal Misra. His most important works are the Vamsa Bhaskara and the Vira satsaī."
+      "paragraph": " Marwaadi literature often contains social commentary, critiquing societal norms and upholding for reform. Much of its literature is inspired by oral traditions, where folk songs, narratives and stories are passed down verbally, which are critical in understanding its linguistic heritage. The literary works which include poetry and prose manifests the cultural and social scenario of the Marwaadi community, with themes drawing inspiration from nature, human emotions and musings local to the mass experiences."
     },
-
     "section2": {
-      "paragraph": "Rajasthani literature, a kaleidoscope of narratives, encapsulates the essence of Rajasthan's multifaceted heritage. Folklore weaves tales of valor and romance, vividly portraying the desert's mystique and the resilience of Rajputana traditions. Rajasthani poetry, marked by intricate rhythms and poignant expressions, narrates the arduous journeys of life in the Thar Desert. The genre of 'Veerpuri' delves into tales of courage and chivalry, embodying the indomitable Rajput spirit. From the evocative verses of Sant Kanha Ram to the folk epics like 'Pabuji Ki Phad,' Rajasthani literature encompasses a vast spectrum of artistic expressions, mirroring the cultural diversity and historical grandeur of this enchanting region.",
+      "paragraph": " The Marwaadi club contributes to capture the true essence of Rajasthan’s varied heritage and to illuminate its works among the college community. The club owing to its latest inclusion can conduct various literary events, workshops, quizzes and cultural celebrations which will not only popularize the Marwaadi culture and community, but will also help preserve its cultural identity. The club holds immense potential to highlight the Marwaadi cultural and literary works that will create a space for others to indulge in a beautiful spectrum of its rich tapestry of literature and human diversity",
       "image": "https://res.cloudinary.com/dfgainxl5/image/upload/v1705828769/twzse41vo6r5ky03mief.webp"
     },
-
     "section3": {
-      "heading":"",
-      "paragraph": "Marwaadi club in college can be a catalyst for preserving and popularizing Marwaadi literature. By creating a vibrant cultural space that engages students, the club contributes to the broader goal of preserving the rich tapestry of Marwaadii traditions. Through a combination of literary events, workshops, cultural celebrations, and digital outreach, the Marwaadi club can become a beacon for promoting the beauty and significance of Marwari literature within the college community.",
+      "heading": "",
+      "paragraph": " The Marwaadi Club is one of the most esteemed clubs of NIT, Silchar dedicated to the appreciation of Marwaadi literature and culture. The club actively tells the tales, folklores and focuses on showcasing and preserving the glorious culture and history of the Marwaadi community. It serves as a gathering place for all who have a passion for Marwaadi literature. The club gives emphasis on interesting topics such as finance and business network building which are the core elements of the Marwaadi way of life through literature and other artistic spectacles.",
+      "image": "https://res.cloudinary.com/dfgainxl5/image/upload/v1705828768/jqdfoaxl5zbwe5ejin0s.jpg"
+    },
+    "section4": {
+      "heading": "",
+      "paragraph": "  The aim of the Marwadi Literature Club is to promote and preserve the rich literary heritage of the Marwadi community by providing a platform for the exploration, discussion, and celebration of Marwadi literature. It also aims to spread awareness and teach life lessons from the Marwaadi culture. The club aspires reach greater heights and add much value to the student community through active storytelling of life lessons from the Marwaadi community and develop a deeper appreciation for the culture and literature.",
       "image": "https://res.cloudinary.com/dfgainxl5/image/upload/v1705828768/jqdfoaxl5zbwe5ejin0s.jpg"
     }
   },
-
-
-
   {
     "clubName": "Assamese Literature Club",
     "description":"The Assamese Literature Club serves as a haven for enthusiasts, fostering a deep appreciation for Assamese literary treasures. It provides a platform for lively discussions, book readings, and cultural exchanges, nurturing a community passionate about the written word. Through events and activities, the club strives to preserve and promote the rich heritage of Assamese literature, creating a vibrant space where members can explore, engage, and celebrate the diverse literary expressions of Assam.",
-    
-    "ImageURL": "https://res.cloudinary.com/dqgmgvpu3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1704736420/assamese_literature_club_bg_image_jztmm2.jpg?_s=public-apps",
-
+ "ImageURL": "https://res.cloudinary.com/dqgmgvpu3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1704736420/assamese_literature_club_bg_image_jztmm2.jpg?_s=public-apps",
     "section1": {
-      "image":"https://res-console.cloudinary.com/dnikdowjp/thumbnails/v1/image/upload/v1705841704/Q2x1Yi1kZXRhaWwtaW1hZ2VzLzBlYTgwMGRlOGU5MDMzMjgyYmRmNzNjNGEwODZmZTBhX3BkdWZqcF9jX2ZpbGxfd181MTZfaF80MTZfZHN2Zmxr/preview",
+      "image": "https://res-console.cloudinary.com/dnikdowjp/thumbnails/v1/image/upload/v1705841704/Q2x1Yi1kZXRhaWwtaW1hZ2VzLzBlYTgwMGRlOGU5MDMzMjgyYmRmNzNjNGEwODZmZTBhX3BkdWZqcF9jX2ZpbGxfd181MTZfaF80MTZfZHN2Zmxr/preview",
       "heading": "Exploring the Rich Tapestry of Assamese Literature",
-      "paragraph": "Assam, a picturesque state in northeastern India, is not only known for its breathtaking landscapes and diverse culture but also for its vibrant literary tradition. Within the literary sphere, Assamese club literature has emerged as a unique and enriching facet, weaving together the cultural threads that bind the people of Assam. This literary movement, often nurtured within the confines of social clubs, has played a pivotal role in preserving and promoting the rich literary heritage of Assam."
+      "paragraph": "The Assamese Literature Club at our college stands at the cusp of a promising future, poised to become a beacon of cultural enrichment and literary excellence. With increasing interest among students in exploring regional literature, the club has the potential to cultivate a deep appreciation for Assamese literary heritage while also fostering contemporary voices."
     },
-
     "section2": {
-      "paragraph": "One of the noteworthy aspects of Assamese literature Club is its role in the preservation and promotion of indigenous languages. Assam is home to a plethora of languages and dialects, each with its unique charm. Literary clubs actively contribute to the documentation and celebration of these linguistic nuances, ensuring that the linguistic diversity of Assam remains a cherished aspect of its cultural heritage.Assamese club literature serves as a platform for cultural exchanges and collaborations. Writers, poets, and intellectuals from diverse backgrounds come together within these literary clubs, fostering a sense of unity amid diversity. Such collaborations not only enrich the literary landscape but also contribute to the broader cultural dialogue within Assam.",
+      "paragraph": " Future initiatives could include collaborative projects with renowned Assamese authors, translation workshops to bring local works to a wider audience, and digital archives to preserve and share rare literary treasures. By organizing literary festivals, poetry slams, and interactive sessions, the club can provide a vibrant platform for budding writers and poets.",
       "image": "https://res-console.cloudinary.com/dnikdowjp/thumbnails/v1/image/upload/v1705841706/Q2x1Yi1kZXRhaWwtaW1hZ2VzL2RlZmF1bHRfZnlyemR5X2NfcGFkX3dfNTE2X2hfNDE2X3ZibXBuZw==/preview"
     },
-
     "section3": {
-      "heading":"",
-      "paragraph": "Assamese literature Club stands as a testament to the enduring spirit of cultural expression in Assam. Through its diverse themes, linguistic richness, and collaborative endeavors, this literary movement continues to shape and reflect the collective consciousness of the Assamese people. As efforts to preserve and promote this unique form of literature persist, the legacy of Assamese literature Club is poised to endure and thrive in the years to come.",
+      "heading": "",
+      "paragraph": " Additionally, leveraging social media and digital platforms will allow the club to reach a global audience, promoting Assamese literature beyond geographical boundaries. With dedicated efforts and innovative programs, the Assamese Literature Club is set to inspire and nurture a new generation of literary enthusiasts, ensuring the rich legacy of Assamese literature thrives in the modern era.",
       "image": "https://res-console.cloudinary.com/dnikdowjp/thumbnails/v1/image/upload/v1705841707/Q2x1Yi1kZXRhaWwtaW1hZ2VzLzQ0MDdkNzhjYTk2NTU4ODczYTk4Y2VmMDU3NDQxOWRkX3F1dzZsOV9jX3BhZF93XzQ3NF9oXzM1NV9ma2FhNmY=/preview"
     }
   },
-
-
-
   {
     "clubName": "Bengali Literaute Club",
-    "description":"আমার একুশে ফেব্রুয়ারি, আমি বলি ভাষা মোর মাতৃভাষা। এবং এটি যে ভাষা সে আমার মূল হতেই হবে, সেটির মাধ্যমেই আমি বিশ্বের সাথে কথা বলব। - রবীন্দ্রনাথ ঠাকুর \n \n \n \n On the 21st of February, I assert that my language is my mother tongue. It is through this language, which must remain my essence, that I shall speak to the world. - Rabindranath Tagore",
-
+    "description": " “If we are to preserve culture we must continue to create it” —Johan Huizinga.",
     "ImageURL": "https://res.cloudinary.com/dqgmgvpu3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1704736423/bengali_literature_club_bg_image_dvyqzu.jpg?_s=public-apps",
-
     "section1": {
-      "image":"https://res-console.cloudinary.com/dnikdowjp/thumbnails/v1/image/upload/v1705842371/Q2x1Yi1kZXRhaWwtaW1hZ2VzLzI2NzI4OTVfY2lpaGlhX2NfcGFkX2JfZ2VuX2ZpbGxfd181MTZfaF80MTZfY3RwZzRx/preview",
+      "image": "https://res-console.cloudinary.com/dnikdowjp/thumbnails/v1/image/upload/v1705842371/Q2x1Yi1kZXRhaWwtaW1hZ2VzLzI2NzI4OTVfY2lpaGlhX2NfcGFkX2JfZ2VuX2ZpbGxfd181MTZfaF80MTZfY3RwZzRx/preview",
       "heading": "Lorem ipsum dolor sit amet,",
-      "paragraph": "Bengali Literature Club under ILLUMINITS is a vibrant community which encourages the practice of Bengali literature and promotes it in the college. It has the responsibility of creating an environment for the students to take the Bengali language ahead along with all other languages. The members of this club work dedicatedly for the  appreciation of Bengali literature and its artistic vastness."
+      "paragraph": " And, when it comes to Bengali culture, its literature, and social commentary holds a certain power second to none. Hence, this became the very motto of the Bengali Literature Club. The club aims to promote and engage enthusiasts in the vast collection of media that can be explored. It aims to pay their respect to the writers, poets, journalists and artists who have enriched the Bengali culture with their contributions. To preserve the culture, and to encourage young readers being the other primary goals."
     },
-
     "section2": {
-      "paragraph": "Amidst intellectually stimulating quiz modules, essay writing competitions, and the poetic dance of words in our Poetry Enclave, we also recognize the significance of International Mother Language Day (IMLD). This day holds a special place in our cultural journey, emphasizing the importance of linguistic diversity and celebrating the essence of our mother tongue. In the rhythmic heartbeat of Illuminits' Bengali Society, where events form a harmonious narrative, we invite everyone to embrace the essence, celebrate the diversity, and let the cultural voyage unfold. স্বাগতম!(Welcome!)",
+      "paragraph": "“Language is the blood of the soul into which thoughts run and out of which they grow” —Oliver Wendell Holmes Sr \n A vital aspect of cultural identity, a mother language is not just a tool of communication but a profound expression of heritage, history and human connection. Observed on 21st February every year, International Mother Language Day commemorates the significance of the martyrs of the Language Movement in Bangladesh in 1952. The day celebrates linguistic diversity and promotes its preservation and protection. A mother language is a thread that connects us and breaks down social barriers. Here’s to the languages that shape our thoughts, emotions and identities. Illuminits wishes you a hearty International Mother Language Day. Let us cherish and protect the languages that make us who we are স্বাগতম!(Welcome!)",
       "image": "https://res-console.cloudinary.com/dnikdowjp/thumbnails/v1/image/upload/v1705842256/Q2x1Yi1kZXRhaWwtaW1hZ2VzLzFfbWRFUmZ3ZlgxNmxTVGhTdlFMU1N4d193Zzd3bnZfY19wYWRfd181MTZfaF80MTZfcmF5bjNw/preview"
     },
-
     "section3": {
-      "heading":"Lorem ipsum dolor sit amet",
-      "paragraph": "Step into the cultural kaleidoscope of Illuminits' Bengali Literature Club, where a vibrant array of events awaits your exploration. Each event contributes to the vibrant story of Bengal's cultural mosaic. Explore, learn, and appreciate the rich heritage that defines us as we navigate the essence of Bengali culture together",
+      "heading": "Lorem ipsum dolor sit amet",
+      "paragraph": " Bengali Literature, with its vast collection of poetry, prose and other forms of writing has mostly been underrated, even in its translated form, for that to be properly promoted and for it to be appreciated, the Bengali Literature club is all about exploring the vast ocean of media that exists. From the writings of Rabindranath Thakur to the poetry of Kabi Nazrul Islam and the stories created by Satyajit Ray, exploring the power that our literature holds, and the magic that it creates becomes the primary focus of all the enthusiasts following this club.",
       "image": "https://res-console.cloudinary.com/dnikdowjp/thumbnails/v1/image/upload/v1705842254/Q2x1Yi1kZXRhaWwtaW1hZ2VzLzcyMTYyMDM4Nl9rMnlzbHpfY19maWxsX3dfNDc0X2hfMzU1X2NoMDg1aA==/preview"
     }
   },
-
-
-
   {
     "clubName": "Telugu and Tamil Literature Club",
-    "description":"The Tamil and Telugu Literature Club serves as a vibrant platform celebrating the rich literary traditions of Tamil and Telugu-speaking regions. Engaging enthusiasts in both classical and contemporary works, the club fosters discussions, readings, and cultural exchanges. Members delve into the poetic beauty of Tamil Sangam literature and the rich storytelling heritage of Telugu literature. Through this literary alliance, the club becomes a dynamic space for appreciating, preserving, and sharing the diverse narratives and linguistic treasures of Tamil and Telugu literature. ",
-
+    "description": "The Tamil and Telugu Literature Club serves as a vibrant platform celebrating the rich literary traditions of Tamil and Telugu-speaking regions. Engaging enthusiasts in both classical and contemporary works, the club fosters discussions, readings, and cultural exchanges. Members delve into the poetic beauty of Tamil Sangam literature and the rich storytelling heritage of Telugu literature. Through this literary alliance, the club becomes a dynamic space for appreciating, preserving, and sharing the diverse narratives and linguistic treasures of Tamil and Telugu literature. ",
     "ImageURL": "https://res.cloudinary.com/dqgmgvpu3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1704736419/telugu_and_tamil_literature_club_bg_image_ggvwvh.jpg?_s=public-apps",
-
     "section1": {
-      "image":"https://res-console.cloudinary.com/dnikdowjp/thumbnails/v1/image/upload/v1705843090/Q2x1Yi1kZXRhaWwtaW1hZ2VzL3NhbmdhbS1saXRlcmF0dXJlLXZlbGFua2FubmktaXllci1jbGFzc2ljYWwtbGFuZ3VhZ2UtYWthbS10aGFuamF2dXItc291dGgtaW5kaWEtdGFtaWxzLXRhbWlsLW5hZHUtc3Bva2VuLWxhbmd1YWdlX3FmbmlhYl9jX3BhZF93XzUxNl9oXzQxNl9oZGRka2Y=/preview",
+      "image": "https://res-console.cloudinary.com/dnikdowjp/thumbnails/v1/image/upload/v1705843090/Q2x1Yi1kZXRhaWwtaW1hZ2VzL3NhbmdhbS1saXRlcmF0dXJlLXZlbGFua2FubmktaXllci1jbGFzc2ljYWwtbGFuZ3VhZ2UtYWthbS10aGFuamF2dXItc291dGgtaW5kaWEtdGFtaWxzLXRhbWlsLW5hZHUtc3Bva2VuLWxhbmd1YWdlX3FmbmlhYl9jX3BhZF93XzUxNl9oXzQxNl9oZGRka2Y=/preview",
       "heading": "Lorem ipsum dolor sit amet,",
       "paragraph": "The Telugu and Tamil Literature Club, an integral part of Illuminits: Literary, Publication, and Fine Arts Society of NITS, stands as a vibrant hub for those immersed in the richness of language and culture. Devotees that admire Annamayya keerthanas to modern age Literary Saint renowned by Shri Shri, Telugu and Tamil Literature paves way for exploring all with creativity.  We honor and celebrate the diverse talents and perspectives of our members, fostering a supportive environment where literary minds can unite and flourish."
     },
-
     "section2": {
       "paragraph": "The Telugu and Tamil Literature Club proudly organizes a variety of events dedicated to the essence of language and storytelling, seizing every opportunity to showcase the profound beauty of our linguistic heritage. We extend a warm invitation to all students who harbor a love for the written word to join us on this journey of exploration, experimentation, and connection with the rich and transformative worlds of Telugu and Tamil literature. Together, let's weave narratives that reflect the diversity, beauty, and boundless imagination within each of us.      ",
       "image": "https://res-console.cloudinary.com/dnikdowjp/thumbnails/v1/image/upload/v1705843088/Q2x1Yi1kZXRhaWwtaW1hZ2VzL3RhbWlsLWZvb2RfdmExbXM3X2NfcGFkX3dfNTE2X2hfNDE2X25raXVhNA==/preview"
     },
-
     "section3": {
-      "heading":"Lorem ipsum dolor sit amet",
+      "heading": "Lorem ipsum dolor sit amet",
       "paragraph": "Embracing the lyrical verses of Tamil Sangam poetry and the storytelling prowess of Telugu literature, the club is a haven for literary enthusiasts. Through vibrant discussions and cultural exchanges, it cultivates an appreciation for the linguistic nuances, weaving a tapestry that honors the rich literary legacies of both Tamil and Telugu traditions.",
       "image": "https://res-console.cloudinary.com/dnikdowjp/thumbnails/v1/image/upload/v1705843086/Q2x1Yi1kZXRhaWwtaW1hZ2VzL3NhbmdhbV9saXRlcmF0dXJlX21vNXNjdF9jX3BhZF93XzQ3NF9oXzM1NV92eTNxYm4=/preview"
     }
   },
-
-
-
   {
     "clubName": "Digital Arts Club",
-    "description":"In an era dominated by technological advancements, the art world has witnessed a transformative shift towards digital expression. Among the pioneers of this revolution are Digital Art Clubs, dynamic communities that provide a platform for artists to explore, create, and showcase their work in the digital realm. This burgeoning movement has not only democratized artistic expression but has also fostered a vibrant community of like-minded individuals passionate about the intersection of art and technology.",
-
+    "description": "In an era dominated by technological advancements, the art world has witnessed a transformative shift towards digital expression. Among the pioneers of this revolution are Digital Art Clubs, dynamic communities that provide a platform for artists to explore, create, and showcase their work in the digital realm. This burgeoning movement has not only democratized artistic expression but has also fostered a vibrant community of like-minded individuals passionate about the intersection of art and technology.",
     "ImageURL": "https://res.cloudinary.com/dqgmgvpu3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1704736417/digital_arts_club_bg_image_migjxf.jpg?_s=public-apps",
-
     "section1": {
-      "image":"https://res-console.cloudinary.com/dnikdowjp/thumbnails/v1/image/upload/v1705843918/Q2x1Yi1kZXRhaWwtaW1hZ2VzL09JUF8yX2d1eGI2aV9jX3BhZF9iX2dlbl9maWxsX3dfNTE2X2hfNDE2X3U1NmFpMw==/preview",
+      "image": "https://res-console.cloudinary.com/dnikdowjp/thumbnails/v1/image/upload/v1705843918/Q2x1Yi1kZXRhaWwtaW1hZ2VzL09JUF8yX2d1eGI2aV9jX3BhZF9iX2dlbl9maWxsX3dfNTE2X2hfNDE2X3U1NmFpMw==/preview",
       "heading": "Lorem ipsum dolor sit amet,",
       "paragraph": "Digital Art Clubs have their roots in the increasing accessibility of digital tools and platforms for artistic creation. These clubs bring together artists, illustrators, animators, and enthusiasts who share a common interest in harnessing the power of technology to push the boundaries of artistic expression. The rise of graphic tablets, digital painting software, and immersive virtual reality experiences has paved the way for a new era of creativity. One of the defining features of Digital Art Clubs is the incredible diversity of artistic styles and techniques that members employ.     "
     },
-
     "section2": {
       "paragraph": "Digital Art Clubs leverage the interconnected nature of the internet to facilitate collaboration and networking among artists, regardless of geographical boundaries. Through online platforms, members can share their work, provide constructive feedback, and engage in collaborative projects. This sense of virtual community fosters a supportive environment where artists can grow, learn, and inspire one another. Digital Art Clubs often prioritize education and skill development. Members benefit from workshops, tutorials, and mentorship programs that help them hone their digital artistry skills. Whether it's mastering the intricacies of digital painting software or delving into the world of virtual reality art, these clubs provide a structured and supportive environment for continuous learning.",
       "image": "https://res-console.cloudinary.com/dnikdowjp/thumbnails/v1/image/upload/v1705843915/Q2x1Yi1kZXRhaWwtaW1hZ2VzL09JUF8xX2FjNGlieV9jX2ZpbGxfd181MTZfaF80MTZfYmx2bmhr/preview"
     },
-
     "section3": {
-      "heading":"Lorem ipsum dolor sit amet",
+      "heading": "Lorem ipsum dolor sit amet",
       "paragraph": "Digital Art Clubs represent a paradigm shift in the way artists engage with their craft. Through the fusion of technology and artistic expression, these communities are fostering a new era of creativity and collaboration. As digital tools and platforms continue to evolve, Digital Art Clubs are poised to play an instrumental role in shaping the future of artistic expression in the digital age.",
       "image": "https://res-console.cloudinary.com/dnikdowjp/thumbnails/v1/image/upload/v1705843910/Q2x1Yi1kZXRhaWwtaW1hZ2VzL09JUF8zX2xnc3M3Y19jX2ZpbGxfd180NzRfaF8zNTVfbjJleW9w/preview"
     }
   },
-
-
-
   {
     "clubName": "Fine Arts Club",
-    "description":"Fine Arts Clubs trace their origins to a shared love for artistic endeavors and the desire to create a supportive community for individuals seeking to explore and enhance their artistic talents. Whether based in educational institutions, community centers, or online platforms, these clubs provide a space for individuals to engage in various forms of visual arts, from traditional painting to contemporary digital art.",
+    "description": "Fine Arts Clubs trace their origins to a shared love for artistic endeavors and the desire to create a supportive community for individuals seeking to explore and enhance their artistic talents. Whether based in educational institutions, community centers, or online platforms, these clubs provide a space for individuals to engage in various forms of visual arts, from traditional painting to contemporary digital art.",
     "ImageURL": "https://res.cloudinary.com/dqgmgvpu3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1704736416/fine_arts_club_bg_mcadfh.jpg?_s=public-apps",
-
     "section1": {
-      "image":"https://res.cloudinary.com/dnikdowjp/image/upload/v1705844570/Club-detail-images/R_xfy3bu_c_fill_w_516_h_416_hj3x3l.jpg",
+      "image": "https://res.cloudinary.com/dnikdowjp/image/upload/v1705844570/Club-detail-images/R_xfy3bu_c_fill_w_516_h_416_hj3x3l.jpg",
       "heading": "Lorem ipsum dolor sit amet,",
       "paragraph": "Central to the mission of Fine Arts Clubs is the facilitation of artistic growth and skill development. Through workshops, live demonstrations, and collaborative projects, members have the opportunity to learn diverse techniques, experiment with different mediums, and refine their artistic styles. The collaborative spirit within these clubs often leads to a vibrant exchange of ideas, inspiring members to push their creative boundaries. Fine Arts Clubs embrace a wide spectrum of artistic forms, encompassing painting, drawing, sculpture, printmaking, photography, and more. "
     },
-
     "section2": {
-      "paragraph": "A hallmark of Fine Arts Clubs is the emphasis on providing opportunities for members to showcase their work. Whether through gallery exhibitions, online showcases, or public installations, these platforms serve as a springboard for artists to share their creations with a broader audience. The exposure gained from these opportunities not only boosts confidence but also encourages a sense of accomplishment and validation. Fine Arts Clubs are more than creative spaces; they are communities that foster camaraderie among artists. Members share experiences, provide constructive feedback, and form connections that extend beyond the studio. Networking within these clubs can lead to collaborative projects, joint exhibitions, and a sense of belonging within the broader artistic community."      ,
+      "paragraph": "A hallmark of Fine Arts Clubs is the emphasis on providing opportunities for members to showcase their work. Whether through gallery exhibitions, online showcases, or public installations, these platforms serve as a springboard for artists to share their creations with a broader audience. The exposure gained from these opportunities not only boosts confidence but also encourages a sense of accomplishment and validation. Fine Arts Clubs are more than creative spaces; they are communities that foster camaraderie among artists. Members share experiences, provide constructive feedback, and form connections that extend beyond the studio. Networking within these clubs can lead to collaborative projects, joint exhibitions, and a sense of belonging within the broader artistic community.",
       "image": "https://res.cloudinary.com/dnikdowjp/image/upload/v1705844573/Club-detail-images/OIP_4_lujhm0_c_pad_w_516_h_416_yu7ume.jpg"
     },
-
     "section3": {
-      "heading":"Lorem ipsum dolor sit amet",
+      "heading": "Lorem ipsum dolor sit amet",
       "paragraph": "The Fine Arts Club stands as a testament to the transformative power of artistic expression. By providing a nurturing space for creativity to flourish, these clubs empower artists to delve into the realms of imagination, emotion, and aesthetic exploration. As they continue to evolve, Fine Arts Clubs contribute not only to the personal growth of their members but also to the enrichment of the cultural landscape through the enduring beauty and impact of visual art.",
       "image": "https://res.cloudinary.com/dnikdowjp/image/upload/v1705844567/Club-detail-images/OIP_5_wmwtqp_c_fill_w_474_h_355_jvv67l.jpg"
     }
   },
-
-
   {
     "clubName": "Journalism Club",
-    "description":"In the dynamic world of media and information, Journalism Publication Clubs have emerged as crucibles for aspiring journalists and writers eager to explore the nuances of investigative reporting, storytelling, and the ethical responsibilities that come with disseminating news. These clubs serve as incubators for budding journalists, providing a platform to hone their skills, engage in critical discussions, and contribute meaningfully to the broader landscape of journalism.",
-
+    "description": " The Journalism Club has set its sights into a bright horizon with active efforts in delivering news on diverse topics and teaching and making the art of journalism accessible to all.",
     "ImageURL": "https://res.cloudinary.com/dqgmgvpu3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1704736423/journalism_club_bg_pnptc1.jpg?_s=public-apps",
-
     "section1": {
-      "image":"https://res.cloudinary.com/dnikdowjp/image/upload/v1705845528/Club-detail-images/OIP_6_aodxqo_c_crop_w_516_h_416_q9scdi.jpg",
+      "image": "https://res.cloudinary.com/dnikdowjp/image/upload/v1705845528/Club-detail-images/OIP_6_aodxqo_c_crop_w_516_h_416_q9scdi.jpg",
       "heading": "Lorem ipsum dolor sit amet,",
-      "paragraph": "Journalism Publication Clubs have their origins in the shared passion for journalism and the desire to create a space where individuals can actively participate in the dissemination of news. These clubs are often founded within educational institutions, community centers, or online platforms, fostering an environment that encourages free expression and the pursuit of truth. One of the primary objectives of Journalism Publication Clubs is to facilitate learning and development among aspiring journalists. "
+      "paragraph": " Since its inception, the club has taken many key initiatives by increasing the engagement and improving the readership participants through social media. The club has also taken very deliberate steps to report on diverse, informative topics. And through active teamwork and collaboration, the club has maintained a loyal readership and cemented itself as a well respected club of NIT Silchar. "
     },
-
     "section2": {
-      "paragraph": "Journalism Publication Clubs serve as forums for critical discourse and debates on contemporary issues. Members engage in discussions about media ethics, the role of journalism in society, and the challenges facing the industry. These platforms foster a culture of intellectual curiosity and equip members with the skills to analyze and articulate their perspectives on complex social, political, and cultural issues. Central to the mission of Journalism Publication Clubs is the opportunity for members to see their work published.",
+      "paragraph": " The club has also greatly enriched the studens' lives by promoting creativity and free, constructive expression among students. It has also fostered a sense of community development and involvement which is integral for a club and the college as a whole.",
       "image": "https://res.cloudinary.com/dnikdowjp/image/upload/v1705845525/Club-detail-images/Different-Types-of-Journalism-and-which-courses-other-than-mass-media-can-be-pursued-with-Journalism_xuk0ht_c_fill_w_474_h_355_vao8m9.jpg"
     },
-
     "section3": {
-      "heading":"Lorem ipsum dolor sit amet",
-      "paragraph": "The Journalism Publication Club stands as a beacon for those passionate about the power of words to inform, inspire, and shape public opinion. Aspiring journalists find not only a space to learn and develop their skills but also a community that shares their commitment to truth, transparency, and the vital role journalism plays in a democratic society. ",
+      "heading": "Lorem ipsum dolor sit amet",
+      "paragraph": " The club has one of the most promising future with its plans to digitise its platform for better outreach. The club has plans to integrate various emerging technologies in its working such as data journalism tools, interactive media etc. With new recruits pouring in every year, the club are honing their skills and guiding them by providing internships and training programmes. Thus this club has the potential to soar greatest of heights and change the face of journalism for the better.",
       "image": "https://res.cloudinary.com/dnikdowjp/image/upload/v1705845526/Club-detail-images/Journalism_courses_bdueeb_c_fill_w_516_h_416_j6owrk.jpg"
     }
   },
-
-
-
   {
     "clubName": "Publication Club",
-    "description":"The Publication Club is a literary haven where words come alive. Fostering a community of avid readers, it explores diverse genres and engages in thought-provoking discussions. From classic novels to contemporary gems, the club cultivates a shared love for literature. Join us on a journey of discovery, as we celebrate the power of words and the joy of reading. Dive into the world of stories with the Publication Club. Uncover hidden literary gems, share insights, and cherish the collective passion for reading and storytelling. ",
-
+    "description": "The Publication Club is a literary haven where words come alive. Fostering a community of avid readers, it explores diverse genres and engages in thought-provoking discussions. From classic novels to contemporary gems, the club cultivates a shared love for literature. Join us on a journey of discovery, as we celebrate the power of words and the joy of reading. Dive into the world of stories with the Publication Club. Uncover hidden literary gems, share insights, and cherish the collective passion for reading and storytelling. ",
     "ImageURL": "https://res.cloudinary.com/dqgmgvpu3/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1704736426/publication_club_bg_pvj7po.jpg?_s=public-apps",
-
     "section1": {
-      "image":"https://res.cloudinary.com/dnikdowjp/image/upload/v1705846349/Club-detail-images/OIP_7_xxufr4_c_fill_w_516_h_416_affp51.jpg",
+      "image": "https://res.cloudinary.com/dnikdowjp/image/upload/v1705846349/Club-detail-images/OIP_7_xxufr4_c_fill_w_516_h_416_affp51.jpg",
       "heading": "Lorem ipsum dolor sit amet,",
       "paragraph": "In the heart of intellectual exploration, the Publication Club thrives as a literary sanctuary. Committed to unraveling the tapestry of words, it embarks on a quest through diverse realms of literature. From timeless classics to contemporary marvels, each page turned fosters vibrant discussions. The club's essence lies in the shared excitement of discovery, where literary enthusiasts unite to dissect narratives, explore themes, and celebrate the written word. A collaborative journey unfolds, echoing the profound impact of literature on hearts and minds. Join this literary fellowship, where every book becomes a portal to new worlds, ideas, and the collective joy of literary exploration"
     },
-
     "section2": {
       "paragraph": "The Publication Club, a haven for literary enthusiasts, navigates the vast expanse of literature, from ancient sagas to modern tales. It's a dynamic space where readers converge to dissect plots, explore characters, and share the sheer delight of storytelling. With each meeting, the club illuminates the transformative power of words, creating an ever-evolving narrative mosaic. Join us in this literary odyssey, where books are more than pages; they're portals to imagination, knowledge, and the shared passion for the written art.",
       "image": "https://res.cloudinary.com/dnikdowjp/image/upload/v1705846351/Club-detail-images/OIP_8_dfukgy_c_fill_w_516_h_416_dczcbl.jpg"
     },
-
     "section3": {
-      "heading":"Lorem ipsum dolor sit amet",
+      "heading": "Lorem ipsum dolor sit amet",
       "paragraph": "In conclusion, the Publication Club transcends mere discussions; it's a collective odyssey through literary realms. As we navigate the vast landscapes of stories, we find unity in diverse narratives. The shared passion for literature transforms meetings into celebrations of imagination and knowledge. It's not just a club; it's a gateway to the timeless magic that words weave.",
       "image": "https://res.cloudinary.com/dnikdowjp/image/upload/v1705846348/Club-detail-images/671822c2f63dd5f65d8fd15c9710420b_ozbmxu_c_fill_w_474_h_355_dc0pos.jpg"
     }

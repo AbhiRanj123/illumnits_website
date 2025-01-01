@@ -19,6 +19,7 @@
     "react-router-dom": "^6.21.1",
     "react-timelines": "^2.6.1",
     "react-vertical-timeline-component": "^3.6.0",
+    "save-dev": "^0.0.1-security",
     "swiper": "^11.0.5"
   },
   "devDependencies": {
@@ -37,6 +38,6 @@
     "saas": "^1.0.0",
     "sass": "^1.69.5",
     "scss": "^0.2.4",
-    "vite": "^5.0.8"
+    "vite": "^5.4.11"
   }
 }
