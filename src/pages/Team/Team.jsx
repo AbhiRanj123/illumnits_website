@@ -1,5 +1,3 @@
-
-
 import { useState } from "react";
 import TeamCard from "../../components/TeamCard/TeamCard";
 import Dropdown from "../../components/Dropdown/Dropdown";
@@ -85,25 +83,47 @@ const Team = () => {
 
       {/* Display Selected Team Members */}
       <div className={styles.teamContainer}>
-        {(isCoreSelected ? coreTeam : techTeam).map((item) => (
-          <div key={item.id} className={styles.innerContainer}>
-            <h2>{item.Team}</h2>
-            <div className={styles.cardCont}>
-              {item.Members.map((member) => (
-                <TeamCard
-                  key={member.id}
-                  name={member.name}
-                  designation={member.designation}
-                  insta={member.insta}
-                  facebook={member.facebook}
-                  linkedin={member.Linkedin}
-                  github={member.github}
-                  img={member.image}
-                />
-              ))}
+        {isCoreSelected &&
+          coreTeam.map((item) => (
+            <div key={item.id} className={styles.innerContainer}>
+              <h2>{item.Team}</h2>
+              <div className={styles.cardCont}>
+                {item.Members.map((member) => (
+                  <TeamCard
+                    key={member.id}
+                    name={member.name}
+                    designation={member.designation}
+                    insta={member.insta}
+                    facebook={member.facebook}
+                    linkedin={member.Linkedin}
+                    github={member.github}
+                    img={member.image}
+                  />
+                ))}
+              </div>
             </div>
-          </div>
-        ))}
+          ))}
+
+        {!isCoreSelected &&
+          techTeam.map((item) => (
+            <div key={item.id} className={styles.innerContainer}>
+              <h2>{item.Team}</h2>
+              <div className={styles.cardCont}>
+                {item.Members.map((member) => (
+                  <TeamCard
+                    key={member.id}
+                    name={member.name}
+                    designation={member.designation}
+                    insta={member.insta}
+                    facebook={member.facebook}
+                    linkedin={member.Linkedin}
+                    github={member.github}
+                    img={member.image}
+                  />
+                ))}
+              </div>
+            </div>
+          ))}
       </div>
     </div>
   );
